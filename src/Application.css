@@ -1,0 +1,53 @@
+#homes:hover{
+    -fx-background-color: rgb(20, 110, 146);
+}
+#sidebar{
+    -fx-background-color: white;
+}
+#login{
+    -fx-background-color: blue;
+    -fx-text-fill: white;
+}
+#search{
+    -fx-background-color: #8a2be2;
+    -fx-text-fill: white;
+    -fx-border-radius:10px;
+
+}
+#menuAccess{
+    -fx-background-color: rgb(7, 7, 43);
+    -fx-text-fill: white;
+    -fx-font-weight:bold;
+      -fx-border-radius: 10px;
+}
+#home{
+    -fx-background-color: white;
+}
+#homes{
+     -fx-background-color:rgb(4, 4, 41);
+     -fx-border-radius: 10px;
+
+}
+#homeLabel{
+    -fx-background-color: rgb(5, 5, 43);
+    -fx-text-fill: white;
+      -fx-border-radius: 10px;
+}
+#reg{
+    -fx-background-color:blue;
+    -fx-text-fill:white;
+}
+#headers{
+    
+}
+#courseLabelled,#learnerLabel{
+    -fx-background-color: rgb(5, 5, 43);
+    -fx-text-fill: white;
+}
+#view{
+    -fx-background-color:green;
+    -fx-text-fill:white;
+}
+#update{
+    -fx-background-color:rgb(16, 145, 168);
+}

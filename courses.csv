@@ -1,0 +1,52 @@
+courseID,name
+EB1,Social Work
+EB2,International Relations
+EB3,Information Technology
+EB4,Software Engineering
+EB5,Electrical Engineering
+EB6,Mechanical Engineering
+EB7,Civil Engineering
+EB8,Chemical Engineering
+EB9,Biomedical Engineering
+EB10,Actuarial Science
+EB11,Mathematics
+EB12,Statistics
+EB13,Physics
+EB14,Chemistry
+EB15,Biology
+CB1,Environmental Science
+CB2,Agricultural Science
+CB3,Economics
+CB4,Finance
+CB5,Accounting
+CB6,Business Administration
+CB7,Marketing
+CB8,Human Resource Management
+CB9,Political Science
+CB10,Sociology
+CB11,Psychology
+CB12,Philosophy
+CB13,History
+CB14,Literature
+CB15,Education
+CB16,Nursing
+ENG1,Medicine
+ENG2,Pharmacy
+ENG3,Law
+ENG4,Criminology
+ENG5,Anthropology
+ENG6,Geography
+ENG7,Architecture
+ENG8,Fine Arts
+ENG9,Music
+ENG10,Theatre Arts
+BC1,Data Science
+BC2,Artificial Intelligence
+BC3,Cybersecurity
+BC4,Cloud Computing
+BC5,Robotics
+BC6,Astronomy
+BC7,Biotechnology
+BC8,Food Science
+BC9,Veterinary Medicine
+BC10,Public Health

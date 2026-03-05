@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="home" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="686.0" prefWidth="1442.0" xmlns="http://javafx.com/javafx/25" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller">
+   <children>
+      <AnchorPane id="header" prefHeight="213.0" prefWidth="974.0">
+         <children>
+            <Label layoutX="332.0" layoutY="62.0" prefHeight="39.0" prefWidth="543.0" text="                 INDIANA UNIVERSITY">
+               <font>
+                  <Font name="Arial Rounded MT Bold" size="36.0" />
+               </font>
+            </Label>
+            <Label layoutX="422.0" layoutY="121.0" prefHeight="28.0" prefWidth="441.0" text="                    Nitere ad excellendum" textFill="#970a0a">
+               <font>
+                  <Font name="Bauhaus 93" size="24.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+      <Label layoutX="481.0" layoutY="245.0" prefHeight="52.0" prefWidth="486.0" text="Enter the Details Below to Login">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Label>
+      <TextField fx:id="regNo" layoutX="485.0" layoutY="362.0" prefHeight="43.0" prefWidth="380.0" promptText="Enter Registration Number" />
+      <Label layoutX="484.0" layoutY="316.0" prefHeight="26.0" prefWidth="279.0" text="Registration Number" textFill="#0834b5">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="483.0" layoutY="414.0" prefHeight="39.0" prefWidth="279.0" text="Password" textFill="#b306bf">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Label>
+      <TextField fx:id="password" layoutX="485.0" layoutY="473.0" onAction="#login" prefHeight="52.0" prefWidth="380.0" promptText="Enter your password" />
+      <Button fx:id="login" layoutX="486.0" layoutY="558.0" mnemonicParsing="false" onAction="#login" prefHeight="39.0" prefWidth="380.0" text="Sign in" textFill="#403b3a">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Button>
+      <AnchorPane fx:id="menuAccess" layoutX="2.0" layoutY="-3.0" prefHeight="53.0" prefWidth="1449.0" />
+   </children>
+</AnchorPane>

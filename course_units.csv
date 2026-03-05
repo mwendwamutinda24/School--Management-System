@@ -1,0 +1,2887 @@
+unit_name,unit_code,courseID,year,semester
+Cyber Security,EB1-Y1S1U01,EB1,1,1
+Introduction to Programming,EB1-Y1S1U02,EB1,1,1
+Mobile Application Development,EB1-Y1S1U03,EB1,1,1
+Algorithms,EB1-Y1S1U04,EB1,1,1
+Distributed Systems,EB1-Y1S1U05,EB1,1,1
+Human Computer Interaction,EB1-Y1S1U06,EB1,1,1
+Human Computer Interaction,EB1-Y1S2U01,EB1,1,2
+Introduction to Programming,EB1-Y1S2U02,EB1,1,2
+Operating Systems,EB1-Y1S2U03,EB1,1,2
+Algorithms,EB1-Y1S2U04,EB1,1,2
+Database Systems,EB1-Y1S2U05,EB1,1,2
+Algorithms,EB1-Y1S2U06,EB1,1,2
+Web Development,EB1-Y1S2U07,EB1,1,2
+Distributed Systems,EB1-Y1S2U08,EB1,1,2
+Cyber Security,EB1-Y1S2U09,EB1,1,2
+Computer Networks,EB1-Y2S1U01,EB1,2,1
+Compiler Design,EB1-Y2S1U02,EB1,2,1
+Mobile Application Development,EB1-Y2S1U03,EB1,2,1
+Introduction to Programming,EB1-Y2S1U04,EB1,2,1
+Machine Learning,EB1-Y2S1U05,EB1,2,1
+Data Structures,EB1-Y2S1U06,EB1,2,1
+Web Development,EB1-Y2S2U01,EB1,2,2
+Cyber Security,EB1-Y2S2U02,EB1,2,2
+Database Systems,EB1-Y2S2U03,EB1,2,2
+Artificial Intelligence,EB1-Y2S2U04,EB1,2,2
+Algorithms,EB1-Y2S2U05,EB1,2,2
+Distributed Systems,EB1-Y2S2U06,EB1,2,2
+Introduction to Programming,EB1-Y2S2U07,EB1,2,2
+Cyber Security,EB1-Y2S2U08,EB1,2,2
+Algorithms,EB1-Y2S2U09,EB1,2,2
+Compiler Design,EB1-Y3S1U01,EB1,3,1
+Operating Systems,EB1-Y3S1U02,EB1,3,1
+Algorithms,EB1-Y3S1U03,EB1,3,1
+Compiler Design,EB1-Y3S1U04,EB1,3,1
+Computer Networks,EB1-Y3S1U05,EB1,3,1
+Algorithms,EB1-Y3S2U01,EB1,3,2
+Cyber Security,EB1-Y3S2U02,EB1,3,2
+Machine Learning,EB1-Y3S2U03,EB1,3,2
+Machine Learning,EB1-Y3S2U04,EB1,3,2
+Introduction to Programming,EB1-Y3S2U05,EB1,3,2
+Artificial Intelligence,EB1-Y3S2U06,EB1,3,2
+Artificial Intelligence,EB1-Y4S1U01,EB1,4,1
+Operating Systems,EB1-Y4S1U02,EB1,4,1
+Database Systems,EB1-Y4S1U03,EB1,4,1
+Compiler Design,EB1-Y4S1U04,EB1,4,1
+Software Engineering,EB1-Y4S1U05,EB1,4,1
+Operating Systems,EB1-Y4S1U06,EB1,4,1
+Software Engineering,EB1-Y4S1U07,EB1,4,1
+Operating Systems,EB1-Y4S1U08,EB1,4,1
+Introduction to Programming,EB1-Y4S1U09,EB1,4,1
+Computer Networks,EB1-Y4S2U01,EB1,4,2
+Compiler Design,EB1-Y4S2U02,EB1,4,2
+Compiler Design,EB1-Y4S2U03,EB1,4,2
+Database Systems,EB1-Y4S2U04,EB1,4,2
+Computer Networks,EB1-Y4S2U05,EB1,4,2
+Software Engineering,EB1-Y4S2U06,EB1,4,2
+Cyber Security,EB1-Y4S2U07,EB1,4,2
+Operating Systems,EB2-Y1S1U01,EB2,1,1
+Data Structures,EB2-Y1S1U02,EB2,1,1
+Introduction to Programming,EB2-Y1S1U03,EB2,1,1
+Machine Learning,EB2-Y1S1U04,EB2,1,1
+Algorithms,EB2-Y1S1U05,EB2,1,1
+Artificial Intelligence,EB2-Y1S1U06,EB2,1,1
+Operating Systems,EB2-Y1S1U07,EB2,1,1
+Introduction to Programming,EB2-Y1S1U08,EB2,1,1
+Machine Learning,EB2-Y1S2U01,EB2,1,2
+Human Computer Interaction,EB2-Y1S2U02,EB2,1,2
+Cyber Security,EB2-Y1S2U03,EB2,1,2
+Introduction to Programming,EB2-Y1S2U04,EB2,1,2
+Database Systems,EB2-Y1S2U05,EB2,1,2
+Data Structures,EB2-Y1S2U06,EB2,1,2
+Cyber Security,EB2-Y1S2U07,EB2,1,2
+Database Systems,EB2-Y2S1U01,EB2,2,1
+Mobile Application Development,EB2-Y2S1U02,EB2,2,1
+Data Structures,EB2-Y2S1U03,EB2,2,1
+Mobile Application Development,EB2-Y2S1U04,EB2,2,1
+Human Computer Interaction,EB2-Y2S1U05,EB2,2,1
+Operating Systems,EB2-Y2S1U06,EB2,2,1
+Web Development,EB2-Y2S2U01,EB2,2,2
+Introduction to Programming,EB2-Y2S2U02,EB2,2,2
+Operating Systems,EB2-Y2S2U03,EB2,2,2
+Operating Systems,EB2-Y2S2U04,EB2,2,2
+Algorithms,EB2-Y2S2U05,EB2,2,2
+Database Systems,EB2-Y3S1U01,EB2,3,1
+Operating Systems,EB2-Y3S1U02,EB2,3,1
+Artificial Intelligence,EB2-Y3S1U03,EB2,3,1
+Operating Systems,EB2-Y3S1U04,EB2,3,1
+Operating Systems,EB2-Y3S1U05,EB2,3,1
+Algorithms,EB2-Y3S1U06,EB2,3,1
+Mobile Application Development,EB2-Y3S2U01,EB2,3,2
+Data Structures,EB2-Y3S2U02,EB2,3,2
+Data Structures,EB2-Y3S2U03,EB2,3,2
+Machine Learning,EB2-Y3S2U04,EB2,3,2
+Mobile Application Development,EB2-Y3S2U05,EB2,3,2
+Algorithms,EB2-Y3S2U06,EB2,3,2
+Distributed Systems,EB2-Y3S2U07,EB2,3,2
+Cyber Security,EB2-Y3S2U08,EB2,3,2
+Algorithms,EB2-Y3S2U09,EB2,3,2
+Operating Systems,EB2-Y4S1U01,EB2,4,1
+Operating Systems,EB2-Y4S1U02,EB2,4,1
+Distributed Systems,EB2-Y4S1U03,EB2,4,1
+Human Computer Interaction,EB2-Y4S1U04,EB2,4,1
+Algorithms,EB2-Y4S1U05,EB2,4,1
+Compiler Design,EB2-Y4S1U06,EB2,4,1
+Distributed Systems,EB2-Y4S1U07,EB2,4,1
+Artificial Intelligence,EB2-Y4S1U08,EB2,4,1
+Software Engineering,EB2-Y4S2U01,EB2,4,2
+Machine Learning,EB2-Y4S2U02,EB2,4,2
+Machine Learning,EB2-Y4S2U03,EB2,4,2
+Machine Learning,EB2-Y4S2U04,EB2,4,2
+Computer Networks,EB2-Y4S2U05,EB2,4,2
+Data Structures,EB2-Y4S2U06,EB2,4,2
+Mobile Application Development,EB3-Y1S1U01,EB3,1,1
+Artificial Intelligence,EB3-Y1S1U02,EB3,1,1
+Machine Learning,EB3-Y1S1U03,EB3,1,1
+Database Systems,EB3-Y1S1U04,EB3,1,1
+Database Systems,EB3-Y1S1U05,EB3,1,1
+Artificial Intelligence,EB3-Y1S1U06,EB3,1,1
+Artificial Intelligence,EB3-Y1S1U07,EB3,1,1
+Distributed Systems,EB3-Y1S1U08,EB3,1,1
+Introduction to Programming,EB3-Y1S1U09,EB3,1,1
+Distributed Systems,EB3-Y1S2U01,EB3,1,2
+Compiler Design,EB3-Y1S2U02,EB3,1,2
+Web Development,EB3-Y1S2U03,EB3,1,2
+Artificial Intelligence,EB3-Y1S2U04,EB3,1,2
+Computer Networks,EB3-Y1S2U05,EB3,1,2
+Data Structures,EB3-Y1S2U06,EB3,1,2
+Human Computer Interaction,EB3-Y2S1U01,EB3,2,1
+Operating Systems,EB3-Y2S1U02,EB3,2,1
+Mobile Application Development,EB3-Y2S1U03,EB3,2,1
+Compiler Design,EB3-Y2S1U04,EB3,2,1
+Database Systems,EB3-Y2S1U05,EB3,2,1
+Data Structures,EB3-Y2S2U01,EB3,2,2
+Web Development,EB3-Y2S2U02,EB3,2,2
+Data Structures,EB3-Y2S2U03,EB3,2,2
+Human Computer Interaction,EB3-Y2S2U04,EB3,2,2
+Mobile Application Development,EB3-Y2S2U05,EB3,2,2
+Cyber Security,EB3-Y2S2U06,EB3,2,2
+Cyber Security,EB3-Y2S2U07,EB3,2,2
+Computer Networks,EB3-Y3S1U01,EB3,3,1
+Machine Learning,EB3-Y3S1U02,EB3,3,1
+Human Computer Interaction,EB3-Y3S1U03,EB3,3,1
+Introduction to Programming,EB3-Y3S1U04,EB3,3,1
+Human Computer Interaction,EB3-Y3S1U05,EB3,3,1
+Operating Systems,EB3-Y3S1U06,EB3,3,1
+Operating Systems,EB3-Y3S1U07,EB3,3,1
+Cyber Security,EB3-Y3S1U08,EB3,3,1
+Compiler Design,EB3-Y3S1U09,EB3,3,1
+Computer Networks,EB3-Y3S2U01,EB3,3,2
+Human Computer Interaction,EB3-Y3S2U02,EB3,3,2
+Data Structures,EB3-Y3S2U03,EB3,3,2
+Distributed Systems,EB3-Y3S2U04,EB3,3,2
+Cyber Security,EB3-Y3S2U05,EB3,3,2
+Cyber Security,EB3-Y3S2U06,EB3,3,2
+Mobile Application Development,EB3-Y3S2U07,EB3,3,2
+Mobile Application Development,EB3-Y3S2U08,EB3,3,2
+Introduction to Programming,EB3-Y3S2U09,EB3,3,2
+Data Structures,EB3-Y4S1U01,EB3,4,1
+Data Structures,EB3-Y4S1U02,EB3,4,1
+Mobile Application Development,EB3-Y4S1U03,EB3,4,1
+Computer Networks,EB3-Y4S1U04,EB3,4,1
+Operating Systems,EB3-Y4S1U05,EB3,4,1
+Introduction to Programming,EB3-Y4S2U01,EB3,4,2
+Introduction to Programming,EB3-Y4S2U02,EB3,4,2
+Operating Systems,EB3-Y4S2U03,EB3,4,2
+Machine Learning,EB3-Y4S2U04,EB3,4,2
+Compiler Design,EB3-Y4S2U05,EB3,4,2
+Data Structures,EB3-Y4S2U06,EB3,4,2
+Software Engineering,EB4-Y1S1U01,EB4,1,1
+Introduction to Programming,EB4-Y1S1U02,EB4,1,1
+Introduction to Programming,EB4-Y1S1U03,EB4,1,1
+Compiler Design,EB4-Y1S1U04,EB4,1,1
+Distributed Systems,EB4-Y1S1U05,EB4,1,1
+Artificial Intelligence,EB4-Y1S2U01,EB4,1,2
+Cyber Security,EB4-Y1S2U02,EB4,1,2
+Machine Learning,EB4-Y1S2U03,EB4,1,2
+Mobile Application Development,EB4-Y1S2U04,EB4,1,2
+Web Development,EB4-Y1S2U05,EB4,1,2
+Web Development,EB4-Y1S2U06,EB4,1,2
+Artificial Intelligence,EB4-Y1S2U07,EB4,1,2
+Compiler Design,EB4-Y1S2U08,EB4,1,2
+Distributed Systems,EB4-Y1S2U09,EB4,1,2
+Web Development,EB4-Y2S1U01,EB4,2,1
+Cyber Security,EB4-Y2S1U02,EB4,2,1
+Compiler Design,EB4-Y2S1U03,EB4,2,1
+Machine Learning,EB4-Y2S1U04,EB4,2,1
+Human Computer Interaction,EB4-Y2S1U05,EB4,2,1
+Cyber Security,EB4-Y2S1U06,EB4,2,1
+Computer Networks,EB4-Y2S1U07,EB4,2,1
+Machine Learning,EB4-Y2S1U08,EB4,2,1
+Data Structures,EB4-Y2S1U09,EB4,2,1
+Web Development,EB4-Y2S2U01,EB4,2,2
+Human Computer Interaction,EB4-Y2S2U02,EB4,2,2
+Human Computer Interaction,EB4-Y2S2U03,EB4,2,2
+Algorithms,EB4-Y2S2U04,EB4,2,2
+Cyber Security,EB4-Y2S2U05,EB4,2,2
+Introduction to Programming,EB4-Y3S1U01,EB4,3,1
+Database Systems,EB4-Y3S1U02,EB4,3,1
+Compiler Design,EB4-Y3S1U03,EB4,3,1
+Artificial Intelligence,EB4-Y3S1U04,EB4,3,1
+Artificial Intelligence,EB4-Y3S1U05,EB4,3,1
+Distributed Systems,EB4-Y3S1U06,EB4,3,1
+Web Development,EB4-Y3S1U07,EB4,3,1
+Introduction to Programming,EB4-Y3S2U01,EB4,3,2
+Web Development,EB4-Y3S2U02,EB4,3,2
+Introduction to Programming,EB4-Y3S2U03,EB4,3,2
+Compiler Design,EB4-Y3S2U04,EB4,3,2
+Mobile Application Development,EB4-Y3S2U05,EB4,3,2
+Compiler Design,EB4-Y3S2U06,EB4,3,2
+Cyber Security,EB4-Y3S2U07,EB4,3,2
+Software Engineering,EB4-Y3S2U08,EB4,3,2
+Compiler Design,EB4-Y3S2U09,EB4,3,2
+Operating Systems,EB4-Y4S1U01,EB4,4,1
+Human Computer Interaction,EB4-Y4S1U02,EB4,4,1
+Database Systems,EB4-Y4S1U03,EB4,4,1
+Machine Learning,EB4-Y4S1U04,EB4,4,1
+Software Engineering,EB4-Y4S1U05,EB4,4,1
+Artificial Intelligence,EB4-Y4S1U06,EB4,4,1
+Web Development,EB4-Y4S1U07,EB4,4,1
+Operating Systems,EB4-Y4S1U08,EB4,4,1
+Compiler Design,EB4-Y4S1U09,EB4,4,1
+Operating Systems,EB4-Y4S2U01,EB4,4,2
+Compiler Design,EB4-Y4S2U02,EB4,4,2
+Human Computer Interaction,EB4-Y4S2U03,EB4,4,2
+Human Computer Interaction,EB4-Y4S2U04,EB4,4,2
+Data Structures,EB4-Y4S2U05,EB4,4,2
+Artificial Intelligence,EB4-Y4S2U06,EB4,4,2
+Introduction to Programming,EB5-Y1S1U01,EB5,1,1
+Web Development,EB5-Y1S1U02,EB5,1,1
+Cyber Security,EB5-Y1S1U03,EB5,1,1
+Operating Systems,EB5-Y1S1U04,EB5,1,1
+Operating Systems,EB5-Y1S1U05,EB5,1,1
+Operating Systems,EB5-Y1S2U01,EB5,1,2
+Compiler Design,EB5-Y1S2U02,EB5,1,2
+Data Structures,EB5-Y1S2U03,EB5,1,2
+Artificial Intelligence,EB5-Y1S2U04,EB5,1,2
+Distributed Systems,EB5-Y1S2U05,EB5,1,2
+Introduction to Programming,EB5-Y1S2U06,EB5,1,2
+Human Computer Interaction,EB5-Y1S2U07,EB5,1,2
+Operating Systems,EB5-Y1S2U08,EB5,1,2
+Cyber Security,EB5-Y1S2U09,EB5,1,2
+Software Engineering,EB5-Y2S1U01,EB5,2,1
+Operating Systems,EB5-Y2S1U02,EB5,2,1
+Data Structures,EB5-Y2S1U03,EB5,2,1
+Computer Networks,EB5-Y2S1U04,EB5,2,1
+Distributed Systems,EB5-Y2S1U05,EB5,2,1
+Human Computer Interaction,EB5-Y2S1U06,EB5,2,1
+Software Engineering,EB5-Y2S1U07,EB5,2,1
+Computer Networks,EB5-Y2S1U08,EB5,2,1
+Mobile Application Development,EB5-Y2S2U01,EB5,2,2
+Distributed Systems,EB5-Y2S2U02,EB5,2,2
+Cyber Security,EB5-Y2S2U03,EB5,2,2
+Algorithms,EB5-Y2S2U04,EB5,2,2
+Software Engineering,EB5-Y2S2U05,EB5,2,2
+Web Development,EB5-Y2S2U06,EB5,2,2
+Web Development,EB5-Y2S2U07,EB5,2,2
+Mobile Application Development,EB5-Y3S1U01,EB5,3,1
+Artificial Intelligence,EB5-Y3S1U02,EB5,3,1
+Cyber Security,EB5-Y3S1U03,EB5,3,1
+Compiler Design,EB5-Y3S1U04,EB5,3,1
+Human Computer Interaction,EB5-Y3S1U05,EB5,3,1
+Data Structures,EB5-Y3S1U06,EB5,3,1
+Cyber Security,EB5-Y3S1U07,EB5,3,1
+Mobile Application Development,EB5-Y3S1U08,EB5,3,1
+Operating Systems,EB5-Y3S2U01,EB5,3,2
+Cyber Security,EB5-Y3S2U02,EB5,3,2
+Compiler Design,EB5-Y3S2U03,EB5,3,2
+Compiler Design,EB5-Y3S2U04,EB5,3,2
+Introduction to Programming,EB5-Y3S2U05,EB5,3,2
+Web Development,EB5-Y3S2U06,EB5,3,2
+Mobile Application Development,EB5-Y3S2U07,EB5,3,2
+Human Computer Interaction,EB5-Y3S2U08,EB5,3,2
+Web Development,EB5-Y3S2U09,EB5,3,2
+Computer Networks,EB5-Y4S1U01,EB5,4,1
+Data Structures,EB5-Y4S1U02,EB5,4,1
+Introduction to Programming,EB5-Y4S1U03,EB5,4,1
+Human Computer Interaction,EB5-Y4S1U04,EB5,4,1
+Mobile Application Development,EB5-Y4S1U05,EB5,4,1
+Introduction to Programming,EB5-Y4S1U06,EB5,4,1
+Cyber Security,EB5-Y4S1U07,EB5,4,1
+Artificial Intelligence,EB5-Y4S1U08,EB5,4,1
+Human Computer Interaction,EB5-Y4S2U01,EB5,4,2
+Introduction to Programming,EB5-Y4S2U02,EB5,4,2
+Machine Learning,EB5-Y4S2U03,EB5,4,2
+Software Engineering,EB5-Y4S2U04,EB5,4,2
+Machine Learning,EB5-Y4S2U05,EB5,4,2
+Database Systems,EB5-Y4S2U06,EB5,4,2
+Software Engineering,EB6-Y1S1U01,EB6,1,1
+Cyber Security,EB6-Y1S1U02,EB6,1,1
+Algorithms,EB6-Y1S1U03,EB6,1,1
+Algorithms,EB6-Y1S1U04,EB6,1,1
+Artificial Intelligence,EB6-Y1S1U05,EB6,1,1
+Human Computer Interaction,EB6-Y1S1U06,EB6,1,1
+Cyber Security,EB6-Y1S1U07,EB6,1,1
+Introduction to Programming,EB6-Y1S1U08,EB6,1,1
+Database Systems,EB6-Y1S1U09,EB6,1,1
+Machine Learning,EB6-Y1S2U01,EB6,1,2
+Compiler Design,EB6-Y1S2U02,EB6,1,2
+Machine Learning,EB6-Y1S2U03,EB6,1,2
+Distributed Systems,EB6-Y1S2U04,EB6,1,2
+Mobile Application Development,EB6-Y1S2U05,EB6,1,2
+Algorithms,EB6-Y1S2U06,EB6,1,2
+Database Systems,EB6-Y1S2U07,EB6,1,2
+Data Structures,EB6-Y1S2U08,EB6,1,2
+Cyber Security,EB6-Y1S2U09,EB6,1,2
+Operating Systems,EB6-Y2S1U01,EB6,2,1
+Compiler Design,EB6-Y2S1U02,EB6,2,1
+Distributed Systems,EB6-Y2S1U03,EB6,2,1
+Web Development,EB6-Y2S1U04,EB6,2,1
+Mobile Application Development,EB6-Y2S1U05,EB6,2,1
+Mobile Application Development,EB6-Y2S1U06,EB6,2,1
+Compiler Design,EB6-Y2S1U07,EB6,2,1
+Software Engineering,EB6-Y2S2U01,EB6,2,2
+Software Engineering,EB6-Y2S2U02,EB6,2,2
+Cyber Security,EB6-Y2S2U03,EB6,2,2
+Introduction to Programming,EB6-Y2S2U04,EB6,2,2
+Artificial Intelligence,EB6-Y2S2U05,EB6,2,2
+Database Systems,EB6-Y2S2U06,EB6,2,2
+Operating Systems,EB6-Y2S2U07,EB6,2,2
+Distributed Systems,EB6-Y2S2U08,EB6,2,2
+Data Structures,EB6-Y3S1U01,EB6,3,1
+Software Engineering,EB6-Y3S1U02,EB6,3,1
+Artificial Intelligence,EB6-Y3S1U03,EB6,3,1
+Web Development,EB6-Y3S1U04,EB6,3,1
+Introduction to Programming,EB6-Y3S1U05,EB6,3,1
+Mobile Application Development,EB6-Y3S2U01,EB6,3,2
+Computer Networks,EB6-Y3S2U02,EB6,3,2
+Distributed Systems,EB6-Y3S2U03,EB6,3,2
+Distributed Systems,EB6-Y3S2U04,EB6,3,2
+Cyber Security,EB6-Y3S2U05,EB6,3,2
+Computer Networks,EB6-Y4S1U01,EB6,4,1
+Artificial Intelligence,EB6-Y4S1U02,EB6,4,1
+Algorithms,EB6-Y4S1U03,EB6,4,1
+Algorithms,EB6-Y4S1U04,EB6,4,1
+Computer Networks,EB6-Y4S1U05,EB6,4,1
+Introduction to Programming,EB6-Y4S1U06,EB6,4,1
+Mobile Application Development,EB6-Y4S2U01,EB6,4,2
+Operating Systems,EB6-Y4S2U02,EB6,4,2
+Mobile Application Development,EB6-Y4S2U03,EB6,4,2
+Introduction to Programming,EB6-Y4S2U04,EB6,4,2
+Web Development,EB6-Y4S2U05,EB6,4,2
+Algorithms,EB6-Y4S2U06,EB6,4,2
+Machine Learning,EB7-Y1S1U01,EB7,1,1
+Operating Systems,EB7-Y1S1U02,EB7,1,1
+Distributed Systems,EB7-Y1S1U03,EB7,1,1
+Artificial Intelligence,EB7-Y1S1U04,EB7,1,1
+Machine Learning,EB7-Y1S1U05,EB7,1,1
+Web Development,EB7-Y1S1U06,EB7,1,1
+Algorithms,EB7-Y1S1U07,EB7,1,1
+Data Structures,EB7-Y1S1U08,EB7,1,1
+Mobile Application Development,EB7-Y1S2U01,EB7,1,2
+Cyber Security,EB7-Y1S2U02,EB7,1,2
+Database Systems,EB7-Y1S2U03,EB7,1,2
+Algorithms,EB7-Y1S2U04,EB7,1,2
+Database Systems,EB7-Y1S2U05,EB7,1,2
+Human Computer Interaction,EB7-Y1S2U06,EB7,1,2
+Distributed Systems,EB7-Y2S1U01,EB7,2,1
+Database Systems,EB7-Y2S1U02,EB7,2,1
+Mobile Application Development,EB7-Y2S1U03,EB7,2,1
+Artificial Intelligence,EB7-Y2S1U04,EB7,2,1
+Software Engineering,EB7-Y2S1U05,EB7,2,1
+Human Computer Interaction,EB7-Y2S1U06,EB7,2,1
+Database Systems,EB7-Y2S2U01,EB7,2,2
+Compiler Design,EB7-Y2S2U02,EB7,2,2
+Distributed Systems,EB7-Y2S2U03,EB7,2,2
+Introduction to Programming,EB7-Y2S2U04,EB7,2,2
+Human Computer Interaction,EB7-Y2S2U05,EB7,2,2
+Cyber Security,EB7-Y3S1U01,EB7,3,1
+Database Systems,EB7-Y3S1U02,EB7,3,1
+Operating Systems,EB7-Y3S1U03,EB7,3,1
+Mobile Application Development,EB7-Y3S1U04,EB7,3,1
+Operating Systems,EB7-Y3S1U05,EB7,3,1
+Operating Systems,EB7-Y3S1U06,EB7,3,1
+Introduction to Programming,EB7-Y3S1U07,EB7,3,1
+Introduction to Programming,EB7-Y3S1U08,EB7,3,1
+Operating Systems,EB7-Y3S1U09,EB7,3,1
+Distributed Systems,EB7-Y3S2U01,EB7,3,2
+Compiler Design,EB7-Y3S2U02,EB7,3,2
+Software Engineering,EB7-Y3S2U03,EB7,3,2
+Distributed Systems,EB7-Y3S2U04,EB7,3,2
+Mobile Application Development,EB7-Y3S2U05,EB7,3,2
+Introduction to Programming,EB7-Y3S2U06,EB7,3,2
+Cyber Security,EB7-Y3S2U07,EB7,3,2
+Distributed Systems,EB7-Y3S2U08,EB7,3,2
+Software Engineering,EB7-Y3S2U09,EB7,3,2
+Compiler Design,EB7-Y4S1U01,EB7,4,1
+Mobile Application Development,EB7-Y4S1U02,EB7,4,1
+Introduction to Programming,EB7-Y4S1U03,EB7,4,1
+Algorithms,EB7-Y4S1U04,EB7,4,1
+Data Structures,EB7-Y4S1U05,EB7,4,1
+Database Systems,EB7-Y4S1U06,EB7,4,1
+Web Development,EB7-Y4S1U07,EB7,4,1
+Data Structures,EB7-Y4S1U08,EB7,4,1
+Machine Learning,EB7-Y4S1U09,EB7,4,1
+Algorithms,EB7-Y4S2U01,EB7,4,2
+Data Structures,EB7-Y4S2U02,EB7,4,2
+Human Computer Interaction,EB7-Y4S2U03,EB7,4,2
+Operating Systems,EB7-Y4S2U04,EB7,4,2
+Computer Networks,EB7-Y4S2U05,EB7,4,2
+Software Engineering,EB7-Y4S2U06,EB7,4,2
+Human Computer Interaction,EB7-Y4S2U07,EB7,4,2
+Artificial Intelligence,EB7-Y4S2U08,EB7,4,2
+Artificial Intelligence,EB7-Y4S2U09,EB7,4,2
+Artificial Intelligence,EB8-Y1S1U01,EB8,1,1
+Algorithms,EB8-Y1S1U02,EB8,1,1
+Human Computer Interaction,EB8-Y1S1U03,EB8,1,1
+Compiler Design,EB8-Y1S1U04,EB8,1,1
+Human Computer Interaction,EB8-Y1S1U05,EB8,1,1
+Operating Systems,EB8-Y1S2U01,EB8,1,2
+Cyber Security,EB8-Y1S2U02,EB8,1,2
+Data Structures,EB8-Y1S2U03,EB8,1,2
+Compiler Design,EB8-Y1S2U04,EB8,1,2
+Machine Learning,EB8-Y1S2U05,EB8,1,2
+Operating Systems,EB8-Y2S1U01,EB8,2,1
+Distributed Systems,EB8-Y2S1U02,EB8,2,1
+Operating Systems,EB8-Y2S1U03,EB8,2,1
+Software Engineering,EB8-Y2S1U04,EB8,2,1
+Mobile Application Development,EB8-Y2S1U05,EB8,2,1
+Software Engineering,EB8-Y2S1U06,EB8,2,1
+Software Engineering,EB8-Y2S2U01,EB8,2,2
+Data Structures,EB8-Y2S2U02,EB8,2,2
+Compiler Design,EB8-Y2S2U03,EB8,2,2
+Distributed Systems,EB8-Y2S2U04,EB8,2,2
+Operating Systems,EB8-Y2S2U05,EB8,2,2
+Computer Networks,EB8-Y2S2U06,EB8,2,2
+Artificial Intelligence,EB8-Y2S2U07,EB8,2,2
+Artificial Intelligence,EB8-Y2S2U08,EB8,2,2
+Introduction to Programming,EB8-Y3S1U01,EB8,3,1
+Human Computer Interaction,EB8-Y3S1U02,EB8,3,1
+Algorithms,EB8-Y3S1U03,EB8,3,1
+Web Development,EB8-Y3S1U04,EB8,3,1
+Artificial Intelligence,EB8-Y3S1U05,EB8,3,1
+Algorithms,EB8-Y3S1U06,EB8,3,1
+Mobile Application Development,EB8-Y3S1U07,EB8,3,1
+Database Systems,EB8-Y3S1U08,EB8,3,1
+Algorithms,EB8-Y3S2U01,EB8,3,2
+Computer Networks,EB8-Y3S2U02,EB8,3,2
+Algorithms,EB8-Y3S2U03,EB8,3,2
+Mobile Application Development,EB8-Y3S2U04,EB8,3,2
+Computer Networks,EB8-Y3S2U05,EB8,3,2
+Mobile Application Development,EB8-Y3S2U06,EB8,3,2
+Artificial Intelligence,EB8-Y3S2U07,EB8,3,2
+Operating Systems,EB8-Y3S2U08,EB8,3,2
+Operating Systems,EB8-Y4S1U01,EB8,4,1
+Web Development,EB8-Y4S1U02,EB8,4,1
+Introduction to Programming,EB8-Y4S1U03,EB8,4,1
+Introduction to Programming,EB8-Y4S1U04,EB8,4,1
+Web Development,EB8-Y4S1U05,EB8,4,1
+Operating Systems,EB8-Y4S1U06,EB8,4,1
+Data Structures,EB8-Y4S1U07,EB8,4,1
+Computer Networks,EB8-Y4S1U08,EB8,4,1
+Human Computer Interaction,EB8-Y4S2U01,EB8,4,2
+Cyber Security,EB8-Y4S2U02,EB8,4,2
+Cyber Security,EB8-Y4S2U03,EB8,4,2
+Introduction to Programming,EB8-Y4S2U04,EB8,4,2
+Mobile Application Development,EB8-Y4S2U05,EB8,4,2
+Database Systems,EB8-Y4S2U06,EB8,4,2
+Computer Networks,EB8-Y4S2U07,EB8,4,2
+Artificial Intelligence,EB8-Y4S2U08,EB8,4,2
+Data Structures,EB9-Y1S1U01,EB9,1,1
+Cyber Security,EB9-Y1S1U02,EB9,1,1
+Data Structures,EB9-Y1S1U03,EB9,1,1
+Introduction to Programming,EB9-Y1S1U04,EB9,1,1
+Distributed Systems,EB9-Y1S1U05,EB9,1,1
+Artificial Intelligence,EB9-Y1S1U06,EB9,1,1
+Data Structures,EB9-Y1S2U01,EB9,1,2
+Algorithms,EB9-Y1S2U02,EB9,1,2
+Machine Learning,EB9-Y1S2U03,EB9,1,2
+Software Engineering,EB9-Y1S2U04,EB9,1,2
+Distributed Systems,EB9-Y1S2U05,EB9,1,2
+Database Systems,EB9-Y1S2U06,EB9,1,2
+Cyber Security,EB9-Y2S1U01,EB9,2,1
+Distributed Systems,EB9-Y2S1U02,EB9,2,1
+Software Engineering,EB9-Y2S1U03,EB9,2,1
+Human Computer Interaction,EB9-Y2S1U04,EB9,2,1
+Machine Learning,EB9-Y2S1U05,EB9,2,1
+Database Systems,EB9-Y2S2U01,EB9,2,2
+Mobile Application Development,EB9-Y2S2U02,EB9,2,2
+Distributed Systems,EB9-Y2S2U03,EB9,2,2
+Cyber Security,EB9-Y2S2U04,EB9,2,2
+Compiler Design,EB9-Y2S2U05,EB9,2,2
+Algorithms,EB9-Y2S2U06,EB9,2,2
+Computer Networks,EB9-Y2S2U07,EB9,2,2
+Operating Systems,EB9-Y2S2U08,EB9,2,2
+Introduction to Programming,EB9-Y2S2U09,EB9,2,2
+Distributed Systems,EB9-Y3S1U01,EB9,3,1
+Distributed Systems,EB9-Y3S1U02,EB9,3,1
+Machine Learning,EB9-Y3S1U03,EB9,3,1
+Compiler Design,EB9-Y3S1U04,EB9,3,1
+Human Computer Interaction,EB9-Y3S1U05,EB9,3,1
+Database Systems,EB9-Y3S1U06,EB9,3,1
+Database Systems,EB9-Y3S1U07,EB9,3,1
+Distributed Systems,EB9-Y3S1U08,EB9,3,1
+Artificial Intelligence,EB9-Y3S1U09,EB9,3,1
+Introduction to Programming,EB9-Y3S2U01,EB9,3,2
+Compiler Design,EB9-Y3S2U02,EB9,3,2
+Software Engineering,EB9-Y3S2U03,EB9,3,2
+Cyber Security,EB9-Y3S2U04,EB9,3,2
+Software Engineering,EB9-Y3S2U05,EB9,3,2
+Web Development,EB9-Y3S2U06,EB9,3,2
+Human Computer Interaction,EB9-Y3S2U07,EB9,3,2
+Artificial Intelligence,EB9-Y3S2U08,EB9,3,2
+Machine Learning,EB9-Y3S2U09,EB9,3,2
+Compiler Design,EB9-Y4S1U01,EB9,4,1
+Human Computer Interaction,EB9-Y4S1U02,EB9,4,1
+Introduction to Programming,EB9-Y4S1U03,EB9,4,1
+Mobile Application Development,EB9-Y4S1U04,EB9,4,1
+Compiler Design,EB9-Y4S1U05,EB9,4,1
+Artificial Intelligence,EB9-Y4S1U06,EB9,4,1
+Computer Networks,EB9-Y4S1U07,EB9,4,1
+Cyber Security,EB9-Y4S1U08,EB9,4,1
+Operating Systems,EB9-Y4S2U01,EB9,4,2
+Web Development,EB9-Y4S2U02,EB9,4,2
+Distributed Systems,EB9-Y4S2U03,EB9,4,2
+Data Structures,EB9-Y4S2U04,EB9,4,2
+Compiler Design,EB9-Y4S2U05,EB9,4,2
+Machine Learning,EB9-Y4S2U06,EB9,4,2
+Mobile Application Development,EB10-Y1S1U01,EB10,1,1
+Algorithms,EB10-Y1S1U02,EB10,1,1
+Distributed Systems,EB10-Y1S1U03,EB10,1,1
+Web Development,EB10-Y1S1U04,EB10,1,1
+Software Engineering,EB10-Y1S1U05,EB10,1,1
+Operating Systems,EB10-Y1S1U06,EB10,1,1
+Operating Systems,EB10-Y1S2U01,EB10,1,2
+Human Computer Interaction,EB10-Y1S2U02,EB10,1,2
+Compiler Design,EB10-Y1S2U03,EB10,1,2
+Operating Systems,EB10-Y1S2U04,EB10,1,2
+Data Structures,EB10-Y1S2U05,EB10,1,2
+Algorithms,EB10-Y1S2U06,EB10,1,2
+Machine Learning,EB10-Y2S1U01,EB10,2,1
+Introduction to Programming,EB10-Y2S1U02,EB10,2,1
+Web Development,EB10-Y2S1U03,EB10,2,1
+Operating Systems,EB10-Y2S1U04,EB10,2,1
+Human Computer Interaction,EB10-Y2S1U05,EB10,2,1
+Software Engineering,EB10-Y2S2U01,EB10,2,2
+Operating Systems,EB10-Y2S2U02,EB10,2,2
+Distributed Systems,EB10-Y2S2U03,EB10,2,2
+Web Development,EB10-Y2S2U04,EB10,2,2
+Algorithms,EB10-Y2S2U05,EB10,2,2
+Mobile Application Development,EB10-Y2S2U06,EB10,2,2
+Machine Learning,EB10-Y2S2U07,EB10,2,2
+Distributed Systems,EB10-Y3S1U01,EB10,3,1
+Cyber Security,EB10-Y3S1U02,EB10,3,1
+Software Engineering,EB10-Y3S1U03,EB10,3,1
+Machine Learning,EB10-Y3S1U04,EB10,3,1
+Data Structures,EB10-Y3S1U05,EB10,3,1
+Database Systems,EB10-Y3S1U06,EB10,3,1
+Algorithms,EB10-Y3S1U07,EB10,3,1
+Compiler Design,EB10-Y3S1U08,EB10,3,1
+Operating Systems,EB10-Y3S2U01,EB10,3,2
+Mobile Application Development,EB10-Y3S2U02,EB10,3,2
+Algorithms,EB10-Y3S2U03,EB10,3,2
+Introduction to Programming,EB10-Y3S2U04,EB10,3,2
+Cyber Security,EB10-Y3S2U05,EB10,3,2
+Database Systems,EB10-Y3S2U06,EB10,3,2
+Web Development,EB10-Y3S2U07,EB10,3,2
+Database Systems,EB10-Y4S1U01,EB10,4,1
+Machine Learning,EB10-Y4S1U02,EB10,4,1
+Compiler Design,EB10-Y4S1U03,EB10,4,1
+Database Systems,EB10-Y4S1U04,EB10,4,1
+Mobile Application Development,EB10-Y4S1U05,EB10,4,1
+Data Structures,EB10-Y4S1U06,EB10,4,1
+Algorithms,EB10-Y4S1U07,EB10,4,1
+Computer Networks,EB10-Y4S1U08,EB10,4,1
+Database Systems,EB10-Y4S1U09,EB10,4,1
+Mobile Application Development,EB10-Y4S2U01,EB10,4,2
+Operating Systems,EB10-Y4S2U02,EB10,4,2
+Cyber Security,EB10-Y4S2U03,EB10,4,2
+Introduction to Programming,EB10-Y4S2U04,EB10,4,2
+Artificial Intelligence,EB10-Y4S2U05,EB10,4,2
+Operating Systems,EB11-Y1S1U01,EB11,1,1
+Data Structures,EB11-Y1S1U02,EB11,1,1
+Web Development,EB11-Y1S1U03,EB11,1,1
+Cyber Security,EB11-Y1S1U04,EB11,1,1
+Mobile Application Development,EB11-Y1S1U05,EB11,1,1
+Mobile Application Development,EB11-Y1S1U06,EB11,1,1
+Artificial Intelligence,EB11-Y1S1U07,EB11,1,1
+Web Development,EB11-Y1S1U08,EB11,1,1
+Machine Learning,EB11-Y1S2U01,EB11,1,2
+Web Development,EB11-Y1S2U02,EB11,1,2
+Database Systems,EB11-Y1S2U03,EB11,1,2
+Machine Learning,EB11-Y1S2U04,EB11,1,2
+Cyber Security,EB11-Y1S2U05,EB11,1,2
+Artificial Intelligence,EB11-Y1S2U06,EB11,1,2
+Machine Learning,EB11-Y2S1U01,EB11,2,1
+Computer Networks,EB11-Y2S1U02,EB11,2,1
+Software Engineering,EB11-Y2S1U03,EB11,2,1
+Operating Systems,EB11-Y2S1U04,EB11,2,1
+Compiler Design,EB11-Y2S1U05,EB11,2,1
+Distributed Systems,EB11-Y2S1U06,EB11,2,1
+Database Systems,EB11-Y2S1U07,EB11,2,1
+Database Systems,EB11-Y2S1U08,EB11,2,1
+Computer Networks,EB11-Y2S1U09,EB11,2,1
+Computer Networks,EB11-Y2S2U01,EB11,2,2
+Human Computer Interaction,EB11-Y2S2U02,EB11,2,2
+Database Systems,EB11-Y2S2U03,EB11,2,2
+Cyber Security,EB11-Y2S2U04,EB11,2,2
+Software Engineering,EB11-Y2S2U05,EB11,2,2
+Distributed Systems,EB11-Y2S2U06,EB11,2,2
+Algorithms,EB11-Y2S2U07,EB11,2,2
+Compiler Design,EB11-Y2S2U08,EB11,2,2
+Compiler Design,EB11-Y3S1U01,EB11,3,1
+Data Structures,EB11-Y3S1U02,EB11,3,1
+Operating Systems,EB11-Y3S1U03,EB11,3,1
+Software Engineering,EB11-Y3S1U04,EB11,3,1
+Cyber Security,EB11-Y3S1U05,EB11,3,1
+Web Development,EB11-Y3S2U01,EB11,3,2
+Data Structures,EB11-Y3S2U02,EB11,3,2
+Distributed Systems,EB11-Y3S2U03,EB11,3,2
+Computer Networks,EB11-Y3S2U04,EB11,3,2
+Computer Networks,EB11-Y3S2U05,EB11,3,2
+Distributed Systems,EB11-Y3S2U06,EB11,3,2
+Human Computer Interaction,EB11-Y3S2U07,EB11,3,2
+Distributed Systems,EB11-Y3S2U08,EB11,3,2
+Computer Networks,EB11-Y3S2U09,EB11,3,2
+Data Structures,EB11-Y4S1U01,EB11,4,1
+Software Engineering,EB11-Y4S1U02,EB11,4,1
+Operating Systems,EB11-Y4S1U03,EB11,4,1
+Data Structures,EB11-Y4S1U04,EB11,4,1
+Computer Networks,EB11-Y4S1U05,EB11,4,1
+Introduction to Programming,EB11-Y4S2U01,EB11,4,2
+Compiler Design,EB11-Y4S2U02,EB11,4,2
+Compiler Design,EB11-Y4S2U03,EB11,4,2
+Mobile Application Development,EB11-Y4S2U04,EB11,4,2
+Algorithms,EB11-Y4S2U05,EB11,4,2
+Mobile Application Development,EB11-Y4S2U06,EB11,4,2
+Data Structures,EB11-Y4S2U07,EB11,4,2
+Distributed Systems,EB11-Y4S2U08,EB11,4,2
+Human Computer Interaction,EB12-Y1S1U01,EB12,1,1
+Mobile Application Development,EB12-Y1S1U02,EB12,1,1
+Machine Learning,EB12-Y1S1U03,EB12,1,1
+Web Development,EB12-Y1S1U04,EB12,1,1
+Mobile Application Development,EB12-Y1S1U05,EB12,1,1
+Database Systems,EB12-Y1S1U06,EB12,1,1
+Computer Networks,EB12-Y1S1U07,EB12,1,1
+Distributed Systems,EB12-Y1S1U08,EB12,1,1
+Web Development,EB12-Y1S1U09,EB12,1,1
+Distributed Systems,EB12-Y1S2U01,EB12,1,2
+Cyber Security,EB12-Y1S2U02,EB12,1,2
+Algorithms,EB12-Y1S2U03,EB12,1,2
+Web Development,EB12-Y1S2U04,EB12,1,2
+Software Engineering,EB12-Y1S2U05,EB12,1,2
+Compiler Design,EB12-Y1S2U06,EB12,1,2
+Algorithms,EB12-Y2S1U01,EB12,2,1
+Operating Systems,EB12-Y2S1U02,EB12,2,1
+Algorithms,EB12-Y2S1U03,EB12,2,1
+Computer Networks,EB12-Y2S1U04,EB12,2,1
+Cyber Security,EB12-Y2S1U05,EB12,2,1
+Compiler Design,EB12-Y2S1U06,EB12,2,1
+Operating Systems,EB12-Y2S1U07,EB12,2,1
+Distributed Systems,EB12-Y2S2U01,EB12,2,2
+Artificial Intelligence,EB12-Y2S2U02,EB12,2,2
+Distributed Systems,EB12-Y2S2U03,EB12,2,2
+Operating Systems,EB12-Y2S2U04,EB12,2,2
+Web Development,EB12-Y2S2U05,EB12,2,2
+Database Systems,EB12-Y2S2U06,EB12,2,2
+Artificial Intelligence,EB12-Y2S2U07,EB12,2,2
+Human Computer Interaction,EB12-Y3S1U01,EB12,3,1
+Introduction to Programming,EB12-Y3S1U02,EB12,3,1
+Web Development,EB12-Y3S1U03,EB12,3,1
+Artificial Intelligence,EB12-Y3S1U04,EB12,3,1
+Machine Learning,EB12-Y3S1U05,EB12,3,1
+Algorithms,EB12-Y3S1U06,EB12,3,1
+Algorithms,EB12-Y3S1U07,EB12,3,1
+Algorithms,EB12-Y3S1U08,EB12,3,1
+Machine Learning,EB12-Y3S2U01,EB12,3,2
+Distributed Systems,EB12-Y3S2U02,EB12,3,2
+Data Structures,EB12-Y3S2U03,EB12,3,2
+Compiler Design,EB12-Y3S2U04,EB12,3,2
+Database Systems,EB12-Y3S2U05,EB12,3,2
+Mobile Application Development,EB12-Y3S2U06,EB12,3,2
+Computer Networks,EB12-Y4S1U01,EB12,4,1
+Algorithms,EB12-Y4S1U02,EB12,4,1
+Artificial Intelligence,EB12-Y4S1U03,EB12,4,1
+Cyber Security,EB12-Y4S1U04,EB12,4,1
+Computer Networks,EB12-Y4S1U05,EB12,4,1
+Cyber Security,EB12-Y4S1U06,EB12,4,1
+Distributed Systems,EB12-Y4S1U07,EB12,4,1
+Introduction to Programming,EB12-Y4S1U08,EB12,4,1
+Mobile Application Development,EB12-Y4S1U09,EB12,4,1
+Cyber Security,EB12-Y4S2U01,EB12,4,2
+Mobile Application Development,EB12-Y4S2U02,EB12,4,2
+Distributed Systems,EB12-Y4S2U03,EB12,4,2
+Machine Learning,EB12-Y4S2U04,EB12,4,2
+Compiler Design,EB12-Y4S2U05,EB12,4,2
+Compiler Design,EB12-Y4S2U06,EB12,4,2
+Cyber Security,EB12-Y4S2U07,EB12,4,2
+Machine Learning,EB12-Y4S2U08,EB12,4,2
+Algorithms,EB12-Y4S2U09,EB12,4,2
+Machine Learning,EB13-Y1S1U01,EB13,1,1
+Human Computer Interaction,EB13-Y1S1U02,EB13,1,1
+Algorithms,EB13-Y1S1U03,EB13,1,1
+Compiler Design,EB13-Y1S1U04,EB13,1,1
+Mobile Application Development,EB13-Y1S1U05,EB13,1,1
+Operating Systems,EB13-Y1S1U06,EB13,1,1
+Artificial Intelligence,EB13-Y1S2U01,EB13,1,2
+Artificial Intelligence,EB13-Y1S2U02,EB13,1,2
+Database Systems,EB13-Y1S2U03,EB13,1,2
+Human Computer Interaction,EB13-Y1S2U04,EB13,1,2
+Mobile Application Development,EB13-Y1S2U05,EB13,1,2
+Operating Systems,EB13-Y1S2U06,EB13,1,2
+Introduction to Programming,EB13-Y1S2U07,EB13,1,2
+Algorithms,EB13-Y1S2U08,EB13,1,2
+Machine Learning,EB13-Y2S1U01,EB13,2,1
+Software Engineering,EB13-Y2S1U02,EB13,2,1
+Operating Systems,EB13-Y2S1U03,EB13,2,1
+Mobile Application Development,EB13-Y2S1U04,EB13,2,1
+Human Computer Interaction,EB13-Y2S1U05,EB13,2,1
+Artificial Intelligence,EB13-Y2S2U01,EB13,2,2
+Algorithms,EB13-Y2S2U02,EB13,2,2
+Operating Systems,EB13-Y2S2U03,EB13,2,2
+Web Development,EB13-Y2S2U04,EB13,2,2
+Database Systems,EB13-Y2S2U05,EB13,2,2
+Introduction to Programming,EB13-Y2S2U06,EB13,2,2
+Distributed Systems,EB13-Y2S2U07,EB13,2,2
+Artificial Intelligence,EB13-Y3S1U01,EB13,3,1
+Database Systems,EB13-Y3S1U02,EB13,3,1
+Web Development,EB13-Y3S1U03,EB13,3,1
+Compiler Design,EB13-Y3S1U04,EB13,3,1
+Software Engineering,EB13-Y3S1U05,EB13,3,1
+Introduction to Programming,EB13-Y3S2U01,EB13,3,2
+Artificial Intelligence,EB13-Y3S2U02,EB13,3,2
+Operating Systems,EB13-Y3S2U03,EB13,3,2
+Software Engineering,EB13-Y3S2U04,EB13,3,2
+Software Engineering,EB13-Y3S2U05,EB13,3,2
+Human Computer Interaction,EB13-Y4S1U01,EB13,4,1
+Introduction to Programming,EB13-Y4S1U02,EB13,4,1
+Algorithms,EB13-Y4S1U03,EB13,4,1
+Cyber Security,EB13-Y4S1U04,EB13,4,1
+Data Structures,EB13-Y4S1U05,EB13,4,1
+Introduction to Programming,EB13-Y4S1U06,EB13,4,1
+Database Systems,EB13-Y4S1U07,EB13,4,1
+Data Structures,EB13-Y4S1U08,EB13,4,1
+Web Development,EB13-Y4S2U01,EB13,4,2
+Introduction to Programming,EB13-Y4S2U02,EB13,4,2
+Introduction to Programming,EB13-Y4S2U03,EB13,4,2
+Software Engineering,EB13-Y4S2U04,EB13,4,2
+Cyber Security,EB13-Y4S2U05,EB13,4,2
+Software Engineering,EB13-Y4S2U06,EB13,4,2
+Database Systems,EB13-Y4S2U07,EB13,4,2
+Software Engineering,EB13-Y4S2U08,EB13,4,2
+Operating Systems,EB14-Y1S1U01,EB14,1,1
+Data Structures,EB14-Y1S1U02,EB14,1,1
+Introduction to Programming,EB14-Y1S1U03,EB14,1,1
+Mobile Application Development,EB14-Y1S1U04,EB14,1,1
+Data Structures,EB14-Y1S1U05,EB14,1,1
+Algorithms,EB14-Y1S1U06,EB14,1,1
+Cyber Security,EB14-Y1S1U07,EB14,1,1
+Software Engineering,EB14-Y1S2U01,EB14,1,2
+Introduction to Programming,EB14-Y1S2U02,EB14,1,2
+Data Structures,EB14-Y1S2U03,EB14,1,2
+Computer Networks,EB14-Y1S2U04,EB14,1,2
+Computer Networks,EB14-Y1S2U05,EB14,1,2
+Mobile Application Development,EB14-Y1S2U06,EB14,1,2
+Artificial Intelligence,EB14-Y1S2U07,EB14,1,2
+Data Structures,EB14-Y2S1U01,EB14,2,1
+Human Computer Interaction,EB14-Y2S1U02,EB14,2,1
+Data Structures,EB14-Y2S1U03,EB14,2,1
+Compiler Design,EB14-Y2S1U04,EB14,2,1
+Computer Networks,EB14-Y2S1U05,EB14,2,1
+Machine Learning,EB14-Y2S1U06,EB14,2,1
+Machine Learning,EB14-Y2S1U07,EB14,2,1
+Data Structures,EB14-Y2S1U08,EB14,2,1
+Web Development,EB14-Y2S1U09,EB14,2,1
+Introduction to Programming,EB14-Y2S2U01,EB14,2,2
+Introduction to Programming,EB14-Y2S2U02,EB14,2,2
+Compiler Design,EB14-Y2S2U03,EB14,2,2
+Software Engineering,EB14-Y2S2U04,EB14,2,2
+Introduction to Programming,EB14-Y2S2U05,EB14,2,2
+Web Development,EB14-Y2S2U06,EB14,2,2
+Introduction to Programming,EB14-Y2S2U07,EB14,2,2
+Operating Systems,EB14-Y2S2U08,EB14,2,2
+Distributed Systems,EB14-Y2S2U09,EB14,2,2
+Distributed Systems,EB14-Y3S1U01,EB14,3,1
+Algorithms,EB14-Y3S1U02,EB14,3,1
+Machine Learning,EB14-Y3S1U03,EB14,3,1
+Data Structures,EB14-Y3S1U04,EB14,3,1
+Computer Networks,EB14-Y3S1U05,EB14,3,1
+Computer Networks,EB14-Y3S2U01,EB14,3,2
+Database Systems,EB14-Y3S2U02,EB14,3,2
+Operating Systems,EB14-Y3S2U03,EB14,3,2
+Cyber Security,EB14-Y3S2U04,EB14,3,2
+Cyber Security,EB14-Y3S2U05,EB14,3,2
+Data Structures,EB14-Y3S2U06,EB14,3,2
+Software Engineering,EB14-Y3S2U07,EB14,3,2
+Database Systems,EB14-Y3S2U08,EB14,3,2
+Machine Learning,EB14-Y4S1U01,EB14,4,1
+Introduction to Programming,EB14-Y4S1U02,EB14,4,1
+Cyber Security,EB14-Y4S1U03,EB14,4,1
+Computer Networks,EB14-Y4S1U04,EB14,4,1
+Operating Systems,EB14-Y4S1U05,EB14,4,1
+Introduction to Programming,EB14-Y4S1U06,EB14,4,1
+Data Structures,EB14-Y4S1U07,EB14,4,1
+Database Systems,EB14-Y4S1U08,EB14,4,1
+Web Development,EB14-Y4S1U09,EB14,4,1
+Operating Systems,EB14-Y4S2U01,EB14,4,2
+Computer Networks,EB14-Y4S2U02,EB14,4,2
+Web Development,EB14-Y4S2U03,EB14,4,2
+Artificial Intelligence,EB14-Y4S2U04,EB14,4,2
+Data Structures,EB14-Y4S2U05,EB14,4,2
+Distributed Systems,EB14-Y4S2U06,EB14,4,2
+Operating Systems,EB15-Y1S1U01,EB15,1,1
+Artificial Intelligence,EB15-Y1S1U02,EB15,1,1
+Database Systems,EB15-Y1S1U03,EB15,1,1
+Software Engineering,EB15-Y1S1U04,EB15,1,1
+Mobile Application Development,EB15-Y1S1U05,EB15,1,1
+Machine Learning,EB15-Y1S1U06,EB15,1,1
+Software Engineering,EB15-Y1S2U01,EB15,1,2
+Data Structures,EB15-Y1S2U02,EB15,1,2
+Software Engineering,EB15-Y1S2U03,EB15,1,2
+Machine Learning,EB15-Y1S2U04,EB15,1,2
+Artificial Intelligence,EB15-Y1S2U05,EB15,1,2
+Introduction to Programming,EB15-Y1S2U06,EB15,1,2
+Software Engineering,EB15-Y1S2U07,EB15,1,2
+Introduction to Programming,EB15-Y1S2U08,EB15,1,2
+Machine Learning,EB15-Y1S2U09,EB15,1,2
+Introduction to Programming,EB15-Y2S1U01,EB15,2,1
+Cyber Security,EB15-Y2S1U02,EB15,2,1
+Machine Learning,EB15-Y2S1U03,EB15,2,1
+Compiler Design,EB15-Y2S1U04,EB15,2,1
+Algorithms,EB15-Y2S1U05,EB15,2,1
+Human Computer Interaction,EB15-Y2S1U06,EB15,2,1
+Software Engineering,EB15-Y2S1U07,EB15,2,1
+Artificial Intelligence,EB15-Y2S1U08,EB15,2,1
+Operating Systems,EB15-Y2S1U09,EB15,2,1
+Artificial Intelligence,EB15-Y2S2U01,EB15,2,2
+Database Systems,EB15-Y2S2U02,EB15,2,2
+Compiler Design,EB15-Y2S2U03,EB15,2,2
+Database Systems,EB15-Y2S2U04,EB15,2,2
+Machine Learning,EB15-Y2S2U05,EB15,2,2
+Human Computer Interaction,EB15-Y2S2U06,EB15,2,2
+Mobile Application Development,EB15-Y2S2U07,EB15,2,2
+Compiler Design,EB15-Y2S2U08,EB15,2,2
+Cyber Security,EB15-Y3S1U01,EB15,3,1
+Operating Systems,EB15-Y3S1U02,EB15,3,1
+Data Structures,EB15-Y3S1U03,EB15,3,1
+Human Computer Interaction,EB15-Y3S1U04,EB15,3,1
+Data Structures,EB15-Y3S1U05,EB15,3,1
+Computer Networks,EB15-Y3S1U06,EB15,3,1
+Compiler Design,EB15-Y3S1U07,EB15,3,1
+Computer Networks,EB15-Y3S1U08,EB15,3,1
+Compiler Design,EB15-Y3S2U01,EB15,3,2
+Compiler Design,EB15-Y3S2U02,EB15,3,2
+Algorithms,EB15-Y3S2U03,EB15,3,2
+Operating Systems,EB15-Y3S2U04,EB15,3,2
+Web Development,EB15-Y3S2U05,EB15,3,2
+Algorithms,EB15-Y3S2U06,EB15,3,2
+Database Systems,EB15-Y4S1U01,EB15,4,1
+Mobile Application Development,EB15-Y4S1U02,EB15,4,1
+Mobile Application Development,EB15-Y4S1U03,EB15,4,1
+Algorithms,EB15-Y4S1U04,EB15,4,1
+Artificial Intelligence,EB15-Y4S1U05,EB15,4,1
+Cyber Security,EB15-Y4S1U06,EB15,4,1
+Computer Networks,EB15-Y4S2U01,EB15,4,2
+Database Systems,EB15-Y4S2U02,EB15,4,2
+Introduction to Programming,EB15-Y4S2U03,EB15,4,2
+Mobile Application Development,EB15-Y4S2U04,EB15,4,2
+Mobile Application Development,EB15-Y4S2U05,EB15,4,2
+Software Engineering,CB1-Y1S1U01,CB1,1,1
+Operating Systems,CB1-Y1S1U02,CB1,1,1
+Artificial Intelligence,CB1-Y1S1U03,CB1,1,1
+Mobile Application Development,CB1-Y1S1U04,CB1,1,1
+Operating Systems,CB1-Y1S1U05,CB1,1,1
+Software Engineering,CB1-Y1S1U06,CB1,1,1
+Computer Networks,CB1-Y1S2U01,CB1,1,2
+Software Engineering,CB1-Y1S2U02,CB1,1,2
+Artificial Intelligence,CB1-Y1S2U03,CB1,1,2
+Algorithms,CB1-Y1S2U04,CB1,1,2
+Human Computer Interaction,CB1-Y1S2U05,CB1,1,2
+Software Engineering,CB1-Y1S2U06,CB1,1,2
+Software Engineering,CB1-Y1S2U07,CB1,1,2
+Introduction to Programming,CB1-Y1S2U08,CB1,1,2
+Computer Networks,CB1-Y2S1U01,CB1,2,1
+Computer Networks,CB1-Y2S1U02,CB1,2,1
+Distributed Systems,CB1-Y2S1U03,CB1,2,1
+Cyber Security,CB1-Y2S1U04,CB1,2,1
+Software Engineering,CB1-Y2S1U05,CB1,2,1
+Computer Networks,CB1-Y2S1U06,CB1,2,1
+Cyber Security,CB1-Y2S2U01,CB1,2,2
+Data Structures,CB1-Y2S2U02,CB1,2,2
+Database Systems,CB1-Y2S2U03,CB1,2,2
+Mobile Application Development,CB1-Y2S2U04,CB1,2,2
+Machine Learning,CB1-Y2S2U05,CB1,2,2
+Operating Systems,CB1-Y2S2U06,CB1,2,2
+Cyber Security,CB1-Y3S1U01,CB1,3,1
+Web Development,CB1-Y3S1U02,CB1,3,1
+Computer Networks,CB1-Y3S1U03,CB1,3,1
+Cyber Security,CB1-Y3S1U04,CB1,3,1
+Software Engineering,CB1-Y3S1U05,CB1,3,1
+Cyber Security,CB1-Y3S1U06,CB1,3,1
+Cyber Security,CB1-Y3S1U07,CB1,3,1
+Human Computer Interaction,CB1-Y3S2U01,CB1,3,2
+Operating Systems,CB1-Y3S2U02,CB1,3,2
+Compiler Design,CB1-Y3S2U03,CB1,3,2
+Database Systems,CB1-Y3S2U04,CB1,3,2
+Algorithms,CB1-Y3S2U05,CB1,3,2
+Artificial Intelligence,CB1-Y3S2U06,CB1,3,2
+Human Computer Interaction,CB1-Y3S2U07,CB1,3,2
+Algorithms,CB1-Y3S2U08,CB1,3,2
+Artificial Intelligence,CB1-Y4S1U01,CB1,4,1
+Software Engineering,CB1-Y4S1U02,CB1,4,1
+Cyber Security,CB1-Y4S1U03,CB1,4,1
+Introduction to Programming,CB1-Y4S1U04,CB1,4,1
+Data Structures,CB1-Y4S1U05,CB1,4,1
+Introduction to Programming,CB1-Y4S1U06,CB1,4,1
+Cyber Security,CB1-Y4S1U07,CB1,4,1
+Human Computer Interaction,CB1-Y4S2U01,CB1,4,2
+Software Engineering,CB1-Y4S2U02,CB1,4,2
+Algorithms,CB1-Y4S2U03,CB1,4,2
+Operating Systems,CB1-Y4S2U04,CB1,4,2
+Data Structures,CB1-Y4S2U05,CB1,4,2
+Cyber Security,CB1-Y4S2U06,CB1,4,2
+Introduction to Programming,CB1-Y4S2U07,CB1,4,2
+Web Development,CB2-Y1S1U01,CB2,1,1
+Distributed Systems,CB2-Y1S1U02,CB2,1,1
+Machine Learning,CB2-Y1S1U03,CB2,1,1
+Software Engineering,CB2-Y1S1U04,CB2,1,1
+Software Engineering,CB2-Y1S1U05,CB2,1,1
+Computer Networks,CB2-Y1S2U01,CB2,1,2
+Operating Systems,CB2-Y1S2U02,CB2,1,2
+Computer Networks,CB2-Y1S2U03,CB2,1,2
+Operating Systems,CB2-Y1S2U04,CB2,1,2
+Mobile Application Development,CB2-Y1S2U05,CB2,1,2
+Distributed Systems,CB2-Y1S2U06,CB2,1,2
+Compiler Design,CB2-Y1S2U07,CB2,1,2
+Human Computer Interaction,CB2-Y2S1U01,CB2,2,1
+Operating Systems,CB2-Y2S1U02,CB2,2,1
+Introduction to Programming,CB2-Y2S1U03,CB2,2,1
+Artificial Intelligence,CB2-Y2S1U04,CB2,2,1
+Web Development,CB2-Y2S1U05,CB2,2,1
+Database Systems,CB2-Y2S2U01,CB2,2,2
+Algorithms,CB2-Y2S2U02,CB2,2,2
+Mobile Application Development,CB2-Y2S2U03,CB2,2,2
+Operating Systems,CB2-Y2S2U04,CB2,2,2
+Human Computer Interaction,CB2-Y2S2U05,CB2,2,2
+Algorithms,CB2-Y2S2U06,CB2,2,2
+Compiler Design,CB2-Y2S2U07,CB2,2,2
+Web Development,CB2-Y2S2U08,CB2,2,2
+Distributed Systems,CB2-Y2S2U09,CB2,2,2
+Computer Networks,CB2-Y3S1U01,CB2,3,1
+Database Systems,CB2-Y3S1U02,CB2,3,1
+Software Engineering,CB2-Y3S1U03,CB2,3,1
+Compiler Design,CB2-Y3S1U04,CB2,3,1
+Data Structures,CB2-Y3S1U05,CB2,3,1
+Introduction to Programming,CB2-Y3S1U06,CB2,3,1
+Introduction to Programming,CB2-Y3S1U07,CB2,3,1
+Algorithms,CB2-Y3S1U08,CB2,3,1
+Operating Systems,CB2-Y3S1U09,CB2,3,1
+Distributed Systems,CB2-Y3S2U01,CB2,3,2
+Web Development,CB2-Y3S2U02,CB2,3,2
+Distributed Systems,CB2-Y3S2U03,CB2,3,2
+Distributed Systems,CB2-Y3S2U04,CB2,3,2
+Database Systems,CB2-Y3S2U05,CB2,3,2
+Introduction to Programming,CB2-Y3S2U06,CB2,3,2
+Database Systems,CB2-Y3S2U07,CB2,3,2
+Web Development,CB2-Y3S2U08,CB2,3,2
+Artificial Intelligence,CB2-Y3S2U09,CB2,3,2
+Database Systems,CB2-Y4S1U01,CB2,4,1
+Database Systems,CB2-Y4S1U02,CB2,4,1
+Algorithms,CB2-Y4S1U03,CB2,4,1
+Software Engineering,CB2-Y4S1U04,CB2,4,1
+Machine Learning,CB2-Y4S1U05,CB2,4,1
+Database Systems,CB2-Y4S1U06,CB2,4,1
+Computer Networks,CB2-Y4S1U07,CB2,4,1
+Mobile Application Development,CB2-Y4S1U08,CB2,4,1
+Computer Networks,CB2-Y4S1U09,CB2,4,1
+Cyber Security,CB2-Y4S2U01,CB2,4,2
+Human Computer Interaction,CB2-Y4S2U02,CB2,4,2
+Web Development,CB2-Y4S2U03,CB2,4,2
+Software Engineering,CB2-Y4S2U04,CB2,4,2
+Human Computer Interaction,CB2-Y4S2U05,CB2,4,2
+Algorithms,CB2-Y4S2U06,CB2,4,2
+Introduction to Programming,CB2-Y4S2U07,CB2,4,2
+Operating Systems,CB2-Y4S2U08,CB2,4,2
+Mobile Application Development,CB3-Y1S1U01,CB3,1,1
+Distributed Systems,CB3-Y1S1U02,CB3,1,1
+Distributed Systems,CB3-Y1S1U03,CB3,1,1
+Algorithms,CB3-Y1S1U04,CB3,1,1
+Artificial Intelligence,CB3-Y1S1U05,CB3,1,1
+Mobile Application Development,CB3-Y1S1U06,CB3,1,1
+Data Structures,CB3-Y1S2U01,CB3,1,2
+Human Computer Interaction,CB3-Y1S2U02,CB3,1,2
+Algorithms,CB3-Y1S2U03,CB3,1,2
+Algorithms,CB3-Y1S2U04,CB3,1,2
+Algorithms,CB3-Y1S2U05,CB3,1,2
+Database Systems,CB3-Y1S2U06,CB3,1,2
+Database Systems,CB3-Y1S2U07,CB3,1,2
+Data Structures,CB3-Y1S2U08,CB3,1,2
+Artificial Intelligence,CB3-Y1S2U09,CB3,1,2
+Cyber Security,CB3-Y2S1U01,CB3,2,1
+Distributed Systems,CB3-Y2S1U02,CB3,2,1
+Algorithms,CB3-Y2S1U03,CB3,2,1
+Mobile Application Development,CB3-Y2S1U04,CB3,2,1
+Data Structures,CB3-Y2S1U05,CB3,2,1
+Machine Learning,CB3-Y2S1U06,CB3,2,1
+Web Development,CB3-Y2S2U01,CB3,2,2
+Human Computer Interaction,CB3-Y2S2U02,CB3,2,2
+Algorithms,CB3-Y2S2U03,CB3,2,2
+Database Systems,CB3-Y2S2U04,CB3,2,2
+Operating Systems,CB3-Y2S2U05,CB3,2,2
+Distributed Systems,CB3-Y2S2U06,CB3,2,2
+Web Development,CB3-Y3S1U01,CB3,3,1
+Web Development,CB3-Y3S1U02,CB3,3,1
+Machine Learning,CB3-Y3S1U03,CB3,3,1
+Human Computer Interaction,CB3-Y3S1U04,CB3,3,1
+Mobile Application Development,CB3-Y3S1U05,CB3,3,1
+Introduction to Programming,CB3-Y3S1U06,CB3,3,1
+Machine Learning,CB3-Y3S1U07,CB3,3,1
+Database Systems,CB3-Y3S1U08,CB3,3,1
+Software Engineering,CB3-Y3S1U09,CB3,3,1
+Software Engineering,CB3-Y3S2U01,CB3,3,2
+Data Structures,CB3-Y3S2U02,CB3,3,2
+Compiler Design,CB3-Y3S2U03,CB3,3,2
+Artificial Intelligence,CB3-Y3S2U04,CB3,3,2
+Machine Learning,CB3-Y3S2U05,CB3,3,2
+Operating Systems,CB3-Y3S2U06,CB3,3,2
+Distributed Systems,CB3-Y3S2U07,CB3,3,2
+Database Systems,CB3-Y4S1U01,CB3,4,1
+Data Structures,CB3-Y4S1U02,CB3,4,1
+Artificial Intelligence,CB3-Y4S1U03,CB3,4,1
+Software Engineering,CB3-Y4S1U04,CB3,4,1
+Operating Systems,CB3-Y4S1U05,CB3,4,1
+Compiler Design,CB3-Y4S1U06,CB3,4,1
+Web Development,CB3-Y4S1U07,CB3,4,1
+Computer Networks,CB3-Y4S2U01,CB3,4,2
+Human Computer Interaction,CB3-Y4S2U02,CB3,4,2
+Artificial Intelligence,CB3-Y4S2U03,CB3,4,2
+Mobile Application Development,CB3-Y4S2U04,CB3,4,2
+Machine Learning,CB3-Y4S2U05,CB3,4,2
+Web Development,CB4-Y1S1U01,CB4,1,1
+Distributed Systems,CB4-Y1S1U02,CB4,1,1
+Data Structures,CB4-Y1S1U03,CB4,1,1
+Machine Learning,CB4-Y1S1U04,CB4,1,1
+Cyber Security,CB4-Y1S1U05,CB4,1,1
+Algorithms,CB4-Y1S1U06,CB4,1,1
+Introduction to Programming,CB4-Y1S1U07,CB4,1,1
+Database Systems,CB4-Y1S2U01,CB4,1,2
+Operating Systems,CB4-Y1S2U02,CB4,1,2
+Operating Systems,CB4-Y1S2U03,CB4,1,2
+Algorithms,CB4-Y1S2U04,CB4,1,2
+Mobile Application Development,CB4-Y1S2U05,CB4,1,2
+Mobile Application Development,CB4-Y1S2U06,CB4,1,2
+Algorithms,CB4-Y1S2U07,CB4,1,2
+Algorithms,CB4-Y2S1U01,CB4,2,1
+Algorithms,CB4-Y2S1U02,CB4,2,1
+Machine Learning,CB4-Y2S1U03,CB4,2,1
+Web Development,CB4-Y2S1U04,CB4,2,1
+Database Systems,CB4-Y2S1U05,CB4,2,1
+Machine Learning,CB4-Y2S2U01,CB4,2,2
+Cyber Security,CB4-Y2S2U02,CB4,2,2
+Distributed Systems,CB4-Y2S2U03,CB4,2,2
+Compiler Design,CB4-Y2S2U04,CB4,2,2
+Cyber Security,CB4-Y2S2U05,CB4,2,2
+Mobile Application Development,CB4-Y2S2U06,CB4,2,2
+Artificial Intelligence,CB4-Y2S2U07,CB4,2,2
+Mobile Application Development,CB4-Y3S1U01,CB4,3,1
+Software Engineering,CB4-Y3S1U02,CB4,3,1
+Algorithms,CB4-Y3S1U03,CB4,3,1
+Web Development,CB4-Y3S1U04,CB4,3,1
+Database Systems,CB4-Y3S1U05,CB4,3,1
+Database Systems,CB4-Y3S2U01,CB4,3,2
+Distributed Systems,CB4-Y3S2U02,CB4,3,2
+Compiler Design,CB4-Y3S2U03,CB4,3,2
+Human Computer Interaction,CB4-Y3S2U04,CB4,3,2
+Software Engineering,CB4-Y3S2U05,CB4,3,2
+Introduction to Programming,CB4-Y3S2U06,CB4,3,2
+Data Structures,CB4-Y3S2U07,CB4,3,2
+Machine Learning,CB4-Y4S1U01,CB4,4,1
+Cyber Security,CB4-Y4S1U02,CB4,4,1
+Operating Systems,CB4-Y4S1U03,CB4,4,1
+Compiler Design,CB4-Y4S1U04,CB4,4,1
+Introduction to Programming,CB4-Y4S1U05,CB4,4,1
+Distributed Systems,CB4-Y4S1U06,CB4,4,1
+Introduction to Programming,CB4-Y4S1U07,CB4,4,1
+Data Structures,CB4-Y4S2U01,CB4,4,2
+Computer Networks,CB4-Y4S2U02,CB4,4,2
+Human Computer Interaction,CB4-Y4S2U03,CB4,4,2
+Human Computer Interaction,CB4-Y4S2U04,CB4,4,2
+Machine Learning,CB4-Y4S2U05,CB4,4,2
+Mobile Application Development,CB4-Y4S2U06,CB4,4,2
+Algorithms,CB4-Y4S2U07,CB4,4,2
+Mobile Application Development,CB5-Y1S1U01,CB5,1,1
+Operating Systems,CB5-Y1S1U02,CB5,1,1
+Data Structures,CB5-Y1S1U03,CB5,1,1
+Data Structures,CB5-Y1S1U04,CB5,1,1
+Computer Networks,CB5-Y1S1U05,CB5,1,1
+Web Development,CB5-Y1S1U06,CB5,1,1
+Operating Systems,CB5-Y1S1U07,CB5,1,1
+Data Structures,CB5-Y1S2U01,CB5,1,2
+Computer Networks,CB5-Y1S2U02,CB5,1,2
+Web Development,CB5-Y1S2U03,CB5,1,2
+Cyber Security,CB5-Y1S2U04,CB5,1,2
+Introduction to Programming,CB5-Y1S2U05,CB5,1,2
+Software Engineering,CB5-Y1S2U06,CB5,1,2
+Introduction to Programming,CB5-Y2S1U01,CB5,2,1
+Data Structures,CB5-Y2S1U02,CB5,2,1
+Computer Networks,CB5-Y2S1U03,CB5,2,1
+Artificial Intelligence,CB5-Y2S1U04,CB5,2,1
+Machine Learning,CB5-Y2S1U05,CB5,2,1
+Operating Systems,CB5-Y2S1U06,CB5,2,1
+Software Engineering,CB5-Y2S1U07,CB5,2,1
+Compiler Design,CB5-Y2S1U08,CB5,2,1
+Machine Learning,CB5-Y2S1U09,CB5,2,1
+Computer Networks,CB5-Y2S2U01,CB5,2,2
+Cyber Security,CB5-Y2S2U02,CB5,2,2
+Database Systems,CB5-Y2S2U03,CB5,2,2
+Machine Learning,CB5-Y2S2U04,CB5,2,2
+Cyber Security,CB5-Y2S2U05,CB5,2,2
+Operating Systems,CB5-Y2S2U06,CB5,2,2
+Operating Systems,CB5-Y2S2U07,CB5,2,2
+Compiler Design,CB5-Y2S2U08,CB5,2,2
+Human Computer Interaction,CB5-Y3S1U01,CB5,3,1
+Compiler Design,CB5-Y3S1U02,CB5,3,1
+Artificial Intelligence,CB5-Y3S1U03,CB5,3,1
+Cyber Security,CB5-Y3S1U04,CB5,3,1
+Artificial Intelligence,CB5-Y3S1U05,CB5,3,1
+Web Development,CB5-Y3S2U01,CB5,3,2
+Database Systems,CB5-Y3S2U02,CB5,3,2
+Data Structures,CB5-Y3S2U03,CB5,3,2
+Cyber Security,CB5-Y3S2U04,CB5,3,2
+Human Computer Interaction,CB5-Y3S2U05,CB5,3,2
+Operating Systems,CB5-Y3S2U06,CB5,3,2
+Data Structures,CB5-Y3S2U07,CB5,3,2
+Computer Networks,CB5-Y3S2U08,CB5,3,2
+Software Engineering,CB5-Y4S1U01,CB5,4,1
+Machine Learning,CB5-Y4S1U02,CB5,4,1
+Database Systems,CB5-Y4S1U03,CB5,4,1
+Software Engineering,CB5-Y4S1U04,CB5,4,1
+Computer Networks,CB5-Y4S1U05,CB5,4,1
+Compiler Design,CB5-Y4S1U06,CB5,4,1
+Introduction to Programming,CB5-Y4S1U07,CB5,4,1
+Mobile Application Development,CB5-Y4S2U01,CB5,4,2
+Cyber Security,CB5-Y4S2U02,CB5,4,2
+Operating Systems,CB5-Y4S2U03,CB5,4,2
+Compiler Design,CB5-Y4S2U04,CB5,4,2
+Software Engineering,CB5-Y4S2U05,CB5,4,2
+Cyber Security,CB5-Y4S2U06,CB5,4,2
+Cyber Security,CB5-Y4S2U07,CB5,4,2
+Human Computer Interaction,CB6-Y1S1U01,CB6,1,1
+Software Engineering,CB6-Y1S1U02,CB6,1,1
+Introduction to Programming,CB6-Y1S1U03,CB6,1,1
+Machine Learning,CB6-Y1S1U04,CB6,1,1
+Computer Networks,CB6-Y1S1U05,CB6,1,1
+Software Engineering,CB6-Y1S1U06,CB6,1,1
+Distributed Systems,CB6-Y1S2U01,CB6,1,2
+Human Computer Interaction,CB6-Y1S2U02,CB6,1,2
+Introduction to Programming,CB6-Y1S2U03,CB6,1,2
+Distributed Systems,CB6-Y1S2U04,CB6,1,2
+Human Computer Interaction,CB6-Y1S2U05,CB6,1,2
+Distributed Systems,CB6-Y1S2U06,CB6,1,2
+Machine Learning,CB6-Y1S2U07,CB6,1,2
+Algorithms,CB6-Y1S2U08,CB6,1,2
+Algorithms,CB6-Y2S1U01,CB6,2,1
+Database Systems,CB6-Y2S1U02,CB6,2,1
+Machine Learning,CB6-Y2S1U03,CB6,2,1
+Artificial Intelligence,CB6-Y2S1U04,CB6,2,1
+Software Engineering,CB6-Y2S1U05,CB6,2,1
+Compiler Design,CB6-Y2S1U06,CB6,2,1
+Database Systems,CB6-Y2S1U07,CB6,2,1
+Artificial Intelligence,CB6-Y2S1U08,CB6,2,1
+Machine Learning,CB6-Y2S1U09,CB6,2,1
+Software Engineering,CB6-Y2S2U01,CB6,2,2
+Data Structures,CB6-Y2S2U02,CB6,2,2
+Software Engineering,CB6-Y2S2U03,CB6,2,2
+Distributed Systems,CB6-Y2S2U04,CB6,2,2
+Distributed Systems,CB6-Y2S2U05,CB6,2,2
+Introduction to Programming,CB6-Y2S2U06,CB6,2,2
+Data Structures,CB6-Y2S2U07,CB6,2,2
+Mobile Application Development,CB6-Y3S1U01,CB6,3,1
+Database Systems,CB6-Y3S1U02,CB6,3,1
+Computer Networks,CB6-Y3S1U03,CB6,3,1
+Cyber Security,CB6-Y3S1U04,CB6,3,1
+Web Development,CB6-Y3S1U05,CB6,3,1
+Software Engineering,CB6-Y3S1U06,CB6,3,1
+Data Structures,CB6-Y3S2U01,CB6,3,2
+Cyber Security,CB6-Y3S2U02,CB6,3,2
+Algorithms,CB6-Y3S2U03,CB6,3,2
+Distributed Systems,CB6-Y3S2U04,CB6,3,2
+Cyber Security,CB6-Y3S2U05,CB6,3,2
+Human Computer Interaction,CB6-Y3S2U06,CB6,3,2
+Compiler Design,CB6-Y3S2U07,CB6,3,2
+Data Structures,CB6-Y3S2U08,CB6,3,2
+Software Engineering,CB6-Y4S1U01,CB6,4,1
+Operating Systems,CB6-Y4S1U02,CB6,4,1
+Distributed Systems,CB6-Y4S1U03,CB6,4,1
+Mobile Application Development,CB6-Y4S1U04,CB6,4,1
+Compiler Design,CB6-Y4S1U05,CB6,4,1
+Artificial Intelligence,CB6-Y4S1U06,CB6,4,1
+Data Structures,CB6-Y4S1U07,CB6,4,1
+Introduction to Programming,CB6-Y4S1U08,CB6,4,1
+Cyber Security,CB6-Y4S1U09,CB6,4,1
+Web Development,CB6-Y4S2U01,CB6,4,2
+Machine Learning,CB6-Y4S2U02,CB6,4,2
+Distributed Systems,CB6-Y4S2U03,CB6,4,2
+Data Structures,CB6-Y4S2U04,CB6,4,2
+Data Structures,CB6-Y4S2U05,CB6,4,2
+Data Structures,CB7-Y1S1U01,CB7,1,1
+Computer Networks,CB7-Y1S1U02,CB7,1,1
+Algorithms,CB7-Y1S1U03,CB7,1,1
+Cyber Security,CB7-Y1S1U04,CB7,1,1
+Data Structures,CB7-Y1S1U05,CB7,1,1
+Mobile Application Development,CB7-Y1S1U06,CB7,1,1
+Human Computer Interaction,CB7-Y1S1U07,CB7,1,1
+Mobile Application Development,CB7-Y1S2U01,CB7,1,2
+Web Development,CB7-Y1S2U02,CB7,1,2
+Algorithms,CB7-Y1S2U03,CB7,1,2
+Mobile Application Development,CB7-Y1S2U04,CB7,1,2
+Operating Systems,CB7-Y1S2U05,CB7,1,2
+Introduction to Programming,CB7-Y1S2U06,CB7,1,2
+Database Systems,CB7-Y2S1U01,CB7,2,1
+Software Engineering,CB7-Y2S1U02,CB7,2,1
+Database Systems,CB7-Y2S1U03,CB7,2,1
+Introduction to Programming,CB7-Y2S1U04,CB7,2,1
+Data Structures,CB7-Y2S1U05,CB7,2,1
+Operating Systems,CB7-Y2S2U01,CB7,2,2
+Mobile Application Development,CB7-Y2S2U02,CB7,2,2
+Artificial Intelligence,CB7-Y2S2U03,CB7,2,2
+Distributed Systems,CB7-Y2S2U04,CB7,2,2
+Introduction to Programming,CB7-Y2S2U05,CB7,2,2
+Cyber Security,CB7-Y2S2U06,CB7,2,2
+Operating Systems,CB7-Y2S2U07,CB7,2,2
+Software Engineering,CB7-Y3S1U01,CB7,3,1
+Database Systems,CB7-Y3S1U02,CB7,3,1
+Mobile Application Development,CB7-Y3S1U03,CB7,3,1
+Software Engineering,CB7-Y3S1U04,CB7,3,1
+Human Computer Interaction,CB7-Y3S1U05,CB7,3,1
+Operating Systems,CB7-Y3S1U06,CB7,3,1
+Database Systems,CB7-Y3S1U07,CB7,3,1
+Database Systems,CB7-Y3S1U08,CB7,3,1
+Software Engineering,CB7-Y3S2U01,CB7,3,2
+Introduction to Programming,CB7-Y3S2U02,CB7,3,2
+Database Systems,CB7-Y3S2U03,CB7,3,2
+Web Development,CB7-Y3S2U04,CB7,3,2
+Mobile Application Development,CB7-Y3S2U05,CB7,3,2
+Data Structures,CB7-Y3S2U06,CB7,3,2
+Human Computer Interaction,CB7-Y3S2U07,CB7,3,2
+Operating Systems,CB7-Y4S1U01,CB7,4,1
+Software Engineering,CB7-Y4S1U02,CB7,4,1
+Machine Learning,CB7-Y4S1U03,CB7,4,1
+Database Systems,CB7-Y4S1U04,CB7,4,1
+Artificial Intelligence,CB7-Y4S1U05,CB7,4,1
+Artificial Intelligence,CB7-Y4S1U06,CB7,4,1
+Algorithms,CB7-Y4S1U07,CB7,4,1
+Distributed Systems,CB7-Y4S2U01,CB7,4,2
+Machine Learning,CB7-Y4S2U02,CB7,4,2
+Machine Learning,CB7-Y4S2U03,CB7,4,2
+Database Systems,CB7-Y4S2U04,CB7,4,2
+Mobile Application Development,CB7-Y4S2U05,CB7,4,2
+Computer Networks,CB7-Y4S2U06,CB7,4,2
+Database Systems,CB7-Y4S2U07,CB7,4,2
+Distributed Systems,CB8-Y1S1U01,CB8,1,1
+Mobile Application Development,CB8-Y1S1U02,CB8,1,1
+Web Development,CB8-Y1S1U03,CB8,1,1
+Machine Learning,CB8-Y1S1U04,CB8,1,1
+Web Development,CB8-Y1S1U05,CB8,1,1
+Algorithms,CB8-Y1S1U06,CB8,1,1
+Computer Networks,CB8-Y1S1U07,CB8,1,1
+Artificial Intelligence,CB8-Y1S2U01,CB8,1,2
+Cyber Security,CB8-Y1S2U02,CB8,1,2
+Compiler Design,CB8-Y1S2U03,CB8,1,2
+Software Engineering,CB8-Y1S2U04,CB8,1,2
+Human Computer Interaction,CB8-Y1S2U05,CB8,1,2
+Database Systems,CB8-Y2S1U01,CB8,2,1
+Operating Systems,CB8-Y2S1U02,CB8,2,1
+Mobile Application Development,CB8-Y2S1U03,CB8,2,1
+Introduction to Programming,CB8-Y2S1U04,CB8,2,1
+Algorithms,CB8-Y2S1U05,CB8,2,1
+Database Systems,CB8-Y2S1U06,CB8,2,1
+Data Structures,CB8-Y2S1U07,CB8,2,1
+Compiler Design,CB8-Y2S1U08,CB8,2,1
+Compiler Design,CB8-Y2S2U01,CB8,2,2
+Artificial Intelligence,CB8-Y2S2U02,CB8,2,2
+Data Structures,CB8-Y2S2U03,CB8,2,2
+Artificial Intelligence,CB8-Y2S2U04,CB8,2,2
+Web Development,CB8-Y2S2U05,CB8,2,2
+Algorithms,CB8-Y2S2U06,CB8,2,2
+Data Structures,CB8-Y2S2U07,CB8,2,2
+Software Engineering,CB8-Y3S1U01,CB8,3,1
+Mobile Application Development,CB8-Y3S1U02,CB8,3,1
+Operating Systems,CB8-Y3S1U03,CB8,3,1
+Computer Networks,CB8-Y3S1U04,CB8,3,1
+Data Structures,CB8-Y3S1U05,CB8,3,1
+Web Development,CB8-Y3S2U01,CB8,3,2
+Database Systems,CB8-Y3S2U02,CB8,3,2
+Data Structures,CB8-Y3S2U03,CB8,3,2
+Algorithms,CB8-Y3S2U04,CB8,3,2
+Mobile Application Development,CB8-Y3S2U05,CB8,3,2
+Mobile Application Development,CB8-Y3S2U06,CB8,3,2
+Distributed Systems,CB8-Y3S2U07,CB8,3,2
+Distributed Systems,CB8-Y3S2U08,CB8,3,2
+Computer Networks,CB8-Y3S2U09,CB8,3,2
+Database Systems,CB8-Y4S1U01,CB8,4,1
+Cyber Security,CB8-Y4S1U02,CB8,4,1
+Distributed Systems,CB8-Y4S1U03,CB8,4,1
+Data Structures,CB8-Y4S1U04,CB8,4,1
+Database Systems,CB8-Y4S1U05,CB8,4,1
+Software Engineering,CB8-Y4S1U06,CB8,4,1
+Artificial Intelligence,CB8-Y4S1U07,CB8,4,1
+Human Computer Interaction,CB8-Y4S1U08,CB8,4,1
+Artificial Intelligence,CB8-Y4S1U09,CB8,4,1
+Web Development,CB8-Y4S2U01,CB8,4,2
+Introduction to Programming,CB8-Y4S2U02,CB8,4,2
+Computer Networks,CB8-Y4S2U03,CB8,4,2
+Machine Learning,CB8-Y4S2U04,CB8,4,2
+Compiler Design,CB8-Y4S2U05,CB8,4,2
+Cyber Security,CB9-Y1S1U01,CB9,1,1
+Computer Networks,CB9-Y1S1U02,CB9,1,1
+Human Computer Interaction,CB9-Y1S1U03,CB9,1,1
+Cyber Security,CB9-Y1S1U04,CB9,1,1
+Mobile Application Development,CB9-Y1S1U05,CB9,1,1
+Cyber Security,CB9-Y1S1U06,CB9,1,1
+Artificial Intelligence,CB9-Y1S1U07,CB9,1,1
+Introduction to Programming,CB9-Y1S2U01,CB9,1,2
+Data Structures,CB9-Y1S2U02,CB9,1,2
+Algorithms,CB9-Y1S2U03,CB9,1,2
+Compiler Design,CB9-Y1S2U04,CB9,1,2
+Software Engineering,CB9-Y1S2U05,CB9,1,2
+Machine Learning,CB9-Y1S2U06,CB9,1,2
+Algorithms,CB9-Y1S2U07,CB9,1,2
+Mobile Application Development,CB9-Y1S2U08,CB9,1,2
+Operating Systems,CB9-Y2S1U01,CB9,2,1
+Artificial Intelligence,CB9-Y2S1U02,CB9,2,1
+Introduction to Programming,CB9-Y2S1U03,CB9,2,1
+Algorithms,CB9-Y2S1U04,CB9,2,1
+Artificial Intelligence,CB9-Y2S1U05,CB9,2,1
+Compiler Design,CB9-Y2S1U06,CB9,2,1
+Human Computer Interaction,CB9-Y2S1U07,CB9,2,1
+Machine Learning,CB9-Y2S1U08,CB9,2,1
+Data Structures,CB9-Y2S2U01,CB9,2,2
+Software Engineering,CB9-Y2S2U02,CB9,2,2
+Computer Networks,CB9-Y2S2U03,CB9,2,2
+Machine Learning,CB9-Y2S2U04,CB9,2,2
+Algorithms,CB9-Y2S2U05,CB9,2,2
+Computer Networks,CB9-Y2S2U06,CB9,2,2
+Computer Networks,CB9-Y2S2U07,CB9,2,2
+Compiler Design,CB9-Y2S2U08,CB9,2,2
+Distributed Systems,CB9-Y3S1U01,CB9,3,1
+Algorithms,CB9-Y3S1U02,CB9,3,1
+Human Computer Interaction,CB9-Y3S1U03,CB9,3,1
+Web Development,CB9-Y3S1U04,CB9,3,1
+Web Development,CB9-Y3S1U05,CB9,3,1
+Data Structures,CB9-Y3S1U06,CB9,3,1
+Distributed Systems,CB9-Y3S1U07,CB9,3,1
+Artificial Intelligence,CB9-Y3S1U08,CB9,3,1
+Compiler Design,CB9-Y3S2U01,CB9,3,2
+Distributed Systems,CB9-Y3S2U02,CB9,3,2
+Data Structures,CB9-Y3S2U03,CB9,3,2
+Compiler Design,CB9-Y3S2U04,CB9,3,2
+Cyber Security,CB9-Y3S2U05,CB9,3,2
+Compiler Design,CB9-Y3S2U06,CB9,3,2
+Software Engineering,CB9-Y3S2U07,CB9,3,2
+Introduction to Programming,CB9-Y3S2U08,CB9,3,2
+Software Engineering,CB9-Y4S1U01,CB9,4,1
+Software Engineering,CB9-Y4S1U02,CB9,4,1
+Distributed Systems,CB9-Y4S1U03,CB9,4,1
+Database Systems,CB9-Y4S1U04,CB9,4,1
+Data Structures,CB9-Y4S1U05,CB9,4,1
+Distributed Systems,CB9-Y4S2U01,CB9,4,2
+Computer Networks,CB9-Y4S2U02,CB9,4,2
+Data Structures,CB9-Y4S2U03,CB9,4,2
+Computer Networks,CB9-Y4S2U04,CB9,4,2
+Machine Learning,CB9-Y4S2U05,CB9,4,2
+Introduction to Programming,CB9-Y4S2U06,CB9,4,2
+Artificial Intelligence,CB10-Y1S1U01,CB10,1,1
+Machine Learning,CB10-Y1S1U02,CB10,1,1
+Database Systems,CB10-Y1S1U03,CB10,1,1
+Compiler Design,CB10-Y1S1U04,CB10,1,1
+Distributed Systems,CB10-Y1S1U05,CB10,1,1
+Machine Learning,CB10-Y1S2U01,CB10,1,2
+Operating Systems,CB10-Y1S2U02,CB10,1,2
+Distributed Systems,CB10-Y1S2U03,CB10,1,2
+Software Engineering,CB10-Y1S2U04,CB10,1,2
+Operating Systems,CB10-Y1S2U05,CB10,1,2
+Software Engineering,CB10-Y1S2U06,CB10,1,2
+Operating Systems,CB10-Y1S2U07,CB10,1,2
+Mobile Application Development,CB10-Y2S1U01,CB10,2,1
+Machine Learning,CB10-Y2S1U02,CB10,2,1
+Compiler Design,CB10-Y2S1U03,CB10,2,1
+Algorithms,CB10-Y2S1U04,CB10,2,1
+Artificial Intelligence,CB10-Y2S1U05,CB10,2,1
+Cyber Security,CB10-Y2S2U01,CB10,2,2
+Data Structures,CB10-Y2S2U02,CB10,2,2
+Database Systems,CB10-Y2S2U03,CB10,2,2
+Cyber Security,CB10-Y2S2U04,CB10,2,2
+Data Structures,CB10-Y2S2U05,CB10,2,2
+Distributed Systems,CB10-Y2S2U06,CB10,2,2
+Introduction to Programming,CB10-Y2S2U07,CB10,2,2
+Machine Learning,CB10-Y2S2U08,CB10,2,2
+Algorithms,CB10-Y3S1U01,CB10,3,1
+Compiler Design,CB10-Y3S1U02,CB10,3,1
+Artificial Intelligence,CB10-Y3S1U03,CB10,3,1
+Distributed Systems,CB10-Y3S1U04,CB10,3,1
+Machine Learning,CB10-Y3S1U05,CB10,3,1
+Algorithms,CB10-Y3S1U06,CB10,3,1
+Introduction to Programming,CB10-Y3S1U07,CB10,3,1
+Human Computer Interaction,CB10-Y3S1U08,CB10,3,1
+Web Development,CB10-Y3S2U01,CB10,3,2
+Cyber Security,CB10-Y3S2U02,CB10,3,2
+Computer Networks,CB10-Y3S2U03,CB10,3,2
+Software Engineering,CB10-Y3S2U04,CB10,3,2
+Artificial Intelligence,CB10-Y3S2U05,CB10,3,2
+Mobile Application Development,CB10-Y3S2U06,CB10,3,2
+Database Systems,CB10-Y3S2U07,CB10,3,2
+Web Development,CB10-Y3S2U08,CB10,3,2
+Operating Systems,CB10-Y4S1U01,CB10,4,1
+Compiler Design,CB10-Y4S1U02,CB10,4,1
+Computer Networks,CB10-Y4S1U03,CB10,4,1
+Software Engineering,CB10-Y4S1U04,CB10,4,1
+Introduction to Programming,CB10-Y4S1U05,CB10,4,1
+Software Engineering,CB10-Y4S1U06,CB10,4,1
+Human Computer Interaction,CB10-Y4S1U07,CB10,4,1
+Database Systems,CB10-Y4S1U08,CB10,4,1
+Database Systems,CB10-Y4S2U01,CB10,4,2
+Artificial Intelligence,CB10-Y4S2U02,CB10,4,2
+Machine Learning,CB10-Y4S2U03,CB10,4,2
+Artificial Intelligence,CB10-Y4S2U04,CB10,4,2
+Web Development,CB10-Y4S2U05,CB10,4,2
+Web Development,CB10-Y4S2U06,CB10,4,2
+Web Development,CB11-Y1S1U01,CB11,1,1
+Operating Systems,CB11-Y1S1U02,CB11,1,1
+Introduction to Programming,CB11-Y1S1U03,CB11,1,1
+Compiler Design,CB11-Y1S1U04,CB11,1,1
+Database Systems,CB11-Y1S1U05,CB11,1,1
+Cyber Security,CB11-Y1S1U06,CB11,1,1
+Software Engineering,CB11-Y1S1U07,CB11,1,1
+Web Development,CB11-Y1S2U01,CB11,1,2
+Software Engineering,CB11-Y1S2U02,CB11,1,2
+Compiler Design,CB11-Y1S2U03,CB11,1,2
+Algorithms,CB11-Y1S2U04,CB11,1,2
+Database Systems,CB11-Y1S2U05,CB11,1,2
+Introduction to Programming,CB11-Y1S2U06,CB11,1,2
+Data Structures,CB11-Y1S2U07,CB11,1,2
+Artificial Intelligence,CB11-Y2S1U01,CB11,2,1
+Computer Networks,CB11-Y2S1U02,CB11,2,1
+Computer Networks,CB11-Y2S1U03,CB11,2,1
+Algorithms,CB11-Y2S1U04,CB11,2,1
+Computer Networks,CB11-Y2S1U05,CB11,2,1
+Mobile Application Development,CB11-Y2S1U06,CB11,2,1
+Data Structures,CB11-Y2S1U07,CB11,2,1
+Machine Learning,CB11-Y2S1U08,CB11,2,1
+Cyber Security,CB11-Y2S1U09,CB11,2,1
+Web Development,CB11-Y2S2U01,CB11,2,2
+Compiler Design,CB11-Y2S2U02,CB11,2,2
+Operating Systems,CB11-Y2S2U03,CB11,2,2
+Artificial Intelligence,CB11-Y2S2U04,CB11,2,2
+Web Development,CB11-Y2S2U05,CB11,2,2
+Algorithms,CB11-Y2S2U06,CB11,2,2
+Algorithms,CB11-Y2S2U07,CB11,2,2
+Distributed Systems,CB11-Y3S1U01,CB11,3,1
+Human Computer Interaction,CB11-Y3S1U02,CB11,3,1
+Operating Systems,CB11-Y3S1U03,CB11,3,1
+Distributed Systems,CB11-Y3S1U04,CB11,3,1
+Introduction to Programming,CB11-Y3S1U05,CB11,3,1
+Algorithms,CB11-Y3S2U01,CB11,3,2
+Distributed Systems,CB11-Y3S2U02,CB11,3,2
+Computer Networks,CB11-Y3S2U03,CB11,3,2
+Introduction to Programming,CB11-Y3S2U04,CB11,3,2
+Machine Learning,CB11-Y3S2U05,CB11,3,2
+Cyber Security,CB11-Y3S2U06,CB11,3,2
+Distributed Systems,CB11-Y3S2U07,CB11,3,2
+Machine Learning,CB11-Y3S2U08,CB11,3,2
+Data Structures,CB11-Y4S1U01,CB11,4,1
+Mobile Application Development,CB11-Y4S1U02,CB11,4,1
+Software Engineering,CB11-Y4S1U03,CB11,4,1
+Operating Systems,CB11-Y4S1U04,CB11,4,1
+Software Engineering,CB11-Y4S1U05,CB11,4,1
+Human Computer Interaction,CB11-Y4S1U06,CB11,4,1
+Mobile Application Development,CB11-Y4S1U07,CB11,4,1
+Database Systems,CB11-Y4S1U08,CB11,4,1
+Data Structures,CB11-Y4S2U01,CB11,4,2
+Introduction to Programming,CB11-Y4S2U02,CB11,4,2
+Data Structures,CB11-Y4S2U03,CB11,4,2
+Web Development,CB11-Y4S2U04,CB11,4,2
+Compiler Design,CB11-Y4S2U05,CB11,4,2
+Software Engineering,CB11-Y4S2U06,CB11,4,2
+Introduction to Programming,CB11-Y4S2U07,CB11,4,2
+Mobile Application Development,CB11-Y4S2U08,CB11,4,2
+Machine Learning,CB11-Y4S2U09,CB11,4,2
+Cyber Security,CB12-Y1S1U01,CB12,1,1
+Algorithms,CB12-Y1S1U02,CB12,1,1
+Machine Learning,CB12-Y1S1U03,CB12,1,1
+Distributed Systems,CB12-Y1S1U04,CB12,1,1
+Operating Systems,CB12-Y1S1U05,CB12,1,1
+Cyber Security,CB12-Y1S2U01,CB12,1,2
+Distributed Systems,CB12-Y1S2U02,CB12,1,2
+Artificial Intelligence,CB12-Y1S2U03,CB12,1,2
+Cyber Security,CB12-Y1S2U04,CB12,1,2
+Database Systems,CB12-Y1S2U05,CB12,1,2
+Introduction to Programming,CB12-Y1S2U06,CB12,1,2
+Data Structures,CB12-Y1S2U07,CB12,1,2
+Distributed Systems,CB12-Y2S1U01,CB12,2,1
+Mobile Application Development,CB12-Y2S1U02,CB12,2,1
+Algorithms,CB12-Y2S1U03,CB12,2,1
+Artificial Intelligence,CB12-Y2S1U04,CB12,2,1
+Artificial Intelligence,CB12-Y2S1U05,CB12,2,1
+Distributed Systems,CB12-Y2S1U06,CB12,2,1
+Compiler Design,CB12-Y2S2U01,CB12,2,2
+Web Development,CB12-Y2S2U02,CB12,2,2
+Software Engineering,CB12-Y2S2U03,CB12,2,2
+Cyber Security,CB12-Y2S2U04,CB12,2,2
+Data Structures,CB12-Y2S2U05,CB12,2,2
+Introduction to Programming,CB12-Y2S2U06,CB12,2,2
+Data Structures,CB12-Y2S2U07,CB12,2,2
+Mobile Application Development,CB12-Y2S2U08,CB12,2,2
+Mobile Application Development,CB12-Y3S1U01,CB12,3,1
+Computer Networks,CB12-Y3S1U02,CB12,3,1
+Database Systems,CB12-Y3S1U03,CB12,3,1
+Introduction to Programming,CB12-Y3S1U04,CB12,3,1
+Computer Networks,CB12-Y3S1U05,CB12,3,1
+Operating Systems,CB12-Y3S1U06,CB12,3,1
+Artificial Intelligence,CB12-Y3S2U01,CB12,3,2
+Computer Networks,CB12-Y3S2U02,CB12,3,2
+Cyber Security,CB12-Y3S2U03,CB12,3,2
+Data Structures,CB12-Y3S2U04,CB12,3,2
+Computer Networks,CB12-Y3S2U05,CB12,3,2
+Distributed Systems,CB12-Y3S2U06,CB12,3,2
+Software Engineering,CB12-Y3S2U07,CB12,3,2
+Data Structures,CB12-Y4S1U01,CB12,4,1
+Distributed Systems,CB12-Y4S1U02,CB12,4,1
+Machine Learning,CB12-Y4S1U03,CB12,4,1
+Distributed Systems,CB12-Y4S1U04,CB12,4,1
+Artificial Intelligence,CB12-Y4S1U05,CB12,4,1
+Compiler Design,CB12-Y4S1U06,CB12,4,1
+Mobile Application Development,CB12-Y4S2U01,CB12,4,2
+Operating Systems,CB12-Y4S2U02,CB12,4,2
+Computer Networks,CB12-Y4S2U03,CB12,4,2
+Human Computer Interaction,CB12-Y4S2U04,CB12,4,2
+Artificial Intelligence,CB12-Y4S2U05,CB12,4,2
+Algorithms,CB12-Y4S2U06,CB12,4,2
+Database Systems,CB12-Y4S2U07,CB12,4,2
+Distributed Systems,CB13-Y1S1U01,CB13,1,1
+Software Engineering,CB13-Y1S1U02,CB13,1,1
+Computer Networks,CB13-Y1S1U03,CB13,1,1
+Artificial Intelligence,CB13-Y1S1U04,CB13,1,1
+Artificial Intelligence,CB13-Y1S1U05,CB13,1,1
+Cyber Security,CB13-Y1S1U06,CB13,1,1
+Machine Learning,CB13-Y1S2U01,CB13,1,2
+Web Development,CB13-Y1S2U02,CB13,1,2
+Database Systems,CB13-Y1S2U03,CB13,1,2
+Mobile Application Development,CB13-Y1S2U04,CB13,1,2
+Artificial Intelligence,CB13-Y1S2U05,CB13,1,2
+Artificial Intelligence,CB13-Y2S1U01,CB13,2,1
+Database Systems,CB13-Y2S1U02,CB13,2,1
+Machine Learning,CB13-Y2S1U03,CB13,2,1
+Computer Networks,CB13-Y2S1U04,CB13,2,1
+Cyber Security,CB13-Y2S1U05,CB13,2,1
+Algorithms,CB13-Y2S1U06,CB13,2,1
+Introduction to Programming,CB13-Y2S1U07,CB13,2,1
+Human Computer Interaction,CB13-Y2S1U08,CB13,2,1
+Database Systems,CB13-Y2S1U09,CB13,2,1
+Computer Networks,CB13-Y2S2U01,CB13,2,2
+Introduction to Programming,CB13-Y2S2U02,CB13,2,2
+Distributed Systems,CB13-Y2S2U03,CB13,2,2
+Algorithms,CB13-Y2S2U04,CB13,2,2
+Human Computer Interaction,CB13-Y2S2U05,CB13,2,2
+Cyber Security,CB13-Y2S2U06,CB13,2,2
+Distributed Systems,CB13-Y3S1U01,CB13,3,1
+Web Development,CB13-Y3S1U02,CB13,3,1
+Distributed Systems,CB13-Y3S1U03,CB13,3,1
+Data Structures,CB13-Y3S1U04,CB13,3,1
+Machine Learning,CB13-Y3S1U05,CB13,3,1
+Mobile Application Development,CB13-Y3S1U06,CB13,3,1
+Compiler Design,CB13-Y3S1U07,CB13,3,1
+Mobile Application Development,CB13-Y3S2U01,CB13,3,2
+Operating Systems,CB13-Y3S2U02,CB13,3,2
+Operating Systems,CB13-Y3S2U03,CB13,3,2
+Web Development,CB13-Y3S2U04,CB13,3,2
+Introduction to Programming,CB13-Y3S2U05,CB13,3,2
+Compiler Design,CB13-Y3S2U06,CB13,3,2
+Cyber Security,CB13-Y3S2U07,CB13,3,2
+Computer Networks,CB13-Y3S2U08,CB13,3,2
+Cyber Security,CB13-Y3S2U09,CB13,3,2
+Web Development,CB13-Y4S1U01,CB13,4,1
+Software Engineering,CB13-Y4S1U02,CB13,4,1
+Machine Learning,CB13-Y4S1U03,CB13,4,1
+Machine Learning,CB13-Y4S1U04,CB13,4,1
+Compiler Design,CB13-Y4S1U05,CB13,4,1
+Artificial Intelligence,CB13-Y4S1U06,CB13,4,1
+Algorithms,CB13-Y4S1U07,CB13,4,1
+Algorithms,CB13-Y4S1U08,CB13,4,1
+Operating Systems,CB13-Y4S1U09,CB13,4,1
+Computer Networks,CB13-Y4S2U01,CB13,4,2
+Database Systems,CB13-Y4S2U02,CB13,4,2
+Cyber Security,CB13-Y4S2U03,CB13,4,2
+Machine Learning,CB13-Y4S2U04,CB13,4,2
+Web Development,CB13-Y4S2U05,CB13,4,2
+Introduction to Programming,CB14-Y1S1U01,CB14,1,1
+Web Development,CB14-Y1S1U02,CB14,1,1
+Distributed Systems,CB14-Y1S1U03,CB14,1,1
+Mobile Application Development,CB14-Y1S1U04,CB14,1,1
+Distributed Systems,CB14-Y1S1U05,CB14,1,1
+Introduction to Programming,CB14-Y1S2U01,CB14,1,2
+Mobile Application Development,CB14-Y1S2U02,CB14,1,2
+Compiler Design,CB14-Y1S2U03,CB14,1,2
+Artificial Intelligence,CB14-Y1S2U04,CB14,1,2
+Introduction to Programming,CB14-Y1S2U05,CB14,1,2
+Artificial Intelligence,CB14-Y1S2U06,CB14,1,2
+Introduction to Programming,CB14-Y1S2U07,CB14,1,2
+Computer Networks,CB14-Y1S2U08,CB14,1,2
+Software Engineering,CB14-Y1S2U09,CB14,1,2
+Software Engineering,CB14-Y2S1U01,CB14,2,1
+Computer Networks,CB14-Y2S1U02,CB14,2,1
+Distributed Systems,CB14-Y2S1U03,CB14,2,1
+Introduction to Programming,CB14-Y2S1U04,CB14,2,1
+Machine Learning,CB14-Y2S1U05,CB14,2,1
+Compiler Design,CB14-Y2S1U06,CB14,2,1
+Distributed Systems,CB14-Y2S1U07,CB14,2,1
+Machine Learning,CB14-Y2S1U08,CB14,2,1
+Machine Learning,CB14-Y2S2U01,CB14,2,2
+Software Engineering,CB14-Y2S2U02,CB14,2,2
+Operating Systems,CB14-Y2S2U03,CB14,2,2
+Machine Learning,CB14-Y2S2U04,CB14,2,2
+Data Structures,CB14-Y2S2U05,CB14,2,2
+Software Engineering,CB14-Y3S1U01,CB14,3,1
+Algorithms,CB14-Y3S1U02,CB14,3,1
+Cyber Security,CB14-Y3S1U03,CB14,3,1
+Software Engineering,CB14-Y3S1U04,CB14,3,1
+Machine Learning,CB14-Y3S1U05,CB14,3,1
+Software Engineering,CB14-Y3S1U06,CB14,3,1
+Computer Networks,CB14-Y3S1U07,CB14,3,1
+Operating Systems,CB14-Y3S1U08,CB14,3,1
+Artificial Intelligence,CB14-Y3S1U09,CB14,3,1
+Operating Systems,CB14-Y3S2U01,CB14,3,2
+Database Systems,CB14-Y3S2U02,CB14,3,2
+Mobile Application Development,CB14-Y3S2U03,CB14,3,2
+Web Development,CB14-Y3S2U04,CB14,3,2
+Introduction to Programming,CB14-Y3S2U05,CB14,3,2
+Introduction to Programming,CB14-Y3S2U06,CB14,3,2
+Introduction to Programming,CB14-Y3S2U07,CB14,3,2
+Operating Systems,CB14-Y4S1U01,CB14,4,1
+Cyber Security,CB14-Y4S1U02,CB14,4,1
+Web Development,CB14-Y4S1U03,CB14,4,1
+Data Structures,CB14-Y4S1U04,CB14,4,1
+Distributed Systems,CB14-Y4S1U05,CB14,4,1
+Algorithms,CB14-Y4S2U01,CB14,4,2
+Human Computer Interaction,CB14-Y4S2U02,CB14,4,2
+Compiler Design,CB14-Y4S2U03,CB14,4,2
+Web Development,CB14-Y4S2U04,CB14,4,2
+Database Systems,CB14-Y4S2U05,CB14,4,2
+Computer Networks,CB14-Y4S2U06,CB14,4,2
+Introduction to Programming,CB14-Y4S2U07,CB14,4,2
+Compiler Design,CB15-Y1S1U01,CB15,1,1
+Computer Networks,CB15-Y1S1U02,CB15,1,1
+Computer Networks,CB15-Y1S1U03,CB15,1,1
+Human Computer Interaction,CB15-Y1S1U04,CB15,1,1
+Software Engineering,CB15-Y1S1U05,CB15,1,1
+Database Systems,CB15-Y1S1U06,CB15,1,1
+Distributed Systems,CB15-Y1S1U07,CB15,1,1
+Algorithms,CB15-Y1S2U01,CB15,1,2
+Data Structures,CB15-Y1S2U02,CB15,1,2
+Operating Systems,CB15-Y1S2U03,CB15,1,2
+Web Development,CB15-Y1S2U04,CB15,1,2
+Introduction to Programming,CB15-Y1S2U05,CB15,1,2
+Compiler Design,CB15-Y2S1U01,CB15,2,1
+Data Structures,CB15-Y2S1U02,CB15,2,1
+Mobile Application Development,CB15-Y2S1U03,CB15,2,1
+Compiler Design,CB15-Y2S1U04,CB15,2,1
+Distributed Systems,CB15-Y2S1U05,CB15,2,1
+Algorithms,CB15-Y2S1U06,CB15,2,1
+Operating Systems,CB15-Y2S2U01,CB15,2,2
+Mobile Application Development,CB15-Y2S2U02,CB15,2,2
+Database Systems,CB15-Y2S2U03,CB15,2,2
+Cyber Security,CB15-Y2S2U04,CB15,2,2
+Compiler Design,CB15-Y2S2U05,CB15,2,2
+Software Engineering,CB15-Y2S2U06,CB15,2,2
+Algorithms,CB15-Y2S2U07,CB15,2,2
+Software Engineering,CB15-Y2S2U08,CB15,2,2
+Artificial Intelligence,CB15-Y3S1U01,CB15,3,1
+Software Engineering,CB15-Y3S1U02,CB15,3,1
+Data Structures,CB15-Y3S1U03,CB15,3,1
+Human Computer Interaction,CB15-Y3S1U04,CB15,3,1
+Database Systems,CB15-Y3S1U05,CB15,3,1
+Introduction to Programming,CB15-Y3S1U06,CB15,3,1
+Distributed Systems,CB15-Y3S2U01,CB15,3,2
+Database Systems,CB15-Y3S2U02,CB15,3,2
+Web Development,CB15-Y3S2U03,CB15,3,2
+Human Computer Interaction,CB15-Y3S2U04,CB15,3,2
+Cyber Security,CB15-Y3S2U05,CB15,3,2
+Artificial Intelligence,CB15-Y3S2U06,CB15,3,2
+Introduction to Programming,CB15-Y3S2U07,CB15,3,2
+Mobile Application Development,CB15-Y4S1U01,CB15,4,1
+Data Structures,CB15-Y4S1U02,CB15,4,1
+Machine Learning,CB15-Y4S1U03,CB15,4,1
+Algorithms,CB15-Y4S1U04,CB15,4,1
+Human Computer Interaction,CB15-Y4S1U05,CB15,4,1
+Artificial Intelligence,CB15-Y4S1U06,CB15,4,1
+Operating Systems,CB15-Y4S1U07,CB15,4,1
+Database Systems,CB15-Y4S1U08,CB15,4,1
+Cyber Security,CB15-Y4S1U09,CB15,4,1
+Introduction to Programming,CB15-Y4S2U01,CB15,4,2
+Data Structures,CB15-Y4S2U02,CB15,4,2
+Introduction to Programming,CB15-Y4S2U03,CB15,4,2
+Machine Learning,CB15-Y4S2U04,CB15,4,2
+Cyber Security,CB15-Y4S2U05,CB15,4,2
+Artificial Intelligence,CB15-Y4S2U06,CB15,4,2
+Software Engineering,CB16-Y1S1U01,CB16,1,1
+Compiler Design,CB16-Y1S1U02,CB16,1,1
+Distributed Systems,CB16-Y1S1U03,CB16,1,1
+Machine Learning,CB16-Y1S1U04,CB16,1,1
+Web Development,CB16-Y1S1U05,CB16,1,1
+Artificial Intelligence,CB16-Y1S1U06,CB16,1,1
+Software Engineering,CB16-Y1S1U07,CB16,1,1
+Software Engineering,CB16-Y1S1U08,CB16,1,1
+Artificial Intelligence,CB16-Y1S1U09,CB16,1,1
+Machine Learning,CB16-Y1S2U01,CB16,1,2
+Operating Systems,CB16-Y1S2U02,CB16,1,2
+Web Development,CB16-Y1S2U03,CB16,1,2
+Software Engineering,CB16-Y1S2U04,CB16,1,2
+Artificial Intelligence,CB16-Y1S2U05,CB16,1,2
+Human Computer Interaction,CB16-Y1S2U06,CB16,1,2
+Computer Networks,CB16-Y1S2U07,CB16,1,2
+Introduction to Programming,CB16-Y2S1U01,CB16,2,1
+Algorithms,CB16-Y2S1U02,CB16,2,1
+Human Computer Interaction,CB16-Y2S1U03,CB16,2,1
+Machine Learning,CB16-Y2S1U04,CB16,2,1
+Distributed Systems,CB16-Y2S1U05,CB16,2,1
+Introduction to Programming,CB16-Y2S1U06,CB16,2,1
+Introduction to Programming,CB16-Y2S1U07,CB16,2,1
+Algorithms,CB16-Y2S1U08,CB16,2,1
+Human Computer Interaction,CB16-Y2S2U01,CB16,2,2
+Distributed Systems,CB16-Y2S2U02,CB16,2,2
+Mobile Application Development,CB16-Y2S2U03,CB16,2,2
+Database Systems,CB16-Y2S2U04,CB16,2,2
+Software Engineering,CB16-Y2S2U05,CB16,2,2
+Computer Networks,CB16-Y2S2U06,CB16,2,2
+Machine Learning,CB16-Y2S2U07,CB16,2,2
+Compiler Design,CB16-Y2S2U08,CB16,2,2
+Cyber Security,CB16-Y3S1U01,CB16,3,1
+Algorithms,CB16-Y3S1U02,CB16,3,1
+Operating Systems,CB16-Y3S1U03,CB16,3,1
+Human Computer Interaction,CB16-Y3S1U04,CB16,3,1
+Introduction to Programming,CB16-Y3S1U05,CB16,3,1
+Data Structures,CB16-Y3S1U06,CB16,3,1
+Machine Learning,CB16-Y3S1U07,CB16,3,1
+Compiler Design,CB16-Y3S2U01,CB16,3,2
+Operating Systems,CB16-Y3S2U02,CB16,3,2
+Data Structures,CB16-Y3S2U03,CB16,3,2
+Algorithms,CB16-Y3S2U04,CB16,3,2
+Database Systems,CB16-Y3S2U05,CB16,3,2
+Software Engineering,CB16-Y3S2U06,CB16,3,2
+Cyber Security,CB16-Y3S2U07,CB16,3,2
+Computer Networks,CB16-Y3S2U08,CB16,3,2
+Database Systems,CB16-Y4S1U01,CB16,4,1
+Artificial Intelligence,CB16-Y4S1U02,CB16,4,1
+Algorithms,CB16-Y4S1U03,CB16,4,1
+Database Systems,CB16-Y4S1U04,CB16,4,1
+Algorithms,CB16-Y4S1U05,CB16,4,1
+Cyber Security,CB16-Y4S1U06,CB16,4,1
+Computer Networks,CB16-Y4S1U07,CB16,4,1
+Web Development,CB16-Y4S2U01,CB16,4,2
+Mobile Application Development,CB16-Y4S2U02,CB16,4,2
+Mobile Application Development,CB16-Y4S2U03,CB16,4,2
+Computer Networks,CB16-Y4S2U04,CB16,4,2
+Artificial Intelligence,CB16-Y4S2U05,CB16,4,2
+Compiler Design,CB16-Y4S2U06,CB16,4,2
+Artificial Intelligence,CB16-Y4S2U07,CB16,4,2
+Artificial Intelligence,ENG1-Y1S1U01,ENG1,1,1
+Introduction to Programming,ENG1-Y1S1U02,ENG1,1,1
+Computer Networks,ENG1-Y1S1U03,ENG1,1,1
+Software Engineering,ENG1-Y1S1U04,ENG1,1,1
+Computer Networks,ENG1-Y1S1U05,ENG1,1,1
+Distributed Systems,ENG1-Y1S1U06,ENG1,1,1
+Cyber Security,ENG1-Y1S1U07,ENG1,1,1
+Algorithms,ENG1-Y1S1U08,ENG1,1,1
+Introduction to Programming,ENG1-Y1S1U09,ENG1,1,1
+Distributed Systems,ENG1-Y1S2U01,ENG1,1,2
+Data Structures,ENG1-Y1S2U02,ENG1,1,2
+Artificial Intelligence,ENG1-Y1S2U03,ENG1,1,2
+Human Computer Interaction,ENG1-Y1S2U04,ENG1,1,2
+Compiler Design,ENG1-Y1S2U05,ENG1,1,2
+Database Systems,ENG1-Y1S2U06,ENG1,1,2
+Data Structures,ENG1-Y1S2U07,ENG1,1,2
+Algorithms,ENG1-Y2S1U01,ENG1,2,1
+Computer Networks,ENG1-Y2S1U02,ENG1,2,1
+Mobile Application Development,ENG1-Y2S1U03,ENG1,2,1
+Computer Networks,ENG1-Y2S1U04,ENG1,2,1
+Database Systems,ENG1-Y2S1U05,ENG1,2,1
+Algorithms,ENG1-Y2S1U06,ENG1,2,1
+Algorithms,ENG1-Y2S1U07,ENG1,2,1
+Cyber Security,ENG1-Y2S2U01,ENG1,2,2
+Algorithms,ENG1-Y2S2U02,ENG1,2,2
+Machine Learning,ENG1-Y2S2U03,ENG1,2,2
+Machine Learning,ENG1-Y2S2U04,ENG1,2,2
+Web Development,ENG1-Y2S2U05,ENG1,2,2
+Machine Learning,ENG1-Y2S2U06,ENG1,2,2
+Human Computer Interaction,ENG1-Y2S2U07,ENG1,2,2
+Introduction to Programming,ENG1-Y2S2U08,ENG1,2,2
+Human Computer Interaction,ENG1-Y3S1U01,ENG1,3,1
+Cyber Security,ENG1-Y3S1U02,ENG1,3,1
+Compiler Design,ENG1-Y3S1U03,ENG1,3,1
+Artificial Intelligence,ENG1-Y3S1U04,ENG1,3,1
+Algorithms,ENG1-Y3S1U05,ENG1,3,1
+Operating Systems,ENG1-Y3S1U06,ENG1,3,1
+Machine Learning,ENG1-Y3S2U01,ENG1,3,2
+Compiler Design,ENG1-Y3S2U02,ENG1,3,2
+Machine Learning,ENG1-Y3S2U03,ENG1,3,2
+Software Engineering,ENG1-Y3S2U04,ENG1,3,2
+Computer Networks,ENG1-Y3S2U05,ENG1,3,2
+Data Structures,ENG1-Y3S2U06,ENG1,3,2
+Introduction to Programming,ENG1-Y3S2U07,ENG1,3,2
+Computer Networks,ENG1-Y3S2U08,ENG1,3,2
+Web Development,ENG1-Y4S1U01,ENG1,4,1
+Operating Systems,ENG1-Y4S1U02,ENG1,4,1
+Database Systems,ENG1-Y4S1U03,ENG1,4,1
+Data Structures,ENG1-Y4S1U04,ENG1,4,1
+Compiler Design,ENG1-Y4S1U05,ENG1,4,1
+Data Structures,ENG1-Y4S1U06,ENG1,4,1
+Machine Learning,ENG1-Y4S1U07,ENG1,4,1
+Mobile Application Development,ENG1-Y4S1U08,ENG1,4,1
+Mobile Application Development,ENG1-Y4S2U01,ENG1,4,2
+Software Engineering,ENG1-Y4S2U02,ENG1,4,2
+Algorithms,ENG1-Y4S2U03,ENG1,4,2
+Database Systems,ENG1-Y4S2U04,ENG1,4,2
+Distributed Systems,ENG1-Y4S2U05,ENG1,4,2
+Computer Networks,ENG2-Y1S1U01,ENG2,1,1
+Introduction to Programming,ENG2-Y1S1U02,ENG2,1,1
+Cyber Security,ENG2-Y1S1U03,ENG2,1,1
+Operating Systems,ENG2-Y1S1U04,ENG2,1,1
+Algorithms,ENG2-Y1S1U05,ENG2,1,1
+Introduction to Programming,ENG2-Y1S1U06,ENG2,1,1
+Database Systems,ENG2-Y1S1U07,ENG2,1,1
+Data Structures,ENG2-Y1S1U08,ENG2,1,1
+Software Engineering,ENG2-Y1S1U09,ENG2,1,1
+Introduction to Programming,ENG2-Y1S2U01,ENG2,1,2
+Computer Networks,ENG2-Y1S2U02,ENG2,1,2
+Human Computer Interaction,ENG2-Y1S2U03,ENG2,1,2
+Introduction to Programming,ENG2-Y1S2U04,ENG2,1,2
+Data Structures,ENG2-Y1S2U05,ENG2,1,2
+Machine Learning,ENG2-Y1S2U06,ENG2,1,2
+Compiler Design,ENG2-Y1S2U07,ENG2,1,2
+Data Structures,ENG2-Y1S2U08,ENG2,1,2
+Cyber Security,ENG2-Y1S2U09,ENG2,1,2
+Machine Learning,ENG2-Y2S1U01,ENG2,2,1
+Computer Networks,ENG2-Y2S1U02,ENG2,2,1
+Human Computer Interaction,ENG2-Y2S1U03,ENG2,2,1
+Introduction to Programming,ENG2-Y2S1U04,ENG2,2,1
+Computer Networks,ENG2-Y2S1U05,ENG2,2,1
+Software Engineering,ENG2-Y2S1U06,ENG2,2,1
+Software Engineering,ENG2-Y2S1U07,ENG2,2,1
+Introduction to Programming,ENG2-Y2S1U08,ENG2,2,1
+Web Development,ENG2-Y2S1U09,ENG2,2,1
+Artificial Intelligence,ENG2-Y2S2U01,ENG2,2,2
+Artificial Intelligence,ENG2-Y2S2U02,ENG2,2,2
+Cyber Security,ENG2-Y2S2U03,ENG2,2,2
+Web Development,ENG2-Y2S2U04,ENG2,2,2
+Machine Learning,ENG2-Y2S2U05,ENG2,2,2
+Mobile Application Development,ENG2-Y2S2U06,ENG2,2,2
+Computer Networks,ENG2-Y3S1U01,ENG2,3,1
+Machine Learning,ENG2-Y3S1U02,ENG2,3,1
+Computer Networks,ENG2-Y3S1U03,ENG2,3,1
+Machine Learning,ENG2-Y3S1U04,ENG2,3,1
+Database Systems,ENG2-Y3S1U05,ENG2,3,1
+Web Development,ENG2-Y3S1U06,ENG2,3,1
+Compiler Design,ENG2-Y3S1U07,ENG2,3,1
+Machine Learning,ENG2-Y3S1U08,ENG2,3,1
+Introduction to Programming,ENG2-Y3S1U09,ENG2,3,1
+Introduction to Programming,ENG2-Y3S2U01,ENG2,3,2
+Data Structures,ENG2-Y3S2U02,ENG2,3,2
+Algorithms,ENG2-Y3S2U03,ENG2,3,2
+Database Systems,ENG2-Y3S2U04,ENG2,3,2
+Web Development,ENG2-Y3S2U05,ENG2,3,2
+Introduction to Programming,ENG2-Y4S1U01,ENG2,4,1
+Introduction to Programming,ENG2-Y4S1U02,ENG2,4,1
+Human Computer Interaction,ENG2-Y4S1U03,ENG2,4,1
+Software Engineering,ENG2-Y4S1U04,ENG2,4,1
+Algorithms,ENG2-Y4S1U05,ENG2,4,1
+Compiler Design,ENG2-Y4S1U06,ENG2,4,1
+Data Structures,ENG2-Y4S1U07,ENG2,4,1
+Software Engineering,ENG2-Y4S1U08,ENG2,4,1
+Database Systems,ENG2-Y4S1U09,ENG2,4,1
+Machine Learning,ENG2-Y4S2U01,ENG2,4,2
+Compiler Design,ENG2-Y4S2U02,ENG2,4,2
+Cyber Security,ENG2-Y4S2U03,ENG2,4,2
+Machine Learning,ENG2-Y4S2U04,ENG2,4,2
+Human Computer Interaction,ENG2-Y4S2U05,ENG2,4,2
+Data Structures,ENG2-Y4S2U06,ENG2,4,2
+Distributed Systems,ENG2-Y4S2U07,ENG2,4,2
+Introduction to Programming,ENG2-Y4S2U08,ENG2,4,2
+Database Systems,ENG2-Y4S2U09,ENG2,4,2
+Database Systems,ENG3-Y1S1U01,ENG3,1,1
+Introduction to Programming,ENG3-Y1S1U02,ENG3,1,1
+Human Computer Interaction,ENG3-Y1S1U03,ENG3,1,1
+Database Systems,ENG3-Y1S1U04,ENG3,1,1
+Introduction to Programming,ENG3-Y1S1U05,ENG3,1,1
+Cyber Security,ENG3-Y1S1U06,ENG3,1,1
+Database Systems,ENG3-Y1S1U07,ENG3,1,1
+Operating Systems,ENG3-Y1S1U08,ENG3,1,1
+Compiler Design,ENG3-Y1S2U01,ENG3,1,2
+Artificial Intelligence,ENG3-Y1S2U02,ENG3,1,2
+Database Systems,ENG3-Y1S2U03,ENG3,1,2
+Software Engineering,ENG3-Y1S2U04,ENG3,1,2
+Machine Learning,ENG3-Y1S2U05,ENG3,1,2
+Software Engineering,ENG3-Y2S1U01,ENG3,2,1
+Introduction to Programming,ENG3-Y2S1U02,ENG3,2,1
+Human Computer Interaction,ENG3-Y2S1U03,ENG3,2,1
+Introduction to Programming,ENG3-Y2S1U04,ENG3,2,1
+Machine Learning,ENG3-Y2S1U05,ENG3,2,1
+Machine Learning,ENG3-Y2S1U06,ENG3,2,1
+Distributed Systems,ENG3-Y2S1U07,ENG3,2,1
+Introduction to Programming,ENG3-Y2S1U08,ENG3,2,1
+Web Development,ENG3-Y2S1U09,ENG3,2,1
+Software Engineering,ENG3-Y2S2U01,ENG3,2,2
+Database Systems,ENG3-Y2S2U02,ENG3,2,2
+Distributed Systems,ENG3-Y2S2U03,ENG3,2,2
+Distributed Systems,ENG3-Y2S2U04,ENG3,2,2
+Distributed Systems,ENG3-Y2S2U05,ENG3,2,2
+Algorithms,ENG3-Y2S2U06,ENG3,2,2
+Software Engineering,ENG3-Y2S2U07,ENG3,2,2
+Machine Learning,ENG3-Y3S1U01,ENG3,3,1
+Artificial Intelligence,ENG3-Y3S1U02,ENG3,3,1
+Algorithms,ENG3-Y3S1U03,ENG3,3,1
+Human Computer Interaction,ENG3-Y3S1U04,ENG3,3,1
+Artificial Intelligence,ENG3-Y3S1U05,ENG3,3,1
+Operating Systems,ENG3-Y3S1U06,ENG3,3,1
+Human Computer Interaction,ENG3-Y3S1U07,ENG3,3,1
+Software Engineering,ENG3-Y3S1U08,ENG3,3,1
+Web Development,ENG3-Y3S1U09,ENG3,3,1
+Artificial Intelligence,ENG3-Y3S2U01,ENG3,3,2
+Software Engineering,ENG3-Y3S2U02,ENG3,3,2
+Operating Systems,ENG3-Y3S2U03,ENG3,3,2
+Artificial Intelligence,ENG3-Y3S2U04,ENG3,3,2
+Compiler Design,ENG3-Y3S2U05,ENG3,3,2
+Compiler Design,ENG3-Y3S2U06,ENG3,3,2
+Software Engineering,ENG3-Y4S1U01,ENG3,4,1
+Human Computer Interaction,ENG3-Y4S1U02,ENG3,4,1
+Human Computer Interaction,ENG3-Y4S1U03,ENG3,4,1
+Computer Networks,ENG3-Y4S1U04,ENG3,4,1
+Cyber Security,ENG3-Y4S1U05,ENG3,4,1
+Algorithms,ENG3-Y4S1U06,ENG3,4,1
+Data Structures,ENG3-Y4S1U07,ENG3,4,1
+Cyber Security,ENG3-Y4S1U08,ENG3,4,1
+Algorithms,ENG3-Y4S1U09,ENG3,4,1
+Human Computer Interaction,ENG3-Y4S2U01,ENG3,4,2
+Database Systems,ENG3-Y4S2U02,ENG3,4,2
+Database Systems,ENG3-Y4S2U03,ENG3,4,2
+Database Systems,ENG3-Y4S2U04,ENG3,4,2
+Database Systems,ENG3-Y4S2U05,ENG3,4,2
+Distributed Systems,ENG3-Y4S2U06,ENG3,4,2
+Human Computer Interaction,ENG3-Y4S2U07,ENG3,4,2
+Database Systems,ENG4-Y1S1U01,ENG4,1,1
+Algorithms,ENG4-Y1S1U02,ENG4,1,1
+Mobile Application Development,ENG4-Y1S1U03,ENG4,1,1
+Software Engineering,ENG4-Y1S1U04,ENG4,1,1
+Distributed Systems,ENG4-Y1S1U05,ENG4,1,1
+Machine Learning,ENG4-Y1S1U06,ENG4,1,1
+Algorithms,ENG4-Y1S1U07,ENG4,1,1
+Distributed Systems,ENG4-Y1S1U08,ENG4,1,1
+Artificial Intelligence,ENG4-Y1S2U01,ENG4,1,2
+Machine Learning,ENG4-Y1S2U02,ENG4,1,2
+Data Structures,ENG4-Y1S2U03,ENG4,1,2
+Introduction to Programming,ENG4-Y1S2U04,ENG4,1,2
+Distributed Systems,ENG4-Y1S2U05,ENG4,1,2
+Distributed Systems,ENG4-Y1S2U06,ENG4,1,2
+Introduction to Programming,ENG4-Y1S2U07,ENG4,1,2
+Introduction to Programming,ENG4-Y2S1U01,ENG4,2,1
+Machine Learning,ENG4-Y2S1U02,ENG4,2,1
+Database Systems,ENG4-Y2S1U03,ENG4,2,1
+Web Development,ENG4-Y2S1U04,ENG4,2,1
+Compiler Design,ENG4-Y2S1U05,ENG4,2,1
+Operating Systems,ENG4-Y2S1U06,ENG4,2,1
+Introduction to Programming,ENG4-Y2S1U07,ENG4,2,1
+Human Computer Interaction,ENG4-Y2S2U01,ENG4,2,2
+Database Systems,ENG4-Y2S2U02,ENG4,2,2
+Data Structures,ENG4-Y2S2U03,ENG4,2,2
+Human Computer Interaction,ENG4-Y2S2U04,ENG4,2,2
+Mobile Application Development,ENG4-Y2S2U05,ENG4,2,2
+Computer Networks,ENG4-Y2S2U06,ENG4,2,2
+Operating Systems,ENG4-Y3S1U01,ENG4,3,1
+Data Structures,ENG4-Y3S1U02,ENG4,3,1
+Human Computer Interaction,ENG4-Y3S1U03,ENG4,3,1
+Web Development,ENG4-Y3S1U04,ENG4,3,1
+Mobile Application Development,ENG4-Y3S1U05,ENG4,3,1
+Database Systems,ENG4-Y3S1U06,ENG4,3,1
+Database Systems,ENG4-Y3S1U07,ENG4,3,1
+Mobile Application Development,ENG4-Y3S1U08,ENG4,3,1
+Algorithms,ENG4-Y3S2U01,ENG4,3,2
+Human Computer Interaction,ENG4-Y3S2U02,ENG4,3,2
+Machine Learning,ENG4-Y3S2U03,ENG4,3,2
+Compiler Design,ENG4-Y3S2U04,ENG4,3,2
+Distributed Systems,ENG4-Y3S2U05,ENG4,3,2
+Data Structures,ENG4-Y4S1U01,ENG4,4,1
+Human Computer Interaction,ENG4-Y4S1U02,ENG4,4,1
+Human Computer Interaction,ENG4-Y4S1U03,ENG4,4,1
+Operating Systems,ENG4-Y4S1U04,ENG4,4,1
+Artificial Intelligence,ENG4-Y4S1U05,ENG4,4,1
+Database Systems,ENG4-Y4S1U06,ENG4,4,1
+Machine Learning,ENG4-Y4S1U07,ENG4,4,1
+Data Structures,ENG4-Y4S1U08,ENG4,4,1
+Artificial Intelligence,ENG4-Y4S1U09,ENG4,4,1
+Cyber Security,ENG4-Y4S2U01,ENG4,4,2
+Algorithms,ENG4-Y4S2U02,ENG4,4,2
+Mobile Application Development,ENG4-Y4S2U03,ENG4,4,2
+Machine Learning,ENG4-Y4S2U04,ENG4,4,2
+Web Development,ENG4-Y4S2U05,ENG4,4,2
+Web Development,ENG4-Y4S2U06,ENG4,4,2
+Cyber Security,ENG5-Y1S1U01,ENG5,1,1
+Computer Networks,ENG5-Y1S1U02,ENG5,1,1
+Artificial Intelligence,ENG5-Y1S1U03,ENG5,1,1
+Operating Systems,ENG5-Y1S1U04,ENG5,1,1
+Artificial Intelligence,ENG5-Y1S1U05,ENG5,1,1
+Computer Networks,ENG5-Y1S1U06,ENG5,1,1
+Algorithms,ENG5-Y1S1U07,ENG5,1,1
+Artificial Intelligence,ENG5-Y1S1U08,ENG5,1,1
+Machine Learning,ENG5-Y1S1U09,ENG5,1,1
+Database Systems,ENG5-Y1S2U01,ENG5,1,2
+Human Computer Interaction,ENG5-Y1S2U02,ENG5,1,2
+Machine Learning,ENG5-Y1S2U03,ENG5,1,2
+Web Development,ENG5-Y1S2U04,ENG5,1,2
+Computer Networks,ENG5-Y1S2U05,ENG5,1,2
+Mobile Application Development,ENG5-Y1S2U06,ENG5,1,2
+Web Development,ENG5-Y1S2U07,ENG5,1,2
+Mobile Application Development,ENG5-Y1S2U08,ENG5,1,2
+Mobile Application Development,ENG5-Y2S1U01,ENG5,2,1
+Compiler Design,ENG5-Y2S1U02,ENG5,2,1
+Machine Learning,ENG5-Y2S1U03,ENG5,2,1
+Compiler Design,ENG5-Y2S1U04,ENG5,2,1
+Web Development,ENG5-Y2S1U05,ENG5,2,1
+Database Systems,ENG5-Y2S1U06,ENG5,2,1
+Operating Systems,ENG5-Y2S1U07,ENG5,2,1
+Mobile Application Development,ENG5-Y2S1U08,ENG5,2,1
+Data Structures,ENG5-Y2S1U09,ENG5,2,1
+Introduction to Programming,ENG5-Y2S2U01,ENG5,2,2
+Introduction to Programming,ENG5-Y2S2U02,ENG5,2,2
+Distributed Systems,ENG5-Y2S2U03,ENG5,2,2
+Compiler Design,ENG5-Y2S2U04,ENG5,2,2
+Introduction to Programming,ENG5-Y2S2U05,ENG5,2,2
+Cyber Security,ENG5-Y2S2U06,ENG5,2,2
+Machine Learning,ENG5-Y2S2U07,ENG5,2,2
+Distributed Systems,ENG5-Y2S2U08,ENG5,2,2
+Mobile Application Development,ENG5-Y3S1U01,ENG5,3,1
+Operating Systems,ENG5-Y3S1U02,ENG5,3,1
+Software Engineering,ENG5-Y3S1U03,ENG5,3,1
+Cyber Security,ENG5-Y3S1U04,ENG5,3,1
+Data Structures,ENG5-Y3S1U05,ENG5,3,1
+Algorithms,ENG5-Y3S1U06,ENG5,3,1
+Web Development,ENG5-Y3S1U07,ENG5,3,1
+Artificial Intelligence,ENG5-Y3S1U08,ENG5,3,1
+Data Structures,ENG5-Y3S1U09,ENG5,3,1
+Data Structures,ENG5-Y3S2U01,ENG5,3,2
+Computer Networks,ENG5-Y3S2U02,ENG5,3,2
+Web Development,ENG5-Y3S2U03,ENG5,3,2
+Machine Learning,ENG5-Y3S2U04,ENG5,3,2
+Data Structures,ENG5-Y3S2U05,ENG5,3,2
+Artificial Intelligence,ENG5-Y4S1U01,ENG5,4,1
+Database Systems,ENG5-Y4S1U02,ENG5,4,1
+Web Development,ENG5-Y4S1U03,ENG5,4,1
+Algorithms,ENG5-Y4S1U04,ENG5,4,1
+Software Engineering,ENG5-Y4S1U05,ENG5,4,1
+Software Engineering,ENG5-Y4S1U06,ENG5,4,1
+Introduction to Programming,ENG5-Y4S1U07,ENG5,4,1
+Introduction to Programming,ENG5-Y4S1U08,ENG5,4,1
+Human Computer Interaction,ENG5-Y4S2U01,ENG5,4,2
+Algorithms,ENG5-Y4S2U02,ENG5,4,2
+Artificial Intelligence,ENG5-Y4S2U03,ENG5,4,2
+Data Structures,ENG5-Y4S2U04,ENG5,4,2
+Machine Learning,ENG5-Y4S2U05,ENG5,4,2
+Mobile Application Development,ENG5-Y4S2U06,ENG5,4,2
+Web Development,ENG6-Y1S1U01,ENG6,1,1
+Distributed Systems,ENG6-Y1S1U02,ENG6,1,1
+Compiler Design,ENG6-Y1S1U03,ENG6,1,1
+Machine Learning,ENG6-Y1S1U04,ENG6,1,1
+Software Engineering,ENG6-Y1S1U05,ENG6,1,1
+Introduction to Programming,ENG6-Y1S1U06,ENG6,1,1
+Distributed Systems,ENG6-Y1S1U07,ENG6,1,1
+Machine Learning,ENG6-Y1S2U01,ENG6,1,2
+Introduction to Programming,ENG6-Y1S2U02,ENG6,1,2
+Artificial Intelligence,ENG6-Y1S2U03,ENG6,1,2
+Human Computer Interaction,ENG6-Y1S2U04,ENG6,1,2
+Machine Learning,ENG6-Y1S2U05,ENG6,1,2
+Data Structures,ENG6-Y2S1U01,ENG6,2,1
+Introduction to Programming,ENG6-Y2S1U02,ENG6,2,1
+Data Structures,ENG6-Y2S1U03,ENG6,2,1
+Computer Networks,ENG6-Y2S1U04,ENG6,2,1
+Machine Learning,ENG6-Y2S1U05,ENG6,2,1
+Software Engineering,ENG6-Y2S1U06,ENG6,2,1
+Software Engineering,ENG6-Y2S1U07,ENG6,2,1
+Software Engineering,ENG6-Y2S1U08,ENG6,2,1
+Data Structures,ENG6-Y2S1U09,ENG6,2,1
+Database Systems,ENG6-Y2S2U01,ENG6,2,2
+Web Development,ENG6-Y2S2U02,ENG6,2,2
+Machine Learning,ENG6-Y2S2U03,ENG6,2,2
+Compiler Design,ENG6-Y2S2U04,ENG6,2,2
+Cyber Security,ENG6-Y2S2U05,ENG6,2,2
+Database Systems,ENG6-Y2S2U06,ENG6,2,2
+Mobile Application Development,ENG6-Y3S1U01,ENG6,3,1
+Artificial Intelligence,ENG6-Y3S1U02,ENG6,3,1
+Software Engineering,ENG6-Y3S1U03,ENG6,3,1
+Operating Systems,ENG6-Y3S1U04,ENG6,3,1
+Machine Learning,ENG6-Y3S1U05,ENG6,3,1
+Data Structures,ENG6-Y3S1U06,ENG6,3,1
+Mobile Application Development,ENG6-Y3S2U01,ENG6,3,2
+Introduction to Programming,ENG6-Y3S2U02,ENG6,3,2
+Algorithms,ENG6-Y3S2U03,ENG6,3,2
+Cyber Security,ENG6-Y3S2U04,ENG6,3,2
+Human Computer Interaction,ENG6-Y3S2U05,ENG6,3,2
+Operating Systems,ENG6-Y3S2U06,ENG6,3,2
+Machine Learning,ENG6-Y4S1U01,ENG6,4,1
+Cyber Security,ENG6-Y4S1U02,ENG6,4,1
+Operating Systems,ENG6-Y4S1U03,ENG6,4,1
+Software Engineering,ENG6-Y4S1U04,ENG6,4,1
+Introduction to Programming,ENG6-Y4S1U05,ENG6,4,1
+Data Structures,ENG6-Y4S1U06,ENG6,4,1
+Database Systems,ENG6-Y4S1U07,ENG6,4,1
+Database Systems,ENG6-Y4S2U01,ENG6,4,2
+Web Development,ENG6-Y4S2U02,ENG6,4,2
+Computer Networks,ENG6-Y4S2U03,ENG6,4,2
+Human Computer Interaction,ENG6-Y4S2U04,ENG6,4,2
+Data Structures,ENG6-Y4S2U05,ENG6,4,2
+Artificial Intelligence,ENG6-Y4S2U06,ENG6,4,2
+Computer Networks,ENG6-Y4S2U07,ENG6,4,2
+Introduction to Programming,ENG7-Y1S1U01,ENG7,1,1
+Database Systems,ENG7-Y1S1U02,ENG7,1,1
+Distributed Systems,ENG7-Y1S1U03,ENG7,1,1
+Cyber Security,ENG7-Y1S1U04,ENG7,1,1
+Data Structures,ENG7-Y1S1U05,ENG7,1,1
+Web Development,ENG7-Y1S1U06,ENG7,1,1
+Cyber Security,ENG7-Y1S1U07,ENG7,1,1
+Data Structures,ENG7-Y1S2U01,ENG7,1,2
+Mobile Application Development,ENG7-Y1S2U02,ENG7,1,2
+Artificial Intelligence,ENG7-Y1S2U03,ENG7,1,2
+Software Engineering,ENG7-Y1S2U04,ENG7,1,2
+Mobile Application Development,ENG7-Y1S2U05,ENG7,1,2
+Software Engineering,ENG7-Y2S1U01,ENG7,2,1
+Distributed Systems,ENG7-Y2S1U02,ENG7,2,1
+Human Computer Interaction,ENG7-Y2S1U03,ENG7,2,1
+Introduction to Programming,ENG7-Y2S1U04,ENG7,2,1
+Mobile Application Development,ENG7-Y2S1U05,ENG7,2,1
+Mobile Application Development,ENG7-Y2S1U06,ENG7,2,1
+Mobile Application Development,ENG7-Y2S2U01,ENG7,2,2
+Artificial Intelligence,ENG7-Y2S2U02,ENG7,2,2
+Introduction to Programming,ENG7-Y2S2U03,ENG7,2,2
+Introduction to Programming,ENG7-Y2S2U04,ENG7,2,2
+Software Engineering,ENG7-Y2S2U05,ENG7,2,2
+Introduction to Programming,ENG7-Y2S2U06,ENG7,2,2
+Compiler Design,ENG7-Y2S2U07,ENG7,2,2
+Web Development,ENG7-Y2S2U08,ENG7,2,2
+Operating Systems,ENG7-Y3S1U01,ENG7,3,1
+Operating Systems,ENG7-Y3S1U02,ENG7,3,1
+Mobile Application Development,ENG7-Y3S1U03,ENG7,3,1
+Software Engineering,ENG7-Y3S1U04,ENG7,3,1
+Introduction to Programming,ENG7-Y3S1U05,ENG7,3,1
+Web Development,ENG7-Y3S2U01,ENG7,3,2
+Machine Learning,ENG7-Y3S2U02,ENG7,3,2
+Human Computer Interaction,ENG7-Y3S2U03,ENG7,3,2
+Algorithms,ENG7-Y3S2U04,ENG7,3,2
+Compiler Design,ENG7-Y3S2U05,ENG7,3,2
+Distributed Systems,ENG7-Y3S2U06,ENG7,3,2
+Computer Networks,ENG7-Y3S2U07,ENG7,3,2
+Mobile Application Development,ENG7-Y3S2U08,ENG7,3,2
+Machine Learning,ENG7-Y3S2U09,ENG7,3,2
+Cyber Security,ENG7-Y4S1U01,ENG7,4,1
+Web Development,ENG7-Y4S1U02,ENG7,4,1
+Cyber Security,ENG7-Y4S1U03,ENG7,4,1
+Algorithms,ENG7-Y4S1U04,ENG7,4,1
+Computer Networks,ENG7-Y4S1U05,ENG7,4,1
+Compiler Design,ENG7-Y4S1U06,ENG7,4,1
+Introduction to Programming,ENG7-Y4S1U07,ENG7,4,1
+Computer Networks,ENG7-Y4S1U08,ENG7,4,1
+Distributed Systems,ENG7-Y4S1U09,ENG7,4,1
+Human Computer Interaction,ENG7-Y4S2U01,ENG7,4,2
+Mobile Application Development,ENG7-Y4S2U02,ENG7,4,2
+Introduction to Programming,ENG7-Y4S2U03,ENG7,4,2
+Human Computer Interaction,ENG7-Y4S2U04,ENG7,4,2
+Artificial Intelligence,ENG7-Y4S2U05,ENG7,4,2
+Mobile Application Development,ENG7-Y4S2U06,ENG7,4,2
+Machine Learning,ENG8-Y1S1U01,ENG8,1,1
+Computer Networks,ENG8-Y1S1U02,ENG8,1,1
+Operating Systems,ENG8-Y1S1U03,ENG8,1,1
+Introduction to Programming,ENG8-Y1S1U04,ENG8,1,1
+Computer Networks,ENG8-Y1S1U05,ENG8,1,1
+Human Computer Interaction,ENG8-Y1S1U06,ENG8,1,1
+Introduction to Programming,ENG8-Y1S1U07,ENG8,1,1
+Compiler Design,ENG8-Y1S1U08,ENG8,1,1
+Machine Learning,ENG8-Y1S1U09,ENG8,1,1
+Algorithms,ENG8-Y1S2U01,ENG8,1,2
+Distributed Systems,ENG8-Y1S2U02,ENG8,1,2
+Distributed Systems,ENG8-Y1S2U03,ENG8,1,2
+Mobile Application Development,ENG8-Y1S2U04,ENG8,1,2
+Distributed Systems,ENG8-Y1S2U05,ENG8,1,2
+Compiler Design,ENG8-Y1S2U06,ENG8,1,2
+Cyber Security,ENG8-Y1S2U07,ENG8,1,2
+Software Engineering,ENG8-Y1S2U08,ENG8,1,2
+Mobile Application Development,ENG8-Y2S1U01,ENG8,2,1
+Artificial Intelligence,ENG8-Y2S1U02,ENG8,2,1
+Cyber Security,ENG8-Y2S1U03,ENG8,2,1
+Database Systems,ENG8-Y2S1U04,ENG8,2,1
+Introduction to Programming,ENG8-Y2S1U05,ENG8,2,1
+Cyber Security,ENG8-Y2S1U06,ENG8,2,1
+Web Development,ENG8-Y2S2U01,ENG8,2,2
+Operating Systems,ENG8-Y2S2U02,ENG8,2,2
+Machine Learning,ENG8-Y2S2U03,ENG8,2,2
+Artificial Intelligence,ENG8-Y2S2U04,ENG8,2,2
+Introduction to Programming,ENG8-Y2S2U05,ENG8,2,2
+Introduction to Programming,ENG8-Y2S2U06,ENG8,2,2
+Machine Learning,ENG8-Y2S2U07,ENG8,2,2
+Web Development,ENG8-Y2S2U08,ENG8,2,2
+Introduction to Programming,ENG8-Y2S2U09,ENG8,2,2
+Cyber Security,ENG8-Y3S1U01,ENG8,3,1
+Computer Networks,ENG8-Y3S1U02,ENG8,3,1
+Introduction to Programming,ENG8-Y3S1U03,ENG8,3,1
+Distributed Systems,ENG8-Y3S1U04,ENG8,3,1
+Operating Systems,ENG8-Y3S1U05,ENG8,3,1
+Web Development,ENG8-Y3S1U06,ENG8,3,1
+Mobile Application Development,ENG8-Y3S1U07,ENG8,3,1
+Distributed Systems,ENG8-Y3S1U08,ENG8,3,1
+Distributed Systems,ENG8-Y3S2U01,ENG8,3,2
+Web Development,ENG8-Y3S2U02,ENG8,3,2
+Cyber Security,ENG8-Y3S2U03,ENG8,3,2
+Database Systems,ENG8-Y3S2U04,ENG8,3,2
+Compiler Design,ENG8-Y3S2U05,ENG8,3,2
+Compiler Design,ENG8-Y3S2U06,ENG8,3,2
+Software Engineering,ENG8-Y3S2U07,ENG8,3,2
+Cyber Security,ENG8-Y4S1U01,ENG8,4,1
+Operating Systems,ENG8-Y4S1U02,ENG8,4,1
+Distributed Systems,ENG8-Y4S1U03,ENG8,4,1
+Introduction to Programming,ENG8-Y4S1U04,ENG8,4,1
+Distributed Systems,ENG8-Y4S1U05,ENG8,4,1
+Human Computer Interaction,ENG8-Y4S1U06,ENG8,4,1
+Cyber Security,ENG8-Y4S2U01,ENG8,4,2
+Web Development,ENG8-Y4S2U02,ENG8,4,2
+Operating Systems,ENG8-Y4S2U03,ENG8,4,2
+Web Development,ENG8-Y4S2U04,ENG8,4,2
+Data Structures,ENG8-Y4S2U05,ENG8,4,2
+Artificial Intelligence,ENG8-Y4S2U06,ENG8,4,2
+Distributed Systems,ENG9-Y1S1U01,ENG9,1,1
+Human Computer Interaction,ENG9-Y1S1U02,ENG9,1,1
+Artificial Intelligence,ENG9-Y1S1U03,ENG9,1,1
+Distributed Systems,ENG9-Y1S1U04,ENG9,1,1
+Machine Learning,ENG9-Y1S1U05,ENG9,1,1
+Compiler Design,ENG9-Y1S2U01,ENG9,1,2
+Data Structures,ENG9-Y1S2U02,ENG9,1,2
+Distributed Systems,ENG9-Y1S2U03,ENG9,1,2
+Algorithms,ENG9-Y1S2U04,ENG9,1,2
+Algorithms,ENG9-Y1S2U05,ENG9,1,2
+Compiler Design,ENG9-Y1S2U06,ENG9,1,2
+Algorithms,ENG9-Y1S2U07,ENG9,1,2
+Machine Learning,ENG9-Y1S2U08,ENG9,1,2
+Artificial Intelligence,ENG9-Y2S1U01,ENG9,2,1
+Computer Networks,ENG9-Y2S1U02,ENG9,2,1
+Machine Learning,ENG9-Y2S1U03,ENG9,2,1
+Mobile Application Development,ENG9-Y2S1U04,ENG9,2,1
+Computer Networks,ENG9-Y2S1U05,ENG9,2,1
+Machine Learning,ENG9-Y2S1U06,ENG9,2,1
+Machine Learning,ENG9-Y2S2U01,ENG9,2,2
+Machine Learning,ENG9-Y2S2U02,ENG9,2,2
+Database Systems,ENG9-Y2S2U03,ENG9,2,2
+Compiler Design,ENG9-Y2S2U04,ENG9,2,2
+Data Structures,ENG9-Y2S2U05,ENG9,2,2
+Software Engineering,ENG9-Y2S2U06,ENG9,2,2
+Compiler Design,ENG9-Y3S1U01,ENG9,3,1
+Compiler Design,ENG9-Y3S1U02,ENG9,3,1
+Machine Learning,ENG9-Y3S1U03,ENG9,3,1
+Compiler Design,ENG9-Y3S1U04,ENG9,3,1
+Human Computer Interaction,ENG9-Y3S1U05,ENG9,3,1
+Compiler Design,ENG9-Y3S1U06,ENG9,3,1
+Human Computer Interaction,ENG9-Y3S1U07,ENG9,3,1
+Machine Learning,ENG9-Y3S2U01,ENG9,3,2
+Mobile Application Development,ENG9-Y3S2U02,ENG9,3,2
+Introduction to Programming,ENG9-Y3S2U03,ENG9,3,2
+Human Computer Interaction,ENG9-Y3S2U04,ENG9,3,2
+Database Systems,ENG9-Y3S2U05,ENG9,3,2
+Machine Learning,ENG9-Y3S2U06,ENG9,3,2
+Data Structures,ENG9-Y3S2U07,ENG9,3,2
+Operating Systems,ENG9-Y4S1U01,ENG9,4,1
+Operating Systems,ENG9-Y4S1U02,ENG9,4,1
+Cyber Security,ENG9-Y4S1U03,ENG9,4,1
+Computer Networks,ENG9-Y4S1U04,ENG9,4,1
+Compiler Design,ENG9-Y4S1U05,ENG9,4,1
+Data Structures,ENG9-Y4S1U06,ENG9,4,1
+Computer Networks,ENG9-Y4S1U07,ENG9,4,1
+Cyber Security,ENG9-Y4S1U08,ENG9,4,1
+Cyber Security,ENG9-Y4S2U01,ENG9,4,2
+Mobile Application Development,ENG9-Y4S2U02,ENG9,4,2
+Computer Networks,ENG9-Y4S2U03,ENG9,4,2
+Operating Systems,ENG9-Y4S2U04,ENG9,4,2
+Operating Systems,ENG9-Y4S2U05,ENG9,4,2
+Operating Systems,ENG9-Y4S2U06,ENG9,4,2
+Compiler Design,ENG9-Y4S2U07,ENG9,4,2
+Cyber Security,ENG9-Y4S2U08,ENG9,4,2
+Distributed Systems,ENG10-Y1S1U01,ENG10,1,1
+Compiler Design,ENG10-Y1S1U02,ENG10,1,1
+Artificial Intelligence,ENG10-Y1S1U03,ENG10,1,1
+Machine Learning,ENG10-Y1S1U04,ENG10,1,1
+Cyber Security,ENG10-Y1S1U05,ENG10,1,1
+Cyber Security,ENG10-Y1S1U06,ENG10,1,1
+Data Structures,ENG10-Y1S1U07,ENG10,1,1
+Computer Networks,ENG10-Y1S1U08,ENG10,1,1
+Operating Systems,ENG10-Y1S2U01,ENG10,1,2
+Database Systems,ENG10-Y1S2U02,ENG10,1,2
+Compiler Design,ENG10-Y1S2U03,ENG10,1,2
+Algorithms,ENG10-Y1S2U04,ENG10,1,2
+Software Engineering,ENG10-Y1S2U05,ENG10,1,2
+Database Systems,ENG10-Y1S2U06,ENG10,1,2
+Web Development,ENG10-Y1S2U07,ENG10,1,2
+Distributed Systems,ENG10-Y1S2U08,ENG10,1,2
+Artificial Intelligence,ENG10-Y1S2U09,ENG10,1,2
+Operating Systems,ENG10-Y2S1U01,ENG10,2,1
+Operating Systems,ENG10-Y2S1U02,ENG10,2,1
+Operating Systems,ENG10-Y2S1U03,ENG10,2,1
+Data Structures,ENG10-Y2S1U04,ENG10,2,1
+Data Structures,ENG10-Y2S1U05,ENG10,2,1
+Database Systems,ENG10-Y2S1U06,ENG10,2,1
+Data Structures,ENG10-Y2S1U07,ENG10,2,1
+Database Systems,ENG10-Y2S1U08,ENG10,2,1
+Algorithms,ENG10-Y2S1U09,ENG10,2,1
+Distributed Systems,ENG10-Y2S2U01,ENG10,2,2
+Algorithms,ENG10-Y2S2U02,ENG10,2,2
+Human Computer Interaction,ENG10-Y2S2U03,ENG10,2,2
+Compiler Design,ENG10-Y2S2U04,ENG10,2,2
+Mobile Application Development,ENG10-Y2S2U05,ENG10,2,2
+Artificial Intelligence,ENG10-Y2S2U06,ENG10,2,2
+Operating Systems,ENG10-Y2S2U07,ENG10,2,2
+Human Computer Interaction,ENG10-Y2S2U08,ENG10,2,2
+Mobile Application Development,ENG10-Y2S2U09,ENG10,2,2
+Machine Learning,ENG10-Y3S1U01,ENG10,3,1
+Compiler Design,ENG10-Y3S1U02,ENG10,3,1
+Compiler Design,ENG10-Y3S1U03,ENG10,3,1
+Mobile Application Development,ENG10-Y3S1U04,ENG10,3,1
+Machine Learning,ENG10-Y3S1U05,ENG10,3,1
+Operating Systems,ENG10-Y3S1U06,ENG10,3,1
+Machine Learning,ENG10-Y3S1U07,ENG10,3,1
+Operating Systems,ENG10-Y3S1U08,ENG10,3,1
+Mobile Application Development,ENG10-Y3S1U09,ENG10,3,1
+Distributed Systems,ENG10-Y3S2U01,ENG10,3,2
+Introduction to Programming,ENG10-Y3S2U02,ENG10,3,2
+Software Engineering,ENG10-Y3S2U03,ENG10,3,2
+Compiler Design,ENG10-Y3S2U04,ENG10,3,2
+Cyber Security,ENG10-Y3S2U05,ENG10,3,2
+Mobile Application Development,ENG10-Y3S2U06,ENG10,3,2
+Introduction to Programming,ENG10-Y3S2U07,ENG10,3,2
+Machine Learning,ENG10-Y4S1U01,ENG10,4,1
+Database Systems,ENG10-Y4S1U02,ENG10,4,1
+Operating Systems,ENG10-Y4S1U03,ENG10,4,1
+Web Development,ENG10-Y4S1U04,ENG10,4,1
+Artificial Intelligence,ENG10-Y4S1U05,ENG10,4,1
+Software Engineering,ENG10-Y4S1U06,ENG10,4,1
+Distributed Systems,ENG10-Y4S1U07,ENG10,4,1
+Distributed Systems,ENG10-Y4S1U08,ENG10,4,1
+Distributed Systems,ENG10-Y4S1U09,ENG10,4,1
+Distributed Systems,ENG10-Y4S2U01,ENG10,4,2
+Compiler Design,ENG10-Y4S2U02,ENG10,4,2
+Introduction to Programming,ENG10-Y4S2U03,ENG10,4,2
+Database Systems,ENG10-Y4S2U04,ENG10,4,2
+Operating Systems,ENG10-Y4S2U05,ENG10,4,2
+Computer Networks,ENG10-Y4S2U06,ENG10,4,2
+Data Structures,ENG10-Y4S2U07,ENG10,4,2
+Operating Systems,ENG10-Y4S2U08,ENG10,4,2
+Algorithms,ENG10-Y4S2U09,ENG10,4,2
+Computer Networks,BC1-Y1S1U01,BC1,1,1
+Artificial Intelligence,BC1-Y1S1U02,BC1,1,1
+Mobile Application Development,BC1-Y1S1U03,BC1,1,1
+Compiler Design,BC1-Y1S1U04,BC1,1,1
+Web Development,BC1-Y1S1U05,BC1,1,1
+Machine Learning,BC1-Y1S1U06,BC1,1,1
+Artificial Intelligence,BC1-Y1S1U07,BC1,1,1
+Human Computer Interaction,BC1-Y1S1U08,BC1,1,1
+Artificial Intelligence,BC1-Y1S2U01,BC1,1,2
+Artificial Intelligence,BC1-Y1S2U02,BC1,1,2
+Mobile Application Development,BC1-Y1S2U03,BC1,1,2
+Algorithms,BC1-Y1S2U04,BC1,1,2
+Web Development,BC1-Y1S2U05,BC1,1,2
+Data Structures,BC1-Y2S1U01,BC1,2,1
+Distributed Systems,BC1-Y2S1U02,BC1,2,1
+Web Development,BC1-Y2S1U03,BC1,2,1
+Compiler Design,BC1-Y2S1U04,BC1,2,1
+Database Systems,BC1-Y2S1U05,BC1,2,1
+Algorithms,BC1-Y2S1U06,BC1,2,1
+Algorithms,BC1-Y2S2U01,BC1,2,2
+Compiler Design,BC1-Y2S2U02,BC1,2,2
+Algorithms,BC1-Y2S2U03,BC1,2,2
+Human Computer Interaction,BC1-Y2S2U04,BC1,2,2
+Distributed Systems,BC1-Y2S2U05,BC1,2,2
+Human Computer Interaction,BC1-Y2S2U06,BC1,2,2
+Compiler Design,BC1-Y3S1U01,BC1,3,1
+Computer Networks,BC1-Y3S1U02,BC1,3,1
+Distributed Systems,BC1-Y3S1U03,BC1,3,1
+Cyber Security,BC1-Y3S1U04,BC1,3,1
+Database Systems,BC1-Y3S1U05,BC1,3,1
+Artificial Intelligence,BC1-Y3S1U06,BC1,3,1
+Software Engineering,BC1-Y3S1U07,BC1,3,1
+Web Development,BC1-Y3S1U08,BC1,3,1
+Compiler Design,BC1-Y3S1U09,BC1,3,1
+Mobile Application Development,BC1-Y3S2U01,BC1,3,2
+Algorithms,BC1-Y3S2U02,BC1,3,2
+Mobile Application Development,BC1-Y3S2U03,BC1,3,2
+Web Development,BC1-Y3S2U04,BC1,3,2
+Web Development,BC1-Y3S2U05,BC1,3,2
+Mobile Application Development,BC1-Y3S2U06,BC1,3,2
+Operating Systems,BC1-Y3S2U07,BC1,3,2
+Human Computer Interaction,BC1-Y3S2U08,BC1,3,2
+Machine Learning,BC1-Y4S1U01,BC1,4,1
+Database Systems,BC1-Y4S1U02,BC1,4,1
+Database Systems,BC1-Y4S1U03,BC1,4,1
+Cyber Security,BC1-Y4S1U04,BC1,4,1
+Algorithms,BC1-Y4S1U05,BC1,4,1
+Distributed Systems,BC1-Y4S2U01,BC1,4,2
+Human Computer Interaction,BC1-Y4S2U02,BC1,4,2
+Human Computer Interaction,BC1-Y4S2U03,BC1,4,2
+Database Systems,BC1-Y4S2U04,BC1,4,2
+Distributed Systems,BC1-Y4S2U05,BC1,4,2
+Web Development,BC1-Y4S2U06,BC1,4,2
+Distributed Systems,BC2-Y1S1U01,BC2,1,1
+Algorithms,BC2-Y1S1U02,BC2,1,1
+Data Structures,BC2-Y1S1U03,BC2,1,1
+Web Development,BC2-Y1S1U04,BC2,1,1
+Artificial Intelligence,BC2-Y1S1U05,BC2,1,1
+Computer Networks,BC2-Y1S2U01,BC2,1,2
+Database Systems,BC2-Y1S2U02,BC2,1,2
+Algorithms,BC2-Y1S2U03,BC2,1,2
+Distributed Systems,BC2-Y1S2U04,BC2,1,2
+Introduction to Programming,BC2-Y1S2U05,BC2,1,2
+Machine Learning,BC2-Y1S2U06,BC2,1,2
+Algorithms,BC2-Y1S2U07,BC2,1,2
+Computer Networks,BC2-Y2S1U01,BC2,2,1
+Operating Systems,BC2-Y2S1U02,BC2,2,1
+Algorithms,BC2-Y2S1U03,BC2,2,1
+Introduction to Programming,BC2-Y2S1U04,BC2,2,1
+Machine Learning,BC2-Y2S1U05,BC2,2,1
+Software Engineering,BC2-Y2S1U06,BC2,2,1
+Compiler Design,BC2-Y2S1U07,BC2,2,1
+Introduction to Programming,BC2-Y2S1U08,BC2,2,1
+Cyber Security,BC2-Y2S2U01,BC2,2,2
+Operating Systems,BC2-Y2S2U02,BC2,2,2
+Computer Networks,BC2-Y2S2U03,BC2,2,2
+Operating Systems,BC2-Y2S2U04,BC2,2,2
+Machine Learning,BC2-Y2S2U05,BC2,2,2
+Introduction to Programming,BC2-Y3S1U01,BC2,3,1
+Cyber Security,BC2-Y3S1U02,BC2,3,1
+Data Structures,BC2-Y3S1U03,BC2,3,1
+Distributed Systems,BC2-Y3S1U04,BC2,3,1
+Human Computer Interaction,BC2-Y3S1U05,BC2,3,1
+Human Computer Interaction,BC2-Y3S1U06,BC2,3,1
+Software Engineering,BC2-Y3S1U07,BC2,3,1
+Data Structures,BC2-Y3S1U08,BC2,3,1
+Human Computer Interaction,BC2-Y3S1U09,BC2,3,1
+Web Development,BC2-Y3S2U01,BC2,3,2
+Mobile Application Development,BC2-Y3S2U02,BC2,3,2
+Computer Networks,BC2-Y3S2U03,BC2,3,2
+Distributed Systems,BC2-Y3S2U04,BC2,3,2
+Mobile Application Development,BC2-Y3S2U05,BC2,3,2
+Software Engineering,BC2-Y3S2U06,BC2,3,2
+Algorithms,BC2-Y4S1U01,BC2,4,1
+Software Engineering,BC2-Y4S1U02,BC2,4,1
+Human Computer Interaction,BC2-Y4S1U03,BC2,4,1
+Machine Learning,BC2-Y4S1U04,BC2,4,1
+Machine Learning,BC2-Y4S1U05,BC2,4,1
+Artificial Intelligence,BC2-Y4S2U01,BC2,4,2
+Mobile Application Development,BC2-Y4S2U02,BC2,4,2
+Machine Learning,BC2-Y4S2U03,BC2,4,2
+Mobile Application Development,BC2-Y4S2U04,BC2,4,2
+Mobile Application Development,BC2-Y4S2U05,BC2,4,2
+Mobile Application Development,BC2-Y4S2U06,BC2,4,2
+Human Computer Interaction,BC3-Y1S1U01,BC3,1,1
+Mobile Application Development,BC3-Y1S1U02,BC3,1,1
+Distributed Systems,BC3-Y1S1U03,BC3,1,1
+Compiler Design,BC3-Y1S1U04,BC3,1,1
+Mobile Application Development,BC3-Y1S1U05,BC3,1,1
+Data Structures,BC3-Y1S1U06,BC3,1,1
+Algorithms,BC3-Y1S2U01,BC3,1,2
+Algorithms,BC3-Y1S2U02,BC3,1,2
+Computer Networks,BC3-Y1S2U03,BC3,1,2
+Database Systems,BC3-Y1S2U04,BC3,1,2
+Operating Systems,BC3-Y1S2U05,BC3,1,2
+Compiler Design,BC3-Y1S2U06,BC3,1,2
+Introduction to Programming,BC3-Y2S1U01,BC3,2,1
+Data Structures,BC3-Y2S1U02,BC3,2,1
+Introduction to Programming,BC3-Y2S1U03,BC3,2,1
+Mobile Application Development,BC3-Y2S1U04,BC3,2,1
+Machine Learning,BC3-Y2S1U05,BC3,2,1
+Web Development,BC3-Y2S1U06,BC3,2,1
+Web Development,BC3-Y2S1U07,BC3,2,1
+Human Computer Interaction,BC3-Y2S1U08,BC3,2,1
+Compiler Design,BC3-Y2S2U01,BC3,2,2
+Introduction to Programming,BC3-Y2S2U02,BC3,2,2
+Cyber Security,BC3-Y2S2U03,BC3,2,2
+Database Systems,BC3-Y2S2U04,BC3,2,2
+Distributed Systems,BC3-Y2S2U05,BC3,2,2
+Data Structures,BC3-Y2S2U06,BC3,2,2
+Cyber Security,BC3-Y2S2U07,BC3,2,2
+Artificial Intelligence,BC3-Y2S2U08,BC3,2,2
+Mobile Application Development,BC3-Y2S2U09,BC3,2,2
+Data Structures,BC3-Y3S1U01,BC3,3,1
+Machine Learning,BC3-Y3S1U02,BC3,3,1
+Compiler Design,BC3-Y3S1U03,BC3,3,1
+Algorithms,BC3-Y3S1U04,BC3,3,1
+Machine Learning,BC3-Y3S1U05,BC3,3,1
+Operating Systems,BC3-Y3S1U06,BC3,3,1
+Web Development,BC3-Y3S2U01,BC3,3,2
+Software Engineering,BC3-Y3S2U02,BC3,3,2
+Distributed Systems,BC3-Y3S2U03,BC3,3,2
+Distributed Systems,BC3-Y3S2U04,BC3,3,2
+Compiler Design,BC3-Y3S2U05,BC3,3,2
+Web Development,BC3-Y3S2U06,BC3,3,2
+Data Structures,BC3-Y3S2U07,BC3,3,2
+Database Systems,BC3-Y3S2U08,BC3,3,2
+Operating Systems,BC3-Y4S1U01,BC3,4,1
+Human Computer Interaction,BC3-Y4S1U02,BC3,4,1
+Data Structures,BC3-Y4S1U03,BC3,4,1
+Mobile Application Development,BC3-Y4S1U04,BC3,4,1
+Cyber Security,BC3-Y4S1U05,BC3,4,1
+Compiler Design,BC3-Y4S1U06,BC3,4,1
+Distributed Systems,BC3-Y4S2U01,BC3,4,2
+Human Computer Interaction,BC3-Y4S2U02,BC3,4,2
+Mobile Application Development,BC3-Y4S2U03,BC3,4,2
+Computer Networks,BC3-Y4S2U04,BC3,4,2
+Database Systems,BC3-Y4S2U05,BC3,4,2
+Human Computer Interaction,BC3-Y4S2U06,BC3,4,2
+Distributed Systems,BC3-Y4S2U07,BC3,4,2
+Artificial Intelligence,BC4-Y1S1U01,BC4,1,1
+Introduction to Programming,BC4-Y1S1U02,BC4,1,1
+Algorithms,BC4-Y1S1U03,BC4,1,1
+Computer Networks,BC4-Y1S1U04,BC4,1,1
+Introduction to Programming,BC4-Y1S1U05,BC4,1,1
+Data Structures,BC4-Y1S1U06,BC4,1,1
+Data Structures,BC4-Y1S1U07,BC4,1,1
+Machine Learning,BC4-Y1S2U01,BC4,1,2
+Operating Systems,BC4-Y1S2U02,BC4,1,2
+Cyber Security,BC4-Y1S2U03,BC4,1,2
+Computer Networks,BC4-Y1S2U04,BC4,1,2
+Machine Learning,BC4-Y1S2U05,BC4,1,2
+Introduction to Programming,BC4-Y2S1U01,BC4,2,1
+Algorithms,BC4-Y2S1U02,BC4,2,1
+Compiler Design,BC4-Y2S1U03,BC4,2,1
+Mobile Application Development,BC4-Y2S1U04,BC4,2,1
+Compiler Design,BC4-Y2S1U05,BC4,2,1
+Machine Learning,BC4-Y2S1U06,BC4,2,1
+Artificial Intelligence,BC4-Y2S1U07,BC4,2,1
+Cyber Security,BC4-Y2S1U08,BC4,2,1
+Database Systems,BC4-Y2S2U01,BC4,2,2
+Operating Systems,BC4-Y2S2U02,BC4,2,2
+Human Computer Interaction,BC4-Y2S2U03,BC4,2,2
+Human Computer Interaction,BC4-Y2S2U04,BC4,2,2
+Cyber Security,BC4-Y2S2U05,BC4,2,2
+Human Computer Interaction,BC4-Y2S2U06,BC4,2,2
+Distributed Systems,BC4-Y2S2U07,BC4,2,2
+Cyber Security,BC4-Y2S2U08,BC4,2,2
+Cyber Security,BC4-Y2S2U09,BC4,2,2
+Software Engineering,BC4-Y3S1U01,BC4,3,1
+Machine Learning,BC4-Y3S1U02,BC4,3,1
+Distributed Systems,BC4-Y3S1U03,BC4,3,1
+Introduction to Programming,BC4-Y3S1U04,BC4,3,1
+Computer Networks,BC4-Y3S1U05,BC4,3,1
+Artificial Intelligence,BC4-Y3S1U06,BC4,3,1
+Operating Systems,BC4-Y3S2U01,BC4,3,2
+Compiler Design,BC4-Y3S2U02,BC4,3,2
+Artificial Intelligence,BC4-Y3S2U03,BC4,3,2
+Introduction to Programming,BC4-Y3S2U04,BC4,3,2
+Algorithms,BC4-Y3S2U05,BC4,3,2
+Compiler Design,BC4-Y3S2U06,BC4,3,2
+Introduction to Programming,BC4-Y3S2U07,BC4,3,2
+Cyber Security,BC4-Y4S1U01,BC4,4,1
+Mobile Application Development,BC4-Y4S1U02,BC4,4,1
+Human Computer Interaction,BC4-Y4S1U03,BC4,4,1
+Mobile Application Development,BC4-Y4S1U04,BC4,4,1
+Introduction to Programming,BC4-Y4S1U05,BC4,4,1
+Machine Learning,BC4-Y4S1U06,BC4,4,1
+Distributed Systems,BC4-Y4S1U07,BC4,4,1
+Distributed Systems,BC4-Y4S2U01,BC4,4,2
+Human Computer Interaction,BC4-Y4S2U02,BC4,4,2
+Operating Systems,BC4-Y4S2U03,BC4,4,2
+Introduction to Programming,BC4-Y4S2U04,BC4,4,2
+Algorithms,BC4-Y4S2U05,BC4,4,2
+Human Computer Interaction,BC4-Y4S2U06,BC4,4,2
+Computer Networks,BC5-Y1S1U01,BC5,1,1
+Database Systems,BC5-Y1S1U02,BC5,1,1
+Compiler Design,BC5-Y1S1U03,BC5,1,1
+Artificial Intelligence,BC5-Y1S1U04,BC5,1,1
+Database Systems,BC5-Y1S1U05,BC5,1,1
+Web Development,BC5-Y1S1U06,BC5,1,1
+Compiler Design,BC5-Y1S2U01,BC5,1,2
+Cyber Security,BC5-Y1S2U02,BC5,1,2
+Mobile Application Development,BC5-Y1S2U03,BC5,1,2
+Distributed Systems,BC5-Y1S2U04,BC5,1,2
+Algorithms,BC5-Y1S2U05,BC5,1,2
+Distributed Systems,BC5-Y1S2U06,BC5,1,2
+Mobile Application Development,BC5-Y1S2U07,BC5,1,2
+Web Development,BC5-Y1S2U08,BC5,1,2
+Algorithms,BC5-Y1S2U09,BC5,1,2
+Data Structures,BC5-Y2S1U01,BC5,2,1
+Data Structures,BC5-Y2S1U02,BC5,2,1
+Artificial Intelligence,BC5-Y2S1U03,BC5,2,1
+Human Computer Interaction,BC5-Y2S1U04,BC5,2,1
+Web Development,BC5-Y2S1U05,BC5,2,1
+Web Development,BC5-Y2S1U06,BC5,2,1
+Algorithms,BC5-Y2S1U07,BC5,2,1
+Operating Systems,BC5-Y2S1U08,BC5,2,1
+Software Engineering,BC5-Y2S1U09,BC5,2,1
+Machine Learning,BC5-Y2S2U01,BC5,2,2
+Algorithms,BC5-Y2S2U02,BC5,2,2
+Introduction to Programming,BC5-Y2S2U03,BC5,2,2
+Mobile Application Development,BC5-Y2S2U04,BC5,2,2
+Artificial Intelligence,BC5-Y2S2U05,BC5,2,2
+Database Systems,BC5-Y3S1U01,BC5,3,1
+Data Structures,BC5-Y3S1U02,BC5,3,1
+Computer Networks,BC5-Y3S1U03,BC5,3,1
+Distributed Systems,BC5-Y3S1U04,BC5,3,1
+Cyber Security,BC5-Y3S1U05,BC5,3,1
+Operating Systems,BC5-Y3S1U06,BC5,3,1
+Operating Systems,BC5-Y3S1U07,BC5,3,1
+Distributed Systems,BC5-Y3S2U01,BC5,3,2
+Mobile Application Development,BC5-Y3S2U02,BC5,3,2
+Operating Systems,BC5-Y3S2U03,BC5,3,2
+Operating Systems,BC5-Y3S2U04,BC5,3,2
+Computer Networks,BC5-Y3S2U05,BC5,3,2
+Introduction to Programming,BC5-Y3S2U06,BC5,3,2
+Cyber Security,BC5-Y3S2U07,BC5,3,2
+Computer Networks,BC5-Y3S2U08,BC5,3,2
+Software Engineering,BC5-Y4S1U01,BC5,4,1
+Data Structures,BC5-Y4S1U02,BC5,4,1
+Database Systems,BC5-Y4S1U03,BC5,4,1
+Algorithms,BC5-Y4S1U04,BC5,4,1
+Computer Networks,BC5-Y4S1U05,BC5,4,1
+Cyber Security,BC5-Y4S1U06,BC5,4,1
+Algorithms,BC5-Y4S2U01,BC5,4,2
+Human Computer Interaction,BC5-Y4S2U02,BC5,4,2
+Compiler Design,BC5-Y4S2U03,BC5,4,2
+Introduction to Programming,BC5-Y4S2U04,BC5,4,2
+Compiler Design,BC5-Y4S2U05,BC5,4,2
+Artificial Intelligence,BC5-Y4S2U06,BC5,4,2
+Software Engineering,BC6-Y1S1U01,BC6,1,1
+Machine Learning,BC6-Y1S1U02,BC6,1,1
+Human Computer Interaction,BC6-Y1S1U03,BC6,1,1
+Introduction to Programming,BC6-Y1S1U04,BC6,1,1
+Machine Learning,BC6-Y1S1U05,BC6,1,1
+Human Computer Interaction,BC6-Y1S1U06,BC6,1,1
+Compiler Design,BC6-Y1S2U01,BC6,1,2
+Mobile Application Development,BC6-Y1S2U02,BC6,1,2
+Computer Networks,BC6-Y1S2U03,BC6,1,2
+Machine Learning,BC6-Y1S2U04,BC6,1,2
+Artificial Intelligence,BC6-Y1S2U05,BC6,1,2
+Compiler Design,BC6-Y1S2U06,BC6,1,2
+Database Systems,BC6-Y1S2U07,BC6,1,2
+Computer Networks,BC6-Y1S2U08,BC6,1,2
+Compiler Design,BC6-Y1S2U09,BC6,1,2
+Computer Networks,BC6-Y2S1U01,BC6,2,1
+Artificial Intelligence,BC6-Y2S1U02,BC6,2,1
+Machine Learning,BC6-Y2S1U03,BC6,2,1
+Distributed Systems,BC6-Y2S1U04,BC6,2,1
+Introduction to Programming,BC6-Y2S1U05,BC6,2,1
+Mobile Application Development,BC6-Y2S1U06,BC6,2,1
+Machine Learning,BC6-Y2S2U01,BC6,2,2
+Algorithms,BC6-Y2S2U02,BC6,2,2
+Compiler Design,BC6-Y2S2U03,BC6,2,2
+Algorithms,BC6-Y2S2U04,BC6,2,2
+Distributed Systems,BC6-Y2S2U05,BC6,2,2
+Mobile Application Development,BC6-Y3S1U01,BC6,3,1
+Compiler Design,BC6-Y3S1U02,BC6,3,1
+Computer Networks,BC6-Y3S1U03,BC6,3,1
+Cyber Security,BC6-Y3S1U04,BC6,3,1
+Mobile Application Development,BC6-Y3S1U05,BC6,3,1
+Compiler Design,BC6-Y3S2U01,BC6,3,2
+Algorithms,BC6-Y3S2U02,BC6,3,2
+Cyber Security,BC6-Y3S2U03,BC6,3,2
+Data Structures,BC6-Y3S2U04,BC6,3,2
+Distributed Systems,BC6-Y3S2U05,BC6,3,2
+Compiler Design,BC6-Y4S1U01,BC6,4,1
+Web Development,BC6-Y4S1U02,BC6,4,1
+Artificial Intelligence,BC6-Y4S1U03,BC6,4,1
+Artificial Intelligence,BC6-Y4S1U04,BC6,4,1
+Human Computer Interaction,BC6-Y4S1U05,BC6,4,1
+Algorithms,BC6-Y4S2U01,BC6,4,2
+Human Computer Interaction,BC6-Y4S2U02,BC6,4,2
+Artificial Intelligence,BC6-Y4S2U03,BC6,4,2
+Compiler Design,BC6-Y4S2U04,BC6,4,2
+Human Computer Interaction,BC6-Y4S2U05,BC6,4,2
+Artificial Intelligence,BC6-Y4S2U06,BC6,4,2
+Cyber Security,BC6-Y4S2U07,BC6,4,2
+Data Structures,BC6-Y4S2U08,BC6,4,2
+Compiler Design,BC7-Y1S1U01,BC7,1,1
+Web Development,BC7-Y1S1U02,BC7,1,1
+Operating Systems,BC7-Y1S1U03,BC7,1,1
+Web Development,BC7-Y1S1U04,BC7,1,1
+Introduction to Programming,BC7-Y1S1U05,BC7,1,1
+Compiler Design,BC7-Y1S2U01,BC7,1,2
+Mobile Application Development,BC7-Y1S2U02,BC7,1,2
+Web Development,BC7-Y1S2U03,BC7,1,2
+Introduction to Programming,BC7-Y1S2U04,BC7,1,2
+Machine Learning,BC7-Y1S2U05,BC7,1,2
+Algorithms,BC7-Y1S2U06,BC7,1,2
+Computer Networks,BC7-Y1S2U07,BC7,1,2
+Compiler Design,BC7-Y2S1U01,BC7,2,1
+Distributed Systems,BC7-Y2S1U02,BC7,2,1
+Computer Networks,BC7-Y2S1U03,BC7,2,1
+Web Development,BC7-Y2S1U04,BC7,2,1
+Mobile Application Development,BC7-Y2S1U05,BC7,2,1
+Human Computer Interaction,BC7-Y2S2U01,BC7,2,2
+Data Structures,BC7-Y2S2U02,BC7,2,2
+Distributed Systems,BC7-Y2S2U03,BC7,2,2
+Web Development,BC7-Y2S2U04,BC7,2,2
+Mobile Application Development,BC7-Y2S2U05,BC7,2,2
+Operating Systems,BC7-Y2S2U06,BC7,2,2
+Cyber Security,BC7-Y3S1U01,BC7,3,1
+Computer Networks,BC7-Y3S1U02,BC7,3,1
+Data Structures,BC7-Y3S1U03,BC7,3,1
+Artificial Intelligence,BC7-Y3S1U04,BC7,3,1
+Data Structures,BC7-Y3S1U05,BC7,3,1
+Human Computer Interaction,BC7-Y3S1U06,BC7,3,1
+Algorithms,BC7-Y3S2U01,BC7,3,2
+Operating Systems,BC7-Y3S2U02,BC7,3,2
+Web Development,BC7-Y3S2U03,BC7,3,2
+Computer Networks,BC7-Y3S2U04,BC7,3,2
+Operating Systems,BC7-Y3S2U05,BC7,3,2
+Data Structures,BC7-Y3S2U06,BC7,3,2
+Artificial Intelligence,BC7-Y3S2U07,BC7,3,2
+Web Development,BC7-Y4S1U01,BC7,4,1
+Cyber Security,BC7-Y4S1U02,BC7,4,1
+Computer Networks,BC7-Y4S1U03,BC7,4,1
+Distributed Systems,BC7-Y4S1U04,BC7,4,1
+Cyber Security,BC7-Y4S1U05,BC7,4,1
+Mobile Application Development,BC7-Y4S1U06,BC7,4,1
+Artificial Intelligence,BC7-Y4S1U07,BC7,4,1
+Cyber Security,BC7-Y4S2U01,BC7,4,2
+Database Systems,BC7-Y4S2U02,BC7,4,2
+Compiler Design,BC7-Y4S2U03,BC7,4,2
+Human Computer Interaction,BC7-Y4S2U04,BC7,4,2
+Operating Systems,BC7-Y4S2U05,BC7,4,2
+Machine Learning,BC8-Y1S1U01,BC8,1,1
+Algorithms,BC8-Y1S1U02,BC8,1,1
+Data Structures,BC8-Y1S1U03,BC8,1,1
+Data Structures,BC8-Y1S1U04,BC8,1,1
+Database Systems,BC8-Y1S1U05,BC8,1,1
+Algorithms,BC8-Y1S1U06,BC8,1,1
+Artificial Intelligence,BC8-Y1S1U07,BC8,1,1
+Software Engineering,BC8-Y1S2U01,BC8,1,2
+Database Systems,BC8-Y1S2U02,BC8,1,2
+Artificial Intelligence,BC8-Y1S2U03,BC8,1,2
+Artificial Intelligence,BC8-Y1S2U04,BC8,1,2
+Machine Learning,BC8-Y1S2U05,BC8,1,2
+Data Structures,BC8-Y1S2U06,BC8,1,2
+Data Structures,BC8-Y1S2U07,BC8,1,2
+Database Systems,BC8-Y1S2U08,BC8,1,2
+Software Engineering,BC8-Y1S2U09,BC8,1,2
+Web Development,BC8-Y2S1U01,BC8,2,1
+Data Structures,BC8-Y2S1U02,BC8,2,1
+Introduction to Programming,BC8-Y2S1U03,BC8,2,1
+Database Systems,BC8-Y2S1U04,BC8,2,1
+Machine Learning,BC8-Y2S1U05,BC8,2,1
+Algorithms,BC8-Y2S1U06,BC8,2,1
+Software Engineering,BC8-Y2S1U07,BC8,2,1
+Compiler Design,BC8-Y2S1U08,BC8,2,1
+Machine Learning,BC8-Y2S1U09,BC8,2,1
+Operating Systems,BC8-Y2S2U01,BC8,2,2
+Machine Learning,BC8-Y2S2U02,BC8,2,2
+Artificial Intelligence,BC8-Y2S2U03,BC8,2,2
+Web Development,BC8-Y2S2U04,BC8,2,2
+Machine Learning,BC8-Y2S2U05,BC8,2,2
+Algorithms,BC8-Y2S2U06,BC8,2,2
+Computer Networks,BC8-Y2S2U07,BC8,2,2
+Data Structures,BC8-Y3S1U01,BC8,3,1
+Data Structures,BC8-Y3S1U02,BC8,3,1
+Introduction to Programming,BC8-Y3S1U03,BC8,3,1
+Operating Systems,BC8-Y3S1U04,BC8,3,1
+Machine Learning,BC8-Y3S1U05,BC8,3,1
+Distributed Systems,BC8-Y3S2U01,BC8,3,2
+Software Engineering,BC8-Y3S2U02,BC8,3,2
+Cyber Security,BC8-Y3S2U03,BC8,3,2
+Mobile Application Development,BC8-Y3S2U04,BC8,3,2
+Cyber Security,BC8-Y3S2U05,BC8,3,2
+Cyber Security,BC8-Y3S2U06,BC8,3,2
+Artificial Intelligence,BC8-Y3S2U07,BC8,3,2
+Introduction to Programming,BC8-Y3S2U08,BC8,3,2
+Compiler Design,BC8-Y3S2U09,BC8,3,2
+Software Engineering,BC8-Y4S1U01,BC8,4,1
+Distributed Systems,BC8-Y4S1U02,BC8,4,1
+Database Systems,BC8-Y4S1U03,BC8,4,1
+Operating Systems,BC8-Y4S1U04,BC8,4,1
+Distributed Systems,BC8-Y4S1U05,BC8,4,1
+Compiler Design,BC8-Y4S1U06,BC8,4,1
+Artificial Intelligence,BC8-Y4S1U07,BC8,4,1
+Mobile Application Development,BC8-Y4S1U08,BC8,4,1
+Compiler Design,BC8-Y4S1U09,BC8,4,1
+Database Systems,BC8-Y4S2U01,BC8,4,2
+Software Engineering,BC8-Y4S2U02,BC8,4,2
+Machine Learning,BC8-Y4S2U03,BC8,4,2
+Web Development,BC8-Y4S2U04,BC8,4,2
+Artificial Intelligence,BC8-Y4S2U05,BC8,4,2
+Data Structures,BC8-Y4S2U06,BC8,4,2
+Cyber Security,BC8-Y4S2U07,BC8,4,2
+Artificial Intelligence,BC8-Y4S2U08,BC8,4,2
+Database Systems,BC9-Y1S1U01,BC9,1,1
+Web Development,BC9-Y1S1U02,BC9,1,1
+Database Systems,BC9-Y1S1U03,BC9,1,1
+Compiler Design,BC9-Y1S1U04,BC9,1,1
+Database Systems,BC9-Y1S1U05,BC9,1,1
+Data Structures,BC9-Y1S1U06,BC9,1,1
+Distributed Systems,BC9-Y1S1U07,BC9,1,1
+Computer Networks,BC9-Y1S2U01,BC9,1,2
+Human Computer Interaction,BC9-Y1S2U02,BC9,1,2
+Artificial Intelligence,BC9-Y1S2U03,BC9,1,2
+Computer Networks,BC9-Y1S2U04,BC9,1,2
+Distributed Systems,BC9-Y1S2U05,BC9,1,2
+Data Structures,BC9-Y2S1U01,BC9,2,1
+Algorithms,BC9-Y2S1U02,BC9,2,1
+Database Systems,BC9-Y2S1U03,BC9,2,1
+Compiler Design,BC9-Y2S1U04,BC9,2,1
+Artificial Intelligence,BC9-Y2S1U05,BC9,2,1
+Web Development,BC9-Y2S1U06,BC9,2,1
+Software Engineering,BC9-Y2S1U07,BC9,2,1
+Software Engineering,BC9-Y2S1U08,BC9,2,1
+Software Engineering,BC9-Y2S2U01,BC9,2,2
+Software Engineering,BC9-Y2S2U02,BC9,2,2
+Distributed Systems,BC9-Y2S2U03,BC9,2,2
+Computer Networks,BC9-Y2S2U04,BC9,2,2
+Software Engineering,BC9-Y2S2U05,BC9,2,2
+Introduction to Programming,BC9-Y2S2U06,BC9,2,2
+Data Structures,BC9-Y2S2U07,BC9,2,2
+Compiler Design,BC9-Y2S2U08,BC9,2,2
+Software Engineering,BC9-Y3S1U01,BC9,3,1
+Compiler Design,BC9-Y3S1U02,BC9,3,1
+Compiler Design,BC9-Y3S1U03,BC9,3,1
+Compiler Design,BC9-Y3S1U04,BC9,3,1
+Software Engineering,BC9-Y3S1U05,BC9,3,1
+Machine Learning,BC9-Y3S1U06,BC9,3,1
+Database Systems,BC9-Y3S2U01,BC9,3,2
+Data Structures,BC9-Y3S2U02,BC9,3,2
+Cyber Security,BC9-Y3S2U03,BC9,3,2
+Compiler Design,BC9-Y3S2U04,BC9,3,2
+Cyber Security,BC9-Y3S2U05,BC9,3,2
+Algorithms,BC9-Y3S2U06,BC9,3,2
+Mobile Application Development,BC9-Y3S2U07,BC9,3,2
+Introduction to Programming,BC9-Y3S2U08,BC9,3,2
+Mobile Application Development,BC9-Y3S2U09,BC9,3,2
+Web Development,BC9-Y4S1U01,BC9,4,1
+Artificial Intelligence,BC9-Y4S1U02,BC9,4,1
+Web Development,BC9-Y4S1U03,BC9,4,1
+Cyber Security,BC9-Y4S1U04,BC9,4,1
+Data Structures,BC9-Y4S1U05,BC9,4,1
+Web Development,BC9-Y4S1U06,BC9,4,1
+Introduction to Programming,BC9-Y4S2U01,BC9,4,2
+Algorithms,BC9-Y4S2U02,BC9,4,2
+Mobile Application Development,BC9-Y4S2U03,BC9,4,2
+Artificial Intelligence,BC9-Y4S2U04,BC9,4,2
+Artificial Intelligence,BC9-Y4S2U05,BC9,4,2
+Machine Learning,BC9-Y4S2U06,BC9,4,2
+Distributed Systems,BC9-Y4S2U07,BC9,4,2
+Human Computer Interaction,BC9-Y4S2U08,BC9,4,2
+Cyber Security,BC9-Y4S2U09,BC9,4,2
+Machine Learning,BC10-Y1S1U01,BC10,1,1
+Computer Networks,BC10-Y1S1U02,BC10,1,1
+Mobile Application Development,BC10-Y1S1U03,BC10,1,1
+Artificial Intelligence,BC10-Y1S1U04,BC10,1,1
+Database Systems,BC10-Y1S1U05,BC10,1,1
+Computer Networks,BC10-Y1S1U06,BC10,1,1
+Cyber Security,BC10-Y1S2U01,BC10,1,2
+Operating Systems,BC10-Y1S2U02,BC10,1,2
+Web Development,BC10-Y1S2U03,BC10,1,2
+Mobile Application Development,BC10-Y1S2U04,BC10,1,2
+Algorithms,BC10-Y1S2U05,BC10,1,2
+Algorithms,BC10-Y2S1U01,BC10,2,1
+Web Development,BC10-Y2S1U02,BC10,2,1
+Compiler Design,BC10-Y2S1U03,BC10,2,1
+Software Engineering,BC10-Y2S1U04,BC10,2,1
+Algorithms,BC10-Y2S1U05,BC10,2,1
+Algorithms,BC10-Y2S1U06,BC10,2,1
+Artificial Intelligence,BC10-Y2S1U07,BC10,2,1
+Web Development,BC10-Y2S1U08,BC10,2,1
+Computer Networks,BC10-Y2S2U01,BC10,2,2
+Web Development,BC10-Y2S2U02,BC10,2,2
+Mobile Application Development,BC10-Y2S2U03,BC10,2,2
+Algorithms,BC10-Y2S2U04,BC10,2,2
+Computer Networks,BC10-Y2S2U05,BC10,2,2
+Operating Systems,BC10-Y3S1U01,BC10,3,1
+Web Development,BC10-Y3S1U02,BC10,3,1
+Algorithms,BC10-Y3S1U03,BC10,3,1
+Distributed Systems,BC10-Y3S1U04,BC10,3,1
+Algorithms,BC10-Y3S1U05,BC10,3,1
+Introduction to Programming,BC10-Y3S1U06,BC10,3,1
+Introduction to Programming,BC10-Y3S1U07,BC10,3,1
+Computer Networks,BC10-Y3S2U01,BC10,3,2
+Machine Learning,BC10-Y3S2U02,BC10,3,2
+Artificial Intelligence,BC10-Y3S2U03,BC10,3,2
+Computer Networks,BC10-Y3S2U04,BC10,3,2
+Distributed Systems,BC10-Y3S2U05,BC10,3,2
+Software Engineering,BC10-Y4S1U01,BC10,4,1
+Operating Systems,BC10-Y4S1U02,BC10,4,1
+Software Engineering,BC10-Y4S1U03,BC10,4,1
+Algorithms,BC10-Y4S1U04,BC10,4,1
+Compiler Design,BC10-Y4S1U05,BC10,4,1
+Software Engineering,BC10-Y4S2U01,BC10,4,2
+Compiler Design,BC10-Y4S2U02,BC10,4,2
+Software Engineering,BC10-Y4S2U03,BC10,4,2
+Distributed Systems,BC10-Y4S2U04,BC10,4,2
+Data Structures,BC10-Y4S2U05,BC10,4,2
+Introduction to Programming,BC10-Y4S2U06,BC10,4,2
+Database Systems,BC10-Y4S2U07,BC10,4,2
+Computer Networks,BC10-Y4S2U08,BC10,4,2
